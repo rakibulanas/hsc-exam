@@ -1,0 +1,2008 @@
+[
+  {
+    "id": "con-2",
+    "topic": "concept",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি নন-পজিশনাল সংখ্যা পদ্ধতি?",
+    "options": [
+      "বাইনারি",
+      "অক্টাল",
+      "রোমান",
+      "হেক্সাডেসিমেল"
+    ],
+    "answer": 2,
+    "explanation": "রোমান সংখ্যায় অঙ্কের মান তার অবস্থানের ওপর ভিত্তি করে নির্ধারিত হয় না, তাই এটি নন-পজিশনাল।"
+  },
+  {
+    "id": "con-8",
+    "topic": "concept",
+    "difficulty": "easy",
+    "text": "৪ বিট দিয়ে সর্বোচ্চ কতটি ভিন্ন সংখ্যা প্রকাশ করা যায়?",
+    "options": [
+      "৮",
+      "১৫",
+      "১৬",
+      "৩২"
+    ],
+    "answer": 2,
+    "explanation": "n বিটে 2^n টি ভিন্ন মান হয়। তাই 2^4 = 16।"
+  },
+  {
+    "id": "con-10",
+    "topic": "concept",
+    "difficulty": "medium",
+    "text": "পজিশনাল সংখ্যা পদ্ধতির বৈশিষ্ট্য হলো—",
+    "statements": [
+      "প্রতিটি অঙ্কের মান তার অবস্থানের ওপর নির্ভর করে",
+      "প্রতিটি পদ্ধতির একটি নির্দিষ্ট ভিত্তি থাকে",
+      "ডেসিমেল পদ্ধতি এর একটি উদাহরণ"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "explanation": "তিনটি বক্তব্যই সঠিক। অবস্থান, ভিত্তি ও উদাহরণ — সবগুলোই পজিশনাল পদ্ধতির সঙ্গে মেলে।"
+  },
+  {
+    "id": "con-11",
+    "topic": "concept",
+    "difficulty": "medium",
+    "text": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ক্ষেত্রে—",
+    "statements": [
+      "এর প্রতিটি অঙ্ক ৪ বিট দিয়ে প্রকাশ করা যায়",
+      "এর সবচেয়ে বড় অঙ্ক F",
+      "এতে মোট ১০টি মৌলিক চিহ্ন আছে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "i ও ii সঠিক। হেক্সাডেসিমেলে চিহ্ন ১৬টি, ১০টি নয়।"
+  },
+  {
+    "id": "cnv-13",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1F)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(35)_8",
+      "(37)_8",
+      "(31)_8",
+      "(17)_8"
+    ],
+    "answer": 1,
+    "explanation": "1F = 00011111। ৩ বিট করে: 011 = 3, 111 = 7। উত্তর 37।"
+  },
+  {
+    "id": "cnv-14",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(64)_8 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(34)_16",
+      "(40)_16",
+      "(52)_16",
+      "(64)_16"
+    ],
+    "answer": 0,
+    "explanation": "6 = 110, 4 = 100। 110100 কে ৪ বিট করে: 0011 = 3, 0100 = 4। উত্তর 34।"
+  },
+  {
+    "id": "cnv-16",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1101)_2, (15)_8 ও (D)_16 সংখ্যা তিনটির ক্ষেত্রে কোনটি সঠিক?",
+    "options": [
+      "তিনটির মান সমান",
+      "শুধু প্রথম দুটির মান সমান",
+      "শুধু শেষ দুটির মান সমান",
+      "তিনটির মান আলাদা"
+    ],
+    "answer": 0,
+    "explanation": "(1101)_2 = 13, (15)_8 = 8 + 5 = 13, (D)_16 = 13। তিনটিই সমান।"
+  },
+  {
+    "id": "cnv-17",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1010)_2 এর সমান হলো—",
+    "statements": [
+      "(10)_10",
+      "(12)_8",
+      "(B)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "(1010)_2 = 10। (12)_8 = 10 ঠিক আছে, কিন্তু (B)_16 = 11। তাই i ও ii সঠিক।"
+  },
+  {
+    "id": "cnv-18",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(45)_10 এর সমান হলো—",
+    "statements": [
+      "(101101)_2",
+      "(55)_8",
+      "(2D)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "explanation": "32 + 8 + 4 + 1 = 45; 5×8 + 5 = 45; 2×16 + 13 = 45। তিনটিই সঠিক।"
+  },
+  {
+    "id": "cnv-19",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-a",
+    "passage": "রিমার খাতায় দুটি সংখ্যা লেখা আছে: P = (1100)_2 এবং Q = (17)_8।",
+    "text": "P এর ডেসিমেল মান কত?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "8 + 4 = 12।"
+  },
+  {
+    "id": "cnv-20",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-a",
+    "passage": "রিমার খাতায় দুটি সংখ্যা লেখা আছে: P = (1100)_2 এবং Q = (17)_8।",
+    "text": "P ও Q এর ডেসিমেল যোগফলের হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(1B)_16",
+      "(1A)_16",
+      "(27)_16",
+      "(29)_16"
+    ],
+    "answer": 0,
+    "explanation": "P = 12, Q = 8 + 7 = 15। যোগফল 27 = 16 + 11 = (1B)_16।"
+  },
+  {
+    "id": "cnv-21",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-b",
+    "passage": "একটি রেজিস্টারে জমা আছে 01101100 (৮ বিট)।",
+    "text": "সংখ্যাটির হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(6C)_16",
+      "(C6)_16",
+      "(6B)_16",
+      "(5C)_16"
+    ],
+    "answer": 0,
+    "explanation": "0110 = 6, 1100 = C। উত্তর 6C।"
+  },
+  {
+    "id": "cnv-22",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-b",
+    "passage": "একটি রেজিস্টারে জমা আছে 01101100 (৮ বিট)।",
+    "text": "সংখ্যাটির ডেসিমেল মান কত?",
+    "options": [
+      "106",
+      "108",
+      "110",
+      "116"
+    ],
+    "answer": 1,
+    "explanation": "64 + 32 + 8 + 4 = 108।"
+  },
+  {
+    "id": "ari-6",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "(9)_16 + (8)_16 = ?",
+    "options": [
+      "(11)_16",
+      "(17)_16",
+      "(1F)_16",
+      "(H)_16"
+    ],
+    "answer": 0,
+    "explanation": "9 + 8 = 17 = 16 + 1। উত্তর (11)_16।"
+  },
+  {
+    "id": "ari-7",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "(A9)_16 + (17)_16 = ?",
+    "options": [
+      "(C0)_16",
+      "(B0)_16",
+      "(BF)_16",
+      "(C9)_16"
+    ],
+    "answer": 0,
+    "explanation": "169 + 23 = 192 = 12 × 16 = (C0)_16।"
+  },
+  {
+    "id": "ari-8",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "বাইনারি যোগে—",
+    "statements": [
+      "0 + 0 = 0",
+      "1 + 0 = 1",
+      "1 + 1 = 2"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "বাইনারিতে 2 অঙ্ক নেই। 1 + 1 = 10 হয়, তাই iii ভুল।"
+  },
+  {
+    "id": "ari-9",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "setId": "set-c",
+    "passage": "দুটি বাইনারি সংখ্যা: X = 10110 এবং Y = 1101।",
+    "text": "X + Y এর মান কত?",
+    "options": [
+      "100011",
+      "100101",
+      "101011",
+      "110011"
+    ],
+    "answer": 0,
+    "explanation": "22 + 13 = 35 = 100011।"
+  },
+  {
+    "id": "ari-10",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "setId": "set-c",
+    "passage": "দুটি বাইনারি সংখ্যা: X = 10110 এবং Y = 1101।",
+    "text": "X − Y এর ডেসিমেল মান কত?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "22 − 13 = 9।"
+  },
+  {
+    "id": "sig-5",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "৮ বিট রেজিস্টারে −25 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "10011001",
+      "11100110",
+      "11100111",
+      "00011001"
+    ],
+    "answer": 2,
+    "explanation": "+25 = 00011001। উল্টে 11100110, এর সঙ্গে 1 যোগ করে 11100111।"
+  },
+  {
+    "id": "sig-7",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "৮ বিট রেজিস্টারে ২-এর পরিপূরক পদ্ধতিতে সবচেয়ে ছোট সংখ্যা কত?",
+    "options": [
+      "−127",
+      "−128",
+      "−255",
+      "−256"
+    ],
+    "answer": 1,
+    "explanation": "n বিটে পরিসর −2^(n−1) থেকে +2^(n−1) − 1। ৮ বিটে −128 থেকে +127।"
+  },
+  {
+    "id": "sig-9",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "২-এর পরিপূরক পদ্ধতিতে ৮ বিটের 11110110 কোন সংখ্যা নির্দেশ করে?",
+    "options": [
+      "−10",
+      "−9",
+      "−118",
+      "+246"
+    ],
+    "answer": 0,
+    "explanation": "সাইন বিট 1, তাই ঋণাত্মক। উল্টে 00001001, 1 যোগ করে 00001010 = 10। উত্তর −10।"
+  },
+  {
+    "id": "sig-10",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "চিহ্ন ও মান (Sign-Magnitude) পদ্ধতিতে ৮ বিটে −5 এর রূপ কোনটি?",
+    "options": [
+      "10000101",
+      "11111011",
+      "11111010",
+      "00000101"
+    ],
+    "answer": 0,
+    "explanation": "সাইন বিট 1 এবং বাকি ৭ বিটে মান 5 = 0000101। উত্তর 10000101।"
+  },
+  {
+    "id": "sig-11",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "২-এর পরিপূরক পদ্ধতি ব্যবহারের সুবিধা হলো—",
+    "statements": [
+      "যোগের সার্কিট দিয়েই বিয়োগ করা যায়",
+      "শূন্যের একটিই রূপ থাকে",
+      "ঋণাত্মক সংখ্যা প্রকাশ করা যায় না"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "i ও ii সঠিক। ঋণাত্মক সংখ্যা প্রকাশ করাই এই পদ্ধতির মূল কাজ, তাই iii ভুল।"
+  },
+  {
+    "id": "sig-12",
+    "topic": "signed",
+    "difficulty": "medium",
+    "setId": "set-d",
+    "passage": "৮ বিট রেজিস্টারে A = +18 এবং B = −7 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "B এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11111001",
+      "11111000",
+      "10000111",
+      "00000111"
+    ],
+    "answer": 0,
+    "explanation": "+7 = 00000111। উল্টে 11111000, 1 যোগ করে 11111001।"
+  },
+  {
+    "id": "sig-13",
+    "topic": "signed",
+    "difficulty": "medium",
+    "setId": "set-d",
+    "passage": "৮ বিট রেজিস্টারে A = +18 এবং B = −7 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "A + B এর ফল ৮ বিটে কোনটি?",
+    "options": [
+      "00001011",
+      "00001101",
+      "00011001",
+      "11110101"
+    ],
+    "answer": 0,
+    "explanation": "18 − 7 = 11 = 00001011। ৮ বিটের বাইরের ক্যারি বাদ যায়।"
+  },
+  {
+    "id": "cod-2",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "(59)_10 এর BCD কোড কোনটি?",
+    "options": [
+      "0101 1001",
+      "0011 1011",
+      "0101 1010",
+      "1001 0101"
+    ],
+    "answer": 0,
+    "explanation": "5 = 0101 এবং 9 = 1001।"
+  },
+  {
+    "id": "cod-3",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি বৈধ BCD কোড নয়?",
+    "options": [
+      "0011",
+      "0111",
+      "1001",
+      "1100"
+    ],
+    "answer": 3,
+    "explanation": "BCD-তে সর্বোচ্চ অঙ্ক 9 = 1001। 1100 = 12, তাই বৈধ নয়।"
+  },
+  {
+    "id": "cod-7",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "ইউনিকোড (১৬ বিট) দিয়ে সর্বোচ্চ কতটি ভিন্ন চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "২৫৬",
+      "১০২৪",
+      "৩২৭৬৮",
+      "৬৫৫৩৬"
+    ],
+    "answer": 3,
+    "explanation": "2^16 = 65536।"
+  },
+  {
+    "id": "cod-8",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "বাংলা ভাষার অক্ষর প্রকাশের জন্য কোন কোড উপযোগী?",
+    "options": [
+      "BCD",
+      "ASCII-7",
+      "EBCDIC",
+      "ইউনিকোড"
+    ],
+    "answer": 3,
+    "explanation": "ইউনিকোডে পৃথিবীর বিভিন্ন ভাষার অক্ষরের জন্য আলাদা জায়গা আছে, বাংলাও তার একটি।"
+  },
+  {
+    "id": "cod-10",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি আলফানিউমেরিক কোড?",
+    "options": [
+      "BCD",
+      "ASCII",
+      "8421",
+      "বাইনারি"
+    ],
+    "answer": 1,
+    "explanation": "ASCII দিয়ে অক্ষর, অঙ্ক ও বিশেষ চিহ্ন প্রকাশ করা যায়। BCD শুধু ডেসিমেল অঙ্কের জন্য।"
+  },
+  {
+    "id": "cod-11",
+    "topic": "codes",
+    "difficulty": "medium",
+    "text": "ইউনিকোড সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "এটি বিশ্বের বিভিন্ন ভাষার অক্ষর প্রকাশ করতে পারে",
+      "এর শুরুর সংস্করণ ১৬ বিটের",
+      "এটি শুধু ইংরেজি অক্ষরের জন্য তৈরি"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "i ও ii সঠিক। ইংরেজির বাইরের ভাষা প্রকাশ করাই ইউনিকোডের মূল উদ্দেশ্য।"
+  },
+  {
+    "id": "cod-13",
+    "topic": "codes",
+    "difficulty": "medium",
+    "setId": "set-e",
+    "passage": "একটি ডিসপ্লেতে ডেসিমেল সংখ্যা 83 দেখানোর জন্য BCD কোড পাঠানো হলো।",
+    "text": "সংখ্যাটির BCD কোড কোনটি?",
+    "options": [
+      "1000 0011",
+      "0101 0011",
+      "1000 0100",
+      "0011 1000"
+    ],
+    "answer": 0,
+    "explanation": "8 = 1000 এবং 3 = 0011।"
+  },
+  {
+    "id": "cod-14",
+    "topic": "codes",
+    "difficulty": "medium",
+    "setId": "set-e",
+    "passage": "একটি ডিসপ্লেতে ডেসিমেল সংখ্যা 83 দেখানোর জন্য BCD কোড পাঠানো হলো।",
+    "text": "সংখ্যাটির সাধারণ বাইনারি রূপ কোনটি?",
+    "options": [
+      "1010011",
+      "1000011",
+      "1010101",
+      "1100011"
+    ],
+    "answer": 0,
+    "explanation": "83 = 64 + 16 + 2 + 1 = 1010011। BCD ও সাধারণ বাইনারি এক নয়।"
+  },
+  {
+    "id": "h-con-1",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(121)_x = (49)_10 হলে x এর মান কত?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "x^2 + 2x + 1 = (x + 1)^2 = 49, তাই x + 1 = 7 এবং x = 6।"
+  },
+  {
+    "id": "h-con-2",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(31)_x = (25)_10 হলে x এর মান কত?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "3x + 1 = 25, তাই 3x = 24 এবং x = 8।"
+  },
+  {
+    "id": "h-con-3",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "৩ অঙ্কের সবচেয়ে বড় অক্টাল সংখ্যার ডেসিমেল মান কত?",
+    "options": [
+      "511",
+      "512",
+      "777",
+      "255"
+    ],
+    "answer": 0,
+    "explanation": "(777)_8 = 8^3 − 1 = 511।"
+  },
+  {
+    "id": "h-con-4",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "৪ অঙ্কের সবচেয়ে বড় হেক্সাডেসিমেল সংখ্যার ডেসিমেল মান কত?",
+    "options": [
+      "4095",
+      "65535",
+      "65536",
+      "9999"
+    ],
+    "answer": 1,
+    "explanation": "(FFFF)_16 = 16^4 − 1 = 65535।"
+  },
+  {
+    "id": "h-con-5",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(1000)_10 সংখ্যাটি বাইনারিতে লিখতে কমপক্ষে কত বিট লাগবে?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "2^9 = 512 এবং 2^10 = 1024। 1000 এর জন্য 10 বিট লাগে।"
+  },
+  {
+    "id": "h-con-6",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "কোন ভিত্তিতে 3 + 4 = 10 সত্য?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "(10)_r = r। এখানে 3 + 4 = 7, তাই r = 7।"
+  },
+  {
+    "id": "h-con-7",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "কোন ভিত্তিতে 5 × 5 = 31 সত্য?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "3r + 1 = 25, তাই r = 8।"
+  },
+  {
+    "id": "h-con-8",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "যেকোনো ভিত্তি r এর জন্য (100)_r এর মান কত?",
+    "options": [
+      "r",
+      "2r",
+      "r^2",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "(100)_r = 1×r^2 + 0 + 0 = r^2।"
+  },
+  {
+    "id": "h-con-9",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(1A2)_x সংখ্যাটি বৈধ হবে যখন x এর মান—",
+    "statements": [
+      "11",
+      "12",
+      "16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "explanation": "A এর মান 10, তাই ভিত্তি 10 এর চেয়ে বড় হতে হবে। 11, 12 ও 16 তিনটিই চলবে।"
+  },
+  {
+    "id": "h-cnv-1",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(234.5)_8 এর ডেসিমেল মান কত?",
+    "options": [
+      "156.5",
+      "156.625",
+      "154.625",
+      "157.25"
+    ],
+    "answer": 1,
+    "explanation": "128 + 24 + 4 + 5/8 = 156.625।"
+  },
+  {
+    "id": "h-cnv-2",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(3A.C)_16 এর ডেসিমেল মান কত?",
+    "options": [
+      "58.75",
+      "58.12",
+      "58.5",
+      "60.75"
+    ],
+    "answer": 0,
+    "explanation": "48 + 10 + 12/16 = 58.75।"
+  },
+  {
+    "id": "h-cnv-3",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(1101.101)_2 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(15.5)_8",
+      "(13.5)_8",
+      "(15.1)_8",
+      "(55.1)_8"
+    ],
+    "answer": 0,
+    "explanation": "বিন্দুর দুই পাশে ৩ বিট করে: 001 = 1, 101 = 5, 101 = 5।"
+  },
+  {
+    "id": "h-cnv-4",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(10110.11)_2 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(16.C)_16",
+      "(16.3)_16",
+      "(B.C)_16",
+      "(26.3)_16"
+    ],
+    "answer": 0,
+    "explanation": "0001 = 1, 0110 = 6, 1100 = C। ভগ্নাংশে ডানে 00 যোগ করতে হয়।"
+  },
+  {
+    "id": "h-cnv-5",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(0.6875)_10 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(0.1011)_2",
+      "(0.1101)_2",
+      "(0.1001)_2",
+      "(0.0111)_2"
+    ],
+    "answer": 0,
+    "explanation": "বারবার 2 দিয়ে গুণ করে পূর্ণ অংশ নিলে 1, 0, 1, 1 পাওয়া যায়।"
+  },
+  {
+    "id": "h-cnv-6",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(27.625)_10 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(11011.101)_2",
+      "(11011.011)_2",
+      "(10111.101)_2",
+      "(11101.101)_2"
+    ],
+    "answer": 0,
+    "explanation": "27 = 11011 এবং 0.625 = 0.101।"
+  },
+  {
+    "id": "h-cnv-7",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(725)_8 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(1D5)_16",
+      "(1E5)_16",
+      "(2D5)_16",
+      "(1D3)_16"
+    ],
+    "answer": 0,
+    "explanation": "111 010 101 কে ৪ বিট করে: 0001 1101 0101 = 1D5।"
+  },
+  {
+    "id": "h-cnv-8",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(B7)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(267)_8",
+      "(257)_8",
+      "(273)_8",
+      "(167)_8"
+    ],
+    "answer": 0,
+    "explanation": "10110111 কে ৩ বিট করে: 010 110 111 = 267।"
+  },
+  {
+    "id": "h-cnv-9",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(AC.8)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(254.4)_8",
+      "(254.1)_8",
+      "(252.4)_8",
+      "(264.4)_8"
+    ],
+    "answer": 0,
+    "explanation": "10 101 100 . 100 = 254.4।"
+  },
+  {
+    "id": "h-cnv-10",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(1000)_10 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(3E8)_16",
+      "(3D8)_16",
+      "(3E0)_16",
+      "(1000)_16"
+    ],
+    "answer": 0,
+    "explanation": "1000 = 3×256 + 14×16 + 8।"
+  },
+  {
+    "id": "h-cnv-11",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(512)_10 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(1000)_8",
+      "(777)_8",
+      "(512)_8",
+      "(1200)_8"
+    ],
+    "answer": 0,
+    "explanation": "512 = 8^3, তাই (1000)_8।"
+  },
+  {
+    "id": "h-cnv-12",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(4095)_10 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(FFF)_16",
+      "(FFE)_16",
+      "(1000)_16",
+      "(EFF)_16"
+    ],
+    "answer": 0,
+    "explanation": "4095 = 16^3 − 1 = FFF।"
+  },
+  {
+    "id": "h-cnv-13",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(3.2)_8 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(11.01)_2",
+      "(11.1)_2",
+      "(10.01)_2",
+      "(11.001)_2"
+    ],
+    "answer": 0,
+    "explanation": "3 = 011 এবং 2 = 010। তাই 11.010 = 11.01।"
+  },
+  {
+    "id": "h-cnv-14",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "নিচের কোন সংখ্যাটির মান সবচেয়ে বড়?",
+    "options": [
+      "(110010)_2",
+      "(64)_8",
+      "(33)_16",
+      "(49)_10"
+    ],
+    "answer": 1,
+    "explanation": "মানগুলো যথাক্রমে 50, 52, 51 ও 49।"
+  },
+  {
+    "id": "h-cnv-15",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(101010)_2, (53)_8 ও (2C)_16 কে ছোট থেকে বড় ক্রমে সাজালে কোনটি হয়?",
+    "options": [
+      "(101010)_2 < (53)_8 < (2C)_16",
+      "(53)_8 < (101010)_2 < (2C)_16",
+      "(2C)_16 < (53)_8 < (101010)_2",
+      "(101010)_2 < (2C)_16 < (53)_8"
+    ],
+    "answer": 0,
+    "explanation": "মানগুলো 42, 43 ও 44।"
+  },
+  {
+    "id": "h-cnv-16",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "setId": "set-f",
+    "passage": "দুটি সংখ্যা: M = (5E)_16 এবং N = (101)_8।",
+    "text": "M এর ডেসিমেল মান কত?",
+    "options": [
+      "92",
+      "94",
+      "96",
+      "104"
+    ],
+    "answer": 1,
+    "explanation": "5×16 + 14 = 94।"
+  },
+  {
+    "id": "h-cnv-17",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "setId": "set-f",
+    "passage": "দুটি সংখ্যা: M = (5E)_16 এবং N = (101)_8।",
+    "text": "M + N এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(237)_8",
+      "(227)_8",
+      "(159)_8",
+      "(337)_8"
+    ],
+    "answer": 0,
+    "explanation": "94 + 65 = 159 = (237)_8।"
+  },
+  {
+    "id": "h-cnv-18",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(111111)_2 এর সমান হলো—",
+    "statements": [
+      "(63)_10",
+      "(77)_8",
+      "(3F)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "explanation": "তিনটির মানই 63।"
+  },
+  {
+    "id": "h-cnv-19",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(100.1)_2 এর সমান হলো—",
+    "statements": [
+      "(4.5)_10",
+      "(4.4)_8",
+      "(4.5)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "(4.5)_16 = 4.3125, তাই iii ভুল।"
+  },
+  {
+    "id": "h-ari-1",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1101.1)_2 + (101.01)_2 = ?",
+    "options": [
+      "(10010.11)_2",
+      "(10011.01)_2",
+      "(10010.01)_2",
+      "(10110.11)_2"
+    ],
+    "answer": 0,
+    "explanation": "13.5 + 5.25 = 18.75।"
+  },
+  {
+    "id": "h-ari-2",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1010.01)_2 − (11.1)_2 = ?",
+    "options": [
+      "(110.11)_2",
+      "(111.01)_2",
+      "(110.01)_2",
+      "(101.11)_2"
+    ],
+    "answer": 0,
+    "explanation": "10.25 − 3.5 = 6.75।"
+  },
+  {
+    "id": "h-ari-3",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(756)_8 + (345)_8 = ?",
+    "options": [
+      "(1323)_8",
+      "(1313)_8",
+      "(1101)_8",
+      "(1223)_8"
+    ],
+    "answer": 0,
+    "explanation": "494 + 229 = 723 = (1323)_8।"
+  },
+  {
+    "id": "h-ari-4",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(FA)_16 + (2B)_16 = ?",
+    "options": [
+      "(125)_16",
+      "(115)_16",
+      "(11B)_16",
+      "(225)_16"
+    ],
+    "answer": 0,
+    "explanation": "250 + 43 = 293 = (125)_16।"
+  },
+  {
+    "id": "h-ari-5",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(A0)_16 − (3F)_16 = ?",
+    "options": [
+      "(61)_16",
+      "(71)_16",
+      "(5F)_16",
+      "(63)_16"
+    ],
+    "answer": 0,
+    "explanation": "160 − 63 = 97 = (61)_16।"
+  },
+  {
+    "id": "h-ari-6",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1101)_2 × (110)_2 = ?",
+    "options": [
+      "(1001110)_2",
+      "(1001010)_2",
+      "(1101110)_2",
+      "(111110)_2"
+    ],
+    "answer": 0,
+    "explanation": "13 × 6 = 78।"
+  },
+  {
+    "id": "h-ari-7",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(110110)_2 ÷ (110)_2 = ?",
+    "options": [
+      "(1001)_2",
+      "(1011)_2",
+      "(111)_2",
+      "(1100)_2"
+    ],
+    "answer": 0,
+    "explanation": "54 ÷ 6 = 9।"
+  },
+  {
+    "id": "h-ari-8",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(72)_8 − (35)_8 = ?",
+    "options": [
+      "(35)_8",
+      "(37)_8",
+      "(45)_8",
+      "(25)_8"
+    ],
+    "answer": 0,
+    "explanation": "58 − 29 = 29 = (35)_8।"
+  },
+  {
+    "id": "h-ari-9",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1011)_2 + (27)_8 + (1F)_16 এর ডেসিমেল মান কত?",
+    "options": [
+      "63",
+      "65",
+      "67",
+      "75"
+    ],
+    "answer": 1,
+    "explanation": "11 + 23 + 31 = 65।"
+  },
+  {
+    "id": "h-ari-10",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(CD)_16 + (1011)_2 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(D8)_16",
+      "(D6)_16",
+      "(CE)_16",
+      "(E8)_16"
+    ],
+    "answer": 0,
+    "explanation": "205 + 11 = 216 = (D8)_16।"
+  },
+  {
+    "id": "h-sig-1",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিট রেজিস্টারে −128 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "10000000",
+      "11111111",
+      "10000001",
+      "01111111"
+    ],
+    "answer": 0,
+    "explanation": "৮ বিটে −128 এর রূপ 10000000।"
+  },
+  {
+    "id": "h-sig-2",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "১৬ বিট রেজিস্টারে −256 এর ২-এর পরিপূরক রূপ হেক্সাডেসিমেলে কোনটি?",
+    "options": [
+      "FF00",
+      "FEFF",
+      "FF01",
+      "0100"
+    ],
+    "answer": 0,
+    "explanation": "65536 − 256 = 65280 = FF00।"
+  },
+  {
+    "id": "h-sig-3",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিট রেজিস্টারে −45 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11010011",
+      "11010010",
+      "10101101",
+      "11010101"
+    ],
+    "answer": 0,
+    "explanation": "+45 = 00101101। উল্টে 11010010, 1 যোগ করে 11010011।"
+  },
+  {
+    "id": "h-sig-4",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "২-এর পরিপূরক পদ্ধতিতে ৮ বিটের 10000001 কোন সংখ্যা নির্দেশ করে?",
+    "options": [
+      "−1",
+      "−126",
+      "−127",
+      "+129"
+    ],
+    "answer": 2,
+    "explanation": "উল্টে 01111110, 1 যোগ করে 01111111 = 127। উত্তর −127।"
+  },
+  {
+    "id": "h-sig-5",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "১-এর পরিপূরক পদ্ধতিতে ৮ বিটের 11111111 কী নির্দেশ করে?",
+    "options": [
+      "−1",
+      "−127",
+      "−0",
+      "−255"
+    ],
+    "answer": 2,
+    "explanation": "উল্টালে 00000000 হয়। তাই এটি ঋণাত্মক শূন্য।"
+  },
+  {
+    "id": "h-sig-6",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে (−25) + (−13) এর ফল কোনটি?",
+    "options": [
+      "11011010",
+      "11011001",
+      "10100110",
+      "11101010"
+    ],
+    "answer": 0,
+    "explanation": "ফল −38। +38 = 00100110, এর ২-এর পরিপূরক 11011010।"
+  },
+  {
+    "id": "h-sig-7",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে 12 − 20 এর ফল কোনটি?",
+    "options": [
+      "11111000",
+      "10001000",
+      "11110111",
+      "00001000"
+    ],
+    "answer": 0,
+    "explanation": "ফল −8। +8 = 00001000, এর ২-এর পরিপূরক 11111000।"
+  },
+  {
+    "id": "h-sig-8",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "01101001 এর ২-এর পরিপূরকের ২-এর পরিপূরক কোনটি?",
+    "options": [
+      "01101001",
+      "10010111",
+      "10010110",
+      "11101001"
+    ],
+    "answer": 0,
+    "explanation": "পরিপূরকের পরিপূরক নিলে মূল সংখ্যাই ফিরে আসে।"
+  },
+  {
+    "id": "h-sig-9",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৬ বিটে ২-এর পরিপূরক পদ্ধতিতে সংখ্যার পরিসর কত?",
+    "options": [
+      "−31 থেকে +31",
+      "−32 থেকে +31",
+      "−32 থেকে +32",
+      "−64 থেকে +63"
+    ],
+    "answer": 1,
+    "explanation": "−2^5 থেকে +2^5 − 1।"
+  },
+  {
+    "id": "h-sig-10",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে (+100) + (+50) করলে রেজিস্টারের ফল কত হিসেবে পড়া যাবে?",
+    "options": [
+      "+150",
+      "−106",
+      "−150",
+      "+106"
+    ],
+    "answer": 1,
+    "explanation": "আসল ফল 150, যা +127 এর বেশি। ওভারফ্লোতে 10010110 হয়, যা −106।"
+  },
+  {
+    "id": "h-sig-11",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "২-এর পরিপূরক পদ্ধতিতে −64 প্রকাশ করতে কমপক্ষে কত বিট লাগে?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "৭ বিটের পরিসর −64 থেকে +63।"
+  },
+  {
+    "id": "h-sig-12",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে চিহ্ন ও মান (Sign-Magnitude) পদ্ধতির পরিসর কত?",
+    "options": [
+      "−128 থেকে +127",
+      "−127 থেকে +127",
+      "−127 থেকে +128",
+      "0 থেকে 255"
+    ],
+    "answer": 1,
+    "explanation": "৭ বিটে মান থাকে, তাই সর্বোচ্চ মান 127।"
+  },
+  {
+    "id": "h-sig-13",
+    "topic": "signed",
+    "difficulty": "hard",
+    "setId": "set-g",
+    "passage": "৮ বিট রেজিস্টারে P = +35 এবং Q = −60 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "Q এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11000100",
+      "11000011",
+      "10111100",
+      "00111100"
+    ],
+    "answer": 0,
+    "explanation": "+60 = 00111100। উল্টে 11000011, 1 যোগ করে 11000100।"
+  },
+  {
+    "id": "h-sig-14",
+    "topic": "signed",
+    "difficulty": "hard",
+    "setId": "set-g",
+    "passage": "৮ বিট রেজিস্টারে P = +35 এবং Q = −60 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "P + Q এর ফল কোনটি?",
+    "options": [
+      "11100111",
+      "11100110",
+      "10011001",
+      "00011001"
+    ],
+    "answer": 0,
+    "explanation": "35 − 60 = −25 = 11100111।"
+  },
+  {
+    "id": "h-sig-15",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে—",
+    "statements": [
+      "10000000 = −128",
+      "01111111 = +127",
+      "11111111 = −255"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "11111111 = −1, তাই iii ভুল।"
+  },
+  {
+    "id": "h-cod-1",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "BCD কোড 1001 0110 0011 এর ডেসিমেল মান কত?",
+    "options": [
+      "963",
+      "693",
+      "936",
+      "2403"
+    ],
+    "answer": 0,
+    "explanation": "1001 = 9, 0110 = 6, 0011 = 3।"
+  },
+  {
+    "id": "h-cod-2",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "(250)_10 লিখতে সাধারণ বাইনারির চেয়ে BCD-তে কত বিট বেশি লাগে?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "BCD-তে 12 বিট, বাইনারিতে 8 বিট। পার্থক্য 4।"
+  },
+  {
+    "id": "h-cod-3",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'a' ও 'A' এর ডেসিমেল মানের পার্থক্য কত?",
+    "options": [
+      "26",
+      "32",
+      "48",
+      "64"
+    ],
+    "answer": 1,
+    "explanation": "97 − 65 = 32।"
+  },
+  {
+    "id": "h-cod-4",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'D' এর ৭ বিট বাইনারি রূপ কোনটি?",
+    "options": [
+      "1000100",
+      "1000011",
+      "1000101",
+      "1100100"
+    ],
+    "answer": 0,
+    "explanation": "'D' = 68 = 1000100।"
+  },
+  {
+    "id": "h-cod-5",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'c' এর হেক্সাডেসিমেল মান কত?",
+    "options": [
+      "63",
+      "43",
+      "C3",
+      "99"
+    ],
+    "answer": 0,
+    "explanation": "'c' = 99 = (63)_16।"
+  },
+  {
+    "id": "h-cod-6",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে অঙ্ক '5' এর ডেসিমেল মান কত?",
+    "options": [
+      "5",
+      "48",
+      "53",
+      "101"
+    ],
+    "answer": 2,
+    "explanation": "'0' = 48, তাই '5' = 48 + 5 = 53।"
+  },
+  {
+    "id": "h-cod-7",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "(1024)_10 এর BCD কোড কোনটি?",
+    "options": [
+      "0001 0000 0010 0100",
+      "0100 0010 0000 0001",
+      "0001 0010 0000 0100",
+      "10000000000"
+    ],
+    "answer": 0,
+    "explanation": "1 = 0001, 0 = 0000, 2 = 0010, 4 = 0100।"
+  },
+  {
+    "id": "h-cod-8",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "১৬ বিট ইউনিকোডে \"BANGLA\" শব্দটি রাখতে কত বাইট লাগবে?",
+    "options": [
+      "6",
+      "12",
+      "16",
+      "48"
+    ],
+    "answer": 1,
+    "explanation": "৬টি অক্ষর × ২ বাইট = ১২ বাইট।"
+  },
+  {
+    "id": "h-cod-9",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "নিচের কোনটি বৈধ BCD কোড?",
+    "options": [
+      "0110 1001",
+      "1010 1001",
+      "0111 1100",
+      "1111 0000"
+    ],
+    "answer": 0,
+    "explanation": "1001 এর বড় কোনো ৪ বিট গ্রুপ থাকলে কোডটি বৈধ নয়। 0110 1001 = 69।"
+  },
+  {
+    "id": "h-cod-10",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "'A' = 65 হলে ASCII কোডে 'M' এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "1001101",
+      "1001011",
+      "1001100",
+      "1011101"
+    ],
+    "answer": 0,
+    "explanation": "'M' হলো 'A' এর ১২ ঘর পরে। 65 + 12 = 77 = 1001101।"
+  },
+  {
+    "id": "h-cod-11",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ইউনিকোডে বাংলা বর্ণের ব্লক কোন পরিসরে?",
+    "options": [
+      "0900–097F",
+      "0980–09FF",
+      "0A00–0A7F",
+      "0600–06FF"
+    ],
+    "answer": 1,
+    "explanation": "বাংলা ব্লক U+0980 থেকে U+09FF পর্যন্ত।"
+  },
+  {
+    "id": "h-cod-12",
+    "topic": "codes",
+    "difficulty": "hard",
+    "setId": "set-h",
+    "passage": "একটি ফাইলে \"Cat\" শব্দটি রাখা হলো।",
+    "text": "ASCII-8 এ শব্দটি রাখতে মোট কত বিট লাগবে?",
+    "options": [
+      "21",
+      "24",
+      "32",
+      "48"
+    ],
+    "answer": 1,
+    "explanation": "৩টি অক্ষর × ৮ বিট = ২৪ বিট।"
+  },
+  {
+    "id": "h-cod-13",
+    "topic": "codes",
+    "difficulty": "hard",
+    "setId": "set-h",
+    "passage": "একটি ফাইলে \"Cat\" শব্দটি রাখা হলো।",
+    "text": "'C' এর হেক্সাডেসিমেল ASCII মান কত?",
+    "options": [
+      "43",
+      "63",
+      "67",
+      "C3"
+    ],
+    "answer": 0,
+    "explanation": "'C' = 67 = (43)_16।"
+  },
+  {
+    "id": "h-cod-14",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "কোডের বিটসংখ্যা সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "ASCII-8 এ 256টি চিহ্ন",
+      "EBCDIC ৮ বিটের",
+      "BCD-তে প্রতিটি অঙ্ক ৮ বিটের"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "BCD-তে প্রতিটি অঙ্ক ৪ বিটের, তাই iii ভুল।"
+  },
+  {
+    "id": "his-1",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "American Standard Code for Information Interchange",
+      "American Scientific Code for Information Interchange",
+      "Advanced Standard Code for Information Interchange",
+      "American Standard Code for Internal Instruction"
+    ],
+    "answer": 0,
+    "explanation": "ASCII = American Standard Code for Information Interchange।"
+  },
+  {
+    "id": "his-2",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "মূল ASCII কোড কত বিটের?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "মূল ASCII ৭ বিটের, তাই এতে 2^7 = 128টি চিহ্ন প্রকাশ করা যায়।"
+  },
+  {
+    "id": "his-3",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII-7 কোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "answer": 1,
+    "explanation": "2^7 = 128।"
+  },
+  {
+    "id": "his-4",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII-8 কোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "128",
+      "255",
+      "256",
+      "65536"
+    ],
+    "answer": 2,
+    "explanation": "2^8 = 256।"
+  },
+  {
+    "id": "his-5",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোড প্রথম প্রকাশিত হয় কত সালে?",
+    "options": [
+      "১৯৪৬",
+      "১৯৬৩",
+      "১৯৭১",
+      "১৯৯১"
+    ],
+    "answer": 1,
+    "explanation": "ASCII এর প্রথম সংস্করণ ১৯৬৩ সালে প্রকাশিত হয়।"
+  },
+  {
+    "id": "his-6",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII-7 কোডের ৭ বিট সাধারণত কীভাবে ভাগ করা হয়?",
+    "options": [
+      "৩টি জোন বিট ও ৪টি সংখ্যাসূচক বিট",
+      "৪টি জোন বিট ও ৩টি সংখ্যাসূচক বিট",
+      "২টি জোন বিট ও ৫টি সংখ্যাসূচক বিট",
+      "১টি জোন বিট ও ৬টি সংখ্যাসূচক বিট"
+    ],
+    "answer": 0,
+    "explanation": "বামের ৩ বিট জোন এবং ডানের ৪ বিট সংখ্যাসূচক।"
+  },
+  {
+    "id": "his-7",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII-7 এর সঙ্গে কোন বিট যোগ করে ৮ বিট করা যায়?",
+    "options": [
+      "ক্যারি বিট",
+      "সাইন বিট",
+      "প্যারিটি বিট",
+      "জোন বিট"
+    ],
+    "answer": 2,
+    "explanation": "ভুল শনাক্ত করার জন্য প্যারিটি বিট যোগ করা হয়।"
+  },
+  {
+    "id": "his-8",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোডে স্পেস (Space) এর ডেসিমেল মান কত?",
+    "options": [
+      "0",
+      "32",
+      "48",
+      "65"
+    ],
+    "answer": 1,
+    "explanation": "স্পেসের ASCII মান 32।"
+  },
+  {
+    "id": "his-9",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোডে 'Z' এর ডেসিমেল মান কত?",
+    "options": [
+      "90",
+      "91",
+      "97",
+      "122"
+    ],
+    "answer": 0,
+    "explanation": "'A' = 65, তাই 'Z' = 65 + 25 = 90।"
+  },
+  {
+    "id": "his-10",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "EBCDIC এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Extended Binary Coded Decimal Interchange Code",
+      "Extended Binary Coded Data Interchange Code",
+      "Enhanced Binary Coded Decimal Internal Code",
+      "Extended Basic Coded Decimal Interchange Code"
+    ],
+    "answer": 0,
+    "explanation": "EBCDIC = Extended Binary Coded Decimal Interchange Code।"
+  },
+  {
+    "id": "his-11",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "EBCDIC কোড কোন প্রতিষ্ঠান তৈরি করে?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Intel"
+    ],
+    "answer": 2,
+    "explanation": "IBM তাদের মেইনফ্রেম কম্পিউটারের জন্য EBCDIC তৈরি করে।"
+  },
+  {
+    "id": "his-12",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "EBCDIC কোড মূলত কোন ধরনের কম্পিউটারে ব্যবহৃত হয়?",
+    "options": [
+      "মেইনফ্রেম",
+      "স্মার্টফোন",
+      "ট্যাবলেট",
+      "ল্যাপটপ"
+    ],
+    "answer": 0,
+    "explanation": "IBM মেইনফ্রেম কম্পিউটারে EBCDIC ব্যবহৃত হয়।"
+  },
+  {
+    "id": "his-13",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "BCD এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Binary Coded Decimal",
+      "Binary Coded Digit",
+      "Basic Coded Decimal",
+      "Binary Common Decimal"
+    ],
+    "answer": 0,
+    "explanation": "BCD = Binary Coded Decimal।"
+  },
+  {
+    "id": "his-14",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "BCD কে ৮৪২১ কোড বলা হয় কেন?",
+    "options": [
+      "৪ বিটের স্থানীয় মান যথাক্রমে 8, 4, 2, 1",
+      "এতে ৮৪২১টি চিহ্ন আছে",
+      "এটি ৮৪২১ সালে তৈরি",
+      "এতে ৮৪২১ বিট লাগে"
+    ],
+    "answer": 0,
+    "explanation": "বাম থেকে ডানে ৪ বিটের ওজন 8, 4, 2 ও 1।"
+  },
+  {
+    "id": "his-15",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "Unicode এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Universal Code",
+      "United Code",
+      "Unique Code",
+      "Uniform Code"
+    ],
+    "answer": 0,
+    "explanation": "পাঠ্যবই অনুসারে Unicode = Universal Code।"
+  },
+  {
+    "id": "his-16",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ইউনিকোডের প্রথম সংস্করণ (1.0) প্রকাশিত হয় কত সালে?",
+    "options": [
+      "১৯৬৩",
+      "১৯৮১",
+      "১৯৯১",
+      "২০০১"
+    ],
+    "answer": 2,
+    "explanation": "Unicode 1.0 প্রকাশিত হয় ১৯৯১ সালে।"
+  },
+  {
+    "id": "his-17",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ইউনিকোডের শুরুর সংস্করণে প্রতিটি চিহ্নের জন্য কত বাইট লাগে?",
+    "options": [
+      "১",
+      "২",
+      "৪",
+      "৮"
+    ],
+    "answer": 1,
+    "explanation": "১৬ বিট = ২ বাইট।"
+  },
+  {
+    "id": "his-18",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "আধুনিক বাইনারি সংখ্যা পদ্ধতির ধারণার জন্য কোন গণিতবিদ পরিচিত?",
+    "options": [
+      "গটফ্রিড লাইবনিজ",
+      "আইজ্যাক নিউটন",
+      "চার্লস ব্যাবেজ",
+      "জর্জ বুল"
+    ],
+    "answer": 0,
+    "explanation": "লাইবনিজ আধুনিক বাইনারি পদ্ধতির ধারণা দেন।"
+  },
+  {
+    "id": "his-19",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "প্রাচীন ব্যাবিলনীয়রা কত ভিত্তিক সংখ্যা পদ্ধতি ব্যবহার করত?",
+    "options": [
+      "১০",
+      "১২",
+      "২০",
+      "৬০"
+    ],
+    "answer": 3,
+    "explanation": "ব্যাবিলনীয়দের পদ্ধতি ৬০ ভিত্তিক। ঘণ্টা ও মিনিটের ৬০ ভাগ এর একটি চিহ্ন।"
+  },
+  {
+    "id": "his-20",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "মায়া সভ্যতায় কত ভিত্তিক সংখ্যা পদ্ধতি ব্যবহৃত হতো?",
+    "options": [
+      "৮",
+      "১০",
+      "২০",
+      "৬০"
+    ],
+    "answer": 2,
+    "explanation": "মায়া সংখ্যা পদ্ধতি ২০ ভিত্তিক।"
+  },
+  {
+    "id": "his-21",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "প্রাচীন মিশরীয়রা সংখ্যা লিখতে কোন ধরনের চিহ্ন ব্যবহার করত?",
+    "options": [
+      "হায়ারোগ্লিফিক্স",
+      "রোমান",
+      "অ্যালজেব্রা",
+      "বাইনারি"
+    ],
+    "answer": 0,
+    "explanation": "মিশরীয়রা ছবিভিত্তিক হায়ারোগ্লিফিক্স চিহ্ন ব্যবহার করত।"
+  },
+  {
+    "id": "his-22",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "শূন্য (0) এর ধারণা ও ডেসিমেল পদ্ধতির বিকাশ মূলত কোথায় ঘটে?",
+    "options": [
+      "ভারত",
+      "গ্রিস",
+      "রোম",
+      "মিশর"
+    ],
+    "answer": 0,
+    "explanation": "ভারতে বিকশিত এই পদ্ধতি আরবদের হাত ধরে ইউরোপে ছড়ায়।"
+  },
+  {
+    "id": "his-23",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "'Digit' শব্দটি এসেছে লাতিন 'digitus' থেকে, যার অর্থ কী?",
+    "options": [
+      "আঙুল",
+      "সংখ্যা",
+      "গণনা",
+      "চিহ্ন"
+    ],
+    "answer": 0,
+    "explanation": "আঙুলে গণনা থেকেই digit শব্দের উৎপত্তি।"
+  },
+  {
+    "id": "his-24",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "'Bit' শব্দটি প্রথম ব্যবহার করেন কে?",
+    "options": [
+      "জন টুকি",
+      "জর্জ বুল",
+      "অ্যালান টুরিং",
+      "চার্লস ব্যাবেজ"
+    ],
+    "answer": 0,
+    "explanation": "জন টুকি Binary Digit থেকে Bit শব্দটি তৈরি করেন।"
+  },
+  {
+    "id": "his-25",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "বুলিয়ান অ্যালজেবরার প্রবর্তক কে?",
+    "options": [
+      "জর্জ বুল",
+      "লাইবনিজ",
+      "নিউটন",
+      "ডি মরগান"
+    ],
+    "answer": 0,
+    "explanation": "জর্জ বুল ১৮৫৪ সালে তাঁর বইয়ে এই গণিতের ধারণা দেন।"
+  },
+  {
+    "id": "his-26",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি বাইনারি অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "answer": 0,
+    "explanation": "একটি বাইনারি অঙ্কই এক বিট।"
+  },
+  {
+    "id": "his-27",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি অক্টাল অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "২",
+      "৩",
+      "৪",
+      "৮"
+    ],
+    "answer": 1,
+    "explanation": "2^3 = 8, তাই ৩ বিট।"
+  },
+  {
+    "id": "his-28",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি হেক্সাডেসিমেল অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "৩",
+      "৪",
+      "৬",
+      "৮"
+    ],
+    "answer": 1,
+    "explanation": "2^4 = 16, তাই ৪ বিট।"
+  },
+  {
+    "id": "his-29",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "৪ বিটের সমষ্টিকে কী বলা হয়?",
+    "options": [
+      "বাইট",
+      "নিবল",
+      "ওয়ার্ড",
+      "ডিজিট"
+    ],
+    "answer": 1,
+    "explanation": "৪ বিট = ১ নিবল।"
+  },
+  {
+    "id": "his-30",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "১ বাইট সমান কত বিট?",
+    "options": [
+      "৪",
+      "৮",
+      "১০",
+      "১৬"
+    ],
+    "answer": 1,
+    "explanation": "৮ বিট = ১ বাইট।"
+  },
+  {
+    "id": "his-31",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "MSB এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Most Significant Bit",
+      "Main Significant Bit",
+      "Most Standard Bit",
+      "Maximum Sign Bit"
+    ],
+    "answer": 0,
+    "explanation": "সবচেয়ে বামের বিট হলো MSB।"
+  },
+  {
+    "id": "his-32",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "LSB এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Least Significant Bit",
+      "Last Significant Bit",
+      "Low Standard Bit",
+      "Least Sign Bit"
+    ],
+    "answer": 0,
+    "explanation": "সবচেয়ে ডানের বিট হলো LSB।"
+  },
+  {
+    "id": "his-33",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "চিহ্ন ও মান পদ্ধতিতে ৮ বিটের কত বিট সংখ্যার মান বোঝায়?",
+    "options": [
+      "৬",
+      "৭",
+      "৮",
+      "৯"
+    ],
+    "answer": 1,
+    "explanation": "১ বিট চিহ্নের জন্য, বাকি ৭ বিট মানের জন্য।"
+  },
+  {
+    "id": "his-34",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ডেসিমেল সংখ্যা পদ্ধতিতে মোট কতটি মৌলিক অঙ্ক আছে?",
+    "options": [
+      "৮",
+      "৯",
+      "১০",
+      "১৬"
+    ],
+    "answer": 2,
+    "explanation": "0 থেকে 9, মোট ১০টি অঙ্ক।"
+  },
+  {
+    "id": "his-35",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "প্রতিটি অঙ্ক প্রকাশে বিট সংখ্যা সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "অক্টালে ৩ বিট",
+      "হেক্সাডেসিমেলে ৪ বিট",
+      "বাইনারিতে ২ বিট"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "বাইনারিতে প্রতিটি অঙ্ক ১ বিট, তাই iii ভুল।"
+  },
+  {
+    "id": "his-36",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "নিচের কোন কোডগুলো ৮ বিটের?",
+    "statements": [
+      "ASCII-8",
+      "EBCDIC",
+      "BCD"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "explanation": "BCD-তে প্রতিটি ডেসিমেল অঙ্ক ৪ বিটের, তাই iii ভুল।"
+  }
+]

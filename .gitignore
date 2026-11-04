@@ -1,0 +1,22 @@
+# installed packages (npm install brings them back)
+node_modules/
+
+# build output
+.next/
+out/
+build/
+.vercel/
+
+# files Next and TypeScript make by themselves
+next-env.d.ts
+*.tsbuildinfo
+
+# secrets: never push these; .env.example files are kept
+.env
+.env.*
+!.env.example
+
+# logs and system files
+*.log
+.DS_Store
+Thumbs.db
