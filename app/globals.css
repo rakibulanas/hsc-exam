@@ -889,3 +889,24 @@ sup {
   border-color: var(--brand);
   color: var(--brand-dark);
 }
+
+/* ---------- Fonts ---------- */
+
+body {
+  font-family: var(--font-body), sans-serif;
+}
+
+h1,
+h2,
+.section-title,
+.facts dd,
+.score,
+.timer-clock,
+.minute-picker button,
+.palette-grid button,
+.question-number,
+.option-letter,
+.topic-list b,
+.button {
+  font-family: var(--font-display), var(--font-body), sans-serif;
+}
