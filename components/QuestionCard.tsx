@@ -1,10 +1,10 @@
 import { OPTION_LABELS, TOPICS } from "@/lib/exam-config";
 import { toBangla } from "@/lib/format";
-import type { Question } from "@/lib/types";
+import type { LockedQuestion } from "@/lib/types";
 import MathText from "./MathText";
 
 type Props = {
-  question: Question;
+  question: LockedQuestion;
   number: number;
   chosen: number | undefined;
   flagged: boolean;

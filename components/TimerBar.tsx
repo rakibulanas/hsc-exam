@@ -1,9 +1,10 @@
-import { DANGER_SECONDS, EXAM, WARNING_SECONDS } from "@/lib/exam-config";
+import { DANGER_SECONDS, WARNING_SECONDS } from "@/lib/exam-config";
 import { formatClock, toBangla } from "@/lib/format";
 import { useCountdown } from "@/lib/use-countdown";
 
 type Props = {
   endsAt: number;
+  totalSeconds: number; // the full length of this exam
   answered: number;
   total: number;
   onTimeUp: () => void;
@@ -16,10 +17,11 @@ function getTimerLevel(secondsLeft: number) {
   return "normal";
 }
 
-export default function TimerBar({ endsAt, answered, total, onTimeUp, onSubmitClick }: Props) {
+export default function TimerBar(props: Props) {
+  const { endsAt, totalSeconds, answered, total, onTimeUp, onSubmitClick } = props;
   const secondsLeft = useCountdown(endsAt, onTimeUp);
   const level = getTimerLevel(secondsLeft);
-  const percentLeft = (secondsLeft / (EXAM.minutes * 60)) * 100;
+  const percentLeft = (secondsLeft / totalSeconds) * 100;
 
   return (
     <header className="timer-bar" data-level={level}>

@@ -1,4 +1,12 @@
-import { EXAM, QUESTION_BANK_SIZE, TOPICS, TOTAL_MARKS, TOTAL_QUESTIONS } from "@/lib/exam-config";
+import { useState } from "react";
+import {
+  EXAM,
+  MINUTE_CHOICES,
+  QUESTION_BANK_SIZE,
+  TOPICS,
+  TOTAL_MARKS,
+  TOTAL_QUESTIONS,
+} from "@/lib/exam-config";
 import { toBangla } from "@/lib/format";
 
 const RULES = [
@@ -10,14 +18,16 @@ const RULES = [
 
 type Props = {
   canSeeAll: boolean;
-  onStart: () => void;
+  onStart: (minutes: number) => void;
   onSeeAll: () => void;
 };
 
 export default function StartScreen({ canSeeAll, onStart, onSeeAll }: Props) {
+  const [minutes, setMinutes] = useState(EXAM.minutes);
+
   const facts = [
     { value: toBangla(TOTAL_QUESTIONS), label: "প্রশ্ন" },
-    { value: toBangla(EXAM.minutes), label: "মিনিট" },
+    { value: toBangla(minutes), label: "মিনিট" },
     { value: toBangla(TOTAL_MARKS), label: "নম্বর" },
   ];
 
@@ -39,7 +49,23 @@ export default function StartScreen({ canSeeAll, onStart, onSeeAll }: Props) {
         ))}
       </dl>
 
-      <button className="button button-primary button-wide" onClick={onStart}>
+      <fieldset className="minute-picker">
+        <legend>কত মিনিটের পরীক্ষা দেবে?</legend>
+        <div>
+          {MINUTE_CHOICES.map((choice) => (
+            <button
+              key={choice}
+              type="button"
+              aria-pressed={minutes === choice}
+              onClick={() => setMinutes(choice)}
+            >
+              {toBangla(choice)}
+            </button>
+          ))}
+        </div>
+      </fieldset>
+
+      <button className="button button-primary button-wide" onClick={() => onStart(minutes)}>
         পরীক্ষা শুরু করো
       </button>
 

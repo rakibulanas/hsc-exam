@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "lock": "node scripts/lock-questions.mjs",
+    "predev": "npm run lock",
     "dev": "next dev -p 3700",
+    "prebuild": "npm run lock",
     "build": "next build",
     "start": "next start -p 3700"
   },
   "dependencies": {
+    "@noble/ciphers": "^2.4.0",
     "next": "^16.4.2",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
@@ -18,5 +22,7 @@
     "@types/react-dom": "^19.3.0",
     "typescript": "^5.9.3"
   },
-  "engines": { "node": ">=20.9.0" }
+  "engines": {
+    "node": ">=20.9.0"
+  }
 }

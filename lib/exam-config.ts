@@ -13,10 +13,13 @@ export type Topic = {
 export const EXAM = {
   title: "সংখ্যা পদ্ধতি",
   subject: "এইচএসসি আইসিটি · তৃতীয় অধ্যায়",
-  minutes: 25,
+  minutes: 25, // the time chosen at the start unless the student picks another
   marksPerQuestion: 1,
   passMarks: 8,
 };
+
+// The times a student can pick on the start page, in minutes.
+export const MINUTE_CHOICES = [10, 15, 20, 25, 30, 40];
 
 export const QUESTION_BANK_SIZE = 136;
 

@@ -861,3 +861,31 @@ sup {
     transition: none;
   }
 }
+
+/* ---------- Start: minute picker ---------- */
+
+.minute-picker legend {
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.minute-picker div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 8px;
+}
+
+.minute-picker button {
+  min-height: 46px;
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.minute-picker button[aria-pressed="true"] {
+  background: var(--brand-soft);
+  border-color: var(--brand);
+  color: var(--brand-dark);
+}

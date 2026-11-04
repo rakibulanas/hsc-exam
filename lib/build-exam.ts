@@ -1,12 +1,12 @@
-import { EXAM, TOPICS, type Topic } from "./exam-config";
-import questionFile from "./questions.json";
-import type { ExamSession, Question } from "./types";
+import { TOPICS, type Topic } from "./exam-config";
+import questionFile from "./questions.locked.json";
+import type { ExamSession, LockedQuestion } from "./types";
 
-// All the questions come from this one file.
-export const QUESTION_BANK = questionFile as Question[];
+// All the questions, with answers encrypted. Made from data/questions.json.
+export const QUESTION_BANK = questionFile as LockedQuestion[];
 
 // A block is one question, or the 2 questions that share a passage.
-type Block = Question[];
+type Block = LockedQuestion[];
 
 function shuffle<T>(items: T[]): T[] {
   const result = [...items];
@@ -19,7 +19,7 @@ function shuffle<T>(items: T[]): T[] {
   return result;
 }
 
-function makeBlocks(questions: Question[]): Block[] {
+function makeBlocks(questions: LockedQuestion[]): Block[] {
   const blocks: Block[] = [];
   const sets: Record<string, Block> = {};
 
@@ -53,21 +53,22 @@ function pickBlocksForTopic(topic: Topic): Block[] {
   return picked;
 }
 
-// Shuffles the answer choices and moves "answer" along with them.
+// Shuffles the answer choices and remembers where each one came from,
+// so the encrypted answer can be matched after the exam.
 // "i, ii, iii" choices keep their usual order, as in the printed exam.
-function shuffleOptions(question: Question): Question {
+function shuffleOptions(question: LockedQuestion): LockedQuestion {
   if (question.statements) {
     return question;
   }
 
-  const correctOption = question.options[question.answer];
-  const options = shuffle(question.options);
+  const optionOrder = shuffle(question.options.map((_, index) => index));
+  const options = optionOrder.map((index) => question.options[index]);
 
-  return { ...question, options, answer: options.indexOf(correctOption) };
+  return { ...question, options, optionOrder };
 }
 
 // Creates a fresh exam: new questions, new order, new option order.
-export function createExam(): ExamSession {
+export function createExam(minutes: number): ExamSession {
   const blocks = shuffle(TOPICS.flatMap(pickBlocksForTopic));
   const questions = blocks.flat().map(shuffleOptions);
   const startedAt = Date.now();
@@ -78,7 +79,7 @@ export function createExam(): ExamSession {
     flagged: [],
     currentIndex: 0,
     startedAt,
-    endsAt: startedAt + EXAM.minutes * 60 * 1000,
+    endsAt: startedAt + minutes * 60 * 1000,
     submittedAt: null,
   };
 }

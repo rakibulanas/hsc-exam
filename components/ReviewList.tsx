@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { getAnswerState, type AnswerState } from "@/lib/score";
-import type { ExamSession } from "@/lib/types";
+import type { ExamSession, Question } from "@/lib/types";
 import AnswerCard from "./AnswerCard";
 
 type Filter = "all" | AnswerState;
@@ -18,10 +18,15 @@ const STATE_LABELS: Record<AnswerState, string> = {
   skipped: "উত্তর দাওনি",
 };
 
-export default function ReviewList({ session }: { session: ExamSession }) {
+type Props = {
+  session: ExamSession;
+  questions: Question[]; // the exam questions with answers opened
+};
+
+export default function ReviewList({ session, questions }: Props) {
   const [filter, setFilter] = useState<Filter>("all");
 
-  const rows = session.questions
+  const rows = questions
     .map((question, index) => ({
       question,
       number: index + 1,

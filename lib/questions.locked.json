@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "con-2",
+    "topic": "concept",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি নন-পজিশনাল সংখ্যা পদ্ধতি?",
+    "options": [
+      "বাইনারি",
+      "অক্টাল",
+      "রোমান",
+      "হেক্সাডেসিমেল"
+    ],
+    "secret": "d3e22148b9d8a5af501b2631333c349de08a0e41309434054def66a05aec342987f5e47eeb5d6a0d0b8ba7893e62f285abe9c82e76653c95c7abd5eee5ef22d4f94f2cbec14f070ecfca530d2c40873b40b547c1fb509d6a283d6dfb60d66f5bed48251386abdc155a140945be87fee8f9ee7cfd3d210d3fa87a27bec3fc89d25849a3952b7b2274b480e3b5e3e801932c384369bbf36a89344027366a31485aa882263c60af081bf01f604aa272e3a057a19cd364df388bf5be84dea4656175e4df37c80cc7a891a70fc5d81f5b736f7042c8165c2904712f3890b2d676adbda757dfcd5fa2d58c955c68c623465a0ca53e6227ad8708a694e91d66ce9e35ecec1332bd4f07dc6dc51d351105b9a96cf589c3f5fea65b31e91c158e479569f1d3cf83a386fc264015d840c1325d2334f72da8dc49b8ec8d67f5e9738455ad65746a6969f4b5c6841ff469c44dd78704f0e9887d507d33eadcd59b13115f4d060ccd4165df60fa8e6712e81843ca156468816972458e6dd772ac6c00b5cc4f9190b461bca1ece4b9312d24ccb0e220faecdd6865bb13bdbcb98e71de149f3f4f7e435bf809434670bbf2522b81886a559b54f8fdcfeb581ac8cbe278a4d998b3abe4de4f926c69cb16dd4bf0f3728d29268184b1d7b111ee3af98990724fad4f28cd703e202c952fefe0c9d51de9d6521b1452a6447797c766df3c3732b833565d64ced5ed9b568c6529a10ffa7f234be62748af77ab0d4ce2eadd24135ad1ab2262d11a3fe4127680cfd185cd79e1d7d8d83bb7ae908214d77777c0421a0f115f7d7fef9751ce741a44cae4f9fea8c3d374d66f980205dfbc2d51bab3911a60dffc181b40580cf1a162091731ef956cc77b6c085a4d279945ba934bb8e3503208367008754914fa"
+  },
+  {
+    "id": "con-8",
+    "topic": "concept",
+    "difficulty": "easy",
+    "text": "৪ বিট দিয়ে সর্বোচ্চ কতটি ভিন্ন সংখ্যা প্রকাশ করা যায়?",
+    "options": [
+      "৮",
+      "১৫",
+      "১৬",
+      "৩২"
+    ],
+    "secret": "0471d10552ec8536e7e67415f038d3ec498a9b41957a0fd084f214e9baee41bbe1f76bcec35473184c037af8dee9f2ab3807cce08a78a2d22aed4234df2ea15bb2c7a1cda9d3d2abbb45d9da4c78fa4ab572615fae8497e9166e3fd78863018e28bdb9632f8ca3696654fed4e130230cd4a07e51fad0a61732553723cc0c8af41f39d9e75a0523e3c978a5824461917382525f08f6714e939b9b5cf634c2aab64d5964dd5cb62947f04e7a00fb2e6b8262b01ad910f69ccb66d72016ac1d2459d77a99ccb661c4b707c289f2da42e7f1a100858ef6f34351fdac510d856afde3f147aacdfcd654ca3c564ce7cd65adbe5739234652d2f0606b0cd42058976933e3abf4ac5fb7ea2d9ba7d1f6ae24edccc045a13267d4aecbea91a6f8ad13f8e73fabdea0901d40ad1fcb9dde5e88629772586df2dbb56177b6beea2b81ec7413b9294f8af32b5539638c8161ff1f4791bc06c01f234c1d48a29d13b4c59dda42308f0166bcdb0a2b007e68a7000276be8ec1b9e560f272da82ef72e17714c7cc5065d23dc0063a4ebd480a21dc0bc526fd0a51620eecb943ffd86b3b3fd1"
+  },
+  {
+    "id": "con-10",
+    "topic": "concept",
+    "difficulty": "medium",
+    "text": "পজিশনাল সংখ্যা পদ্ধতির বৈশিষ্ট্য হলো—",
+    "statements": [
+      "প্রতিটি অঙ্কের মান তার অবস্থানের ওপর নির্ভর করে",
+      "প্রতিটি পদ্ধতির একটি নির্দিষ্ট ভিত্তি থাকে",
+      "ডেসিমেল পদ্ধতি এর একটি উদাহরণ"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "5fe103dd5f895dd8714cf82beb8e3e9f5a6f552f4f2039dd0e7ee53c2c50a54555aaa2e57705d680105102a2ad773da390594c117f09f6c88ca76f575eaac568662cc293113feb91505fd86841f946c6e8ca6f44758359c518fe4ae58196cdac9142cf1d04a7c53ccbb034ef84e720a0def7abd1e770bd4aac6d7529047837c1c767de8aa9b2a8090265d87a98655a8aa81b8a9f152b00106c1eb5b48c289ddec8a82d2f10dc45ad3b323b46ef0f814a308bac1fbe6032007c4daeb44aadee1045b357bf71bc1e656ec7f8816b62f34b391a80ee12536363cb941da56f5983c669b3f3648505bedbdced6ad98529f08494d47e15f8c5089c1ac207f1aed65b284848ae289a1b01ca8c1340cd02c6533b53b03d0ff65b0d26bcc0b6ddc01b6d95a651a68bcca3bd4291708d81e2a9e6dd1837335070f4cdc586a7e38a558bf7508bf165fc3f34e347f85553c36bbf4e3c45f9c82cf1528809ae143a1286d6f0eb45e1a74a4a59a6783d73ede17581991f337da62a45e15bcc62daa4667bf2ce9140ac57ecf4bb557bc0b550b6c4e3a5c76fe8aeaea7670f9771c99579e3817cf870a75ea1c0f26cb30733140459b4137305d2723bc0b7d507bedf3ba473752b29ba9642733ecc274951"
+  },
+  {
+    "id": "con-11",
+    "topic": "concept",
+    "difficulty": "medium",
+    "text": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ক্ষেত্রে—",
+    "statements": [
+      "এর প্রতিটি অঙ্ক ৪ বিট দিয়ে প্রকাশ করা যায়",
+      "এর সবচেয়ে বড় অঙ্ক F",
+      "এতে মোট ১০টি মৌলিক চিহ্ন আছে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "5fa1846c4404c81392b78525b33ad9b6d145566e72ec984bb767f46091c099e831d79c689566c613d9884e9ad658ce7ac5f0096ce489595404a3499eb83c7d74b3fd6d6d09cdfa53fc541223ebbed8ba98432d339d8f5bc405d8a7981733c20a1d86e9b8622c6c20f2d3452196098d5de0538a83e8530467a1e82f81c37897e816751d5497f54be70f1ee3d0383d72dc7951a6cf51238886f33e31b6450d7eefb59c00176fc296caee876c396449db3684b70bd15684cb0c625e5eeeed479081854e3b9a693bd1d5267e848dfc4f0da301ca695b75830de52ead1bee39cb870a659b120383c400cb08e45fe00ab6cf91f9312d41d44d0bd31f5374a57edaebc293f441c16b36fcde571650cc7c13a261de9ae981508810a21958cd37051b0efbc1f72e8ff49de6f41f671d336c6912763ee567a1e9e010b5b84d63dd22c9f7ff954e19e5e9bffb09365bd55a98463e232d062aab4c2ccfc1d629efd9bf6e3383d36dfc41dadf147e03"
+  },
+  {
+    "id": "cnv-13",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1F)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(35)_8",
+      "(37)_8",
+      "(31)_8",
+      "(17)_8"
+    ],
+    "secret": "f4d6e00b287d7ae8ce966cc05fda6d256218bea4a4c5082e049e106a8dfa0f2e8d38eb0245b844f5ce04967453fafdf14caa5e65459811df4c59efa563ff98b2264e5c1304023824ee4a13463080d53bb0eb54eb61d6ccdc17cb32de3a26f9e526f7bad0b233d5f9f575c555e2810c73e001634891bfdc577f769b138482af9431375777a1d4510ad21604900ce07d5b32d9ad6ab6d1394bb347879ab833c9a24628ff3c037bc45bfa3673a796f5d34fff0783c65b2552a25560b90d0bd900eb7257999bbcbf7b1c6a2cfd50c3e38bfe226f092b5e69975f16e8372a86f0e2084b91020544187a6ce6d1d5e31a63dd92d8dafcb522218b140a45f1307a3f0972876f015aa3a0f86cede06a7723d5a007de61a82eee4fad952d0812f5cb16e9b8eba1793ed977ea153b3e6af3f380900093af760dc0df0b14e8a16415f4361f9e8dd15b8a020413cf29540c2c3adb4a98a8ade7c9bf5540c2d8f3258aa5cf93f9b9b8679334"
+  },
+  {
+    "id": "cnv-14",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(64)_8 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(34)_16",
+      "(40)_16",
+      "(52)_16",
+      "(64)_16"
+    ],
+    "secret": "8cabf359c12f0b44403a7587fec3dfb70d16788215bc996b7f401d401742ab47ed51c7b450cf06d93dbfb69ea3aef45d746a07ef2a9a7c1e808963067991b969c967c2a0275968395cb757cf7abaeb1b7068094e70e93440dd6386d9003ec07af43898c7f4b6707727ef2eeff9617df64e07cafa1f258d22ed4f14410b4314971a36f699920191b680f0582bbb70b0c93cd38255eb7f832d42a10d9e82d15691d5fda37c8a32da1c836a6a4d74191e2c8cead2ca834d4deda3b9b0ea332d3efb79b6653bd2df5b85ef268bafbde9492a69f50cc116b784d3a3c7b83156a697619ccaa59fd1509e30197566f563d0c19cc24d48e13106182c77bf2c64b40af7beee9ad76d5b69a26f9cbf94f4c1492c9714b579c7092142fa9749206c5820789e6b818deb30598d50f67b80af1a542bfeb41a2719ed56cd974a36499728ef125537104ec6ce5554050db0f153cc746dc1b1b2a460785dc5110fe7830af84d922e9cee32"
+  },
+  {
+    "id": "cnv-16",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1101)_2, (15)_8 ও (D)_16 সংখ্যা তিনটির ক্ষেত্রে কোনটি সঠিক?",
+    "options": [
+      "তিনটির মান সমান",
+      "শুধু প্রথম দুটির মান সমান",
+      "শুধু শেষ দুটির মান সমান",
+      "তিনটির মান আলাদা"
+    ],
+    "secret": "edbae48ca8ff23e6d232751410d2bf57949d22be92b25d09b2c1eb769c3500deabcabf2c9dfe2c757a6c8bc934f76fbd9feb447fd563157ee897e7e97e8dcc4e6f77368c5a47823e7903c916f53273bff7df95488795d5df6d2e2f5735f1f933b68c9508c24f1e2794f3ddce6ba8d1da65f8988cabe238facddded63c03ffe4ab40deff9b2af1e11405136a7146c209dac1237ed6724001e6575703fcd521508777f61ceff4b10d96f475a9d36707194acdb04de8e846124f631bf43c1a15776106604edac117e26d80f2296717ee2b0f4832772b13764728b57f10955fe7c669474fa6a4253d818e99e38d27f8b5203470a7e07ec2cb9cc7605"
+  },
+  {
+    "id": "cnv-17",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(1010)_2 এর সমান হলো—",
+    "statements": [
+      "(10)_10",
+      "(12)_8",
+      "(B)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "4ec62488fd012d1c45310e58599140f14d6fa349112f4f3ad9fe882dff45858625eb5da11c94b70d23b69b954061d5a5b3baedad8d8ea9a281ac9e5c48c4c410d8eb46fbc24670412f21fad668c7e98cc4ef835b8fb642bb8bd3ebac0b8c78ea3a6b96ff246a9eeae340f8fef868d3fc707d48702a1ca3b3efa5925fb68af896c4812f26bd990fc375f580b0f63734bc08e7d97f385ab638509e9251e86792b01b5a26bf3d7ae1dcd34cc27142b7d12b63b88426b2c4eb0448342fd72c028ba77133d821ab7ddcdd0cd6ccf87428920a327c32dbd7cd57574c652f190e98250fbedaf255e3f15870aaec3e1edc"
+  },
+  {
+    "id": "cnv-18",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "text": "(45)_10 এর সমান হলো—",
+    "statements": [
+      "(101101)_2",
+      "(55)_8",
+      "(2D)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "494f925ff7b2e75662f35a3b8c846b3d9a7308e53b2596728e6e5b2918653ce3e5424fcceeae0cf28d21c2ef0e5f414eb727a0f666355fbda92677df8ddf88cee1d6d329330a9ee30d23758fece8ce9e4338f5127ba70a58b0caf518efba18b1666312ed61f1bf43ef7b62b40ca9e102a37f66524020ad7247accd2de156139486fc627feab2bb2f246105e0d35495fbf0e0c015211f14961c650becb0f3ab7cf7f9df0693282d3889417e3cef00cd9d44f3c0fb33cd78792bc76e366f182c99ff6b4a9def4205c25604e7fa7dc95a7bdf39288e6c97d9a758"
+  },
+  {
+    "id": "cnv-19",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-a",
+    "passage": "রিমার খাতায় দুটি সংখ্যা লেখা আছে: P = (1100)_2 এবং Q = (17)_8।",
+    "text": "P এর ডেসিমেল মান কত?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "secret": "99710745ef9e3472c60f6082e6374293683113cd37c785dbdbdaf40c8bbb9fd26db4a77dc0caf4415826365d51acba7eeb52b2913a9be6317e4ea860de65835b34c906741f69735a687dda89e0c23ec58b851cbcb4537bd842e3b5ce4543d8d4883159accceca1e93605a12597e28c0b93c04819a77681af2735ca57ffcd9b21c76917a2552f7bd506fbef286a230088709cdc6405c84d3ac40534f5ab880eb4fcdbc9175629d9b61097c7e804d35ab6c78a8238affc92fec3c18d32cbb934568ea8ff09afc81ea7373bb3de33d9a1b8d001d5289808e5a1c363bd00c61a"
+  },
+  {
+    "id": "cnv-20",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-a",
+    "passage": "রিমার খাতায় দুটি সংখ্যা লেখা আছে: P = (1100)_2 এবং Q = (17)_8।",
+    "text": "P ও Q এর ডেসিমেল যোগফলের হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(1B)_16",
+      "(1A)_16",
+      "(27)_16",
+      "(29)_16"
+    ],
+    "secret": "4e58258fd1d3fb46c0e973f35b5cf75ef747a8dbe5cd8a219a0e7f0d22c0c468ee61cf8499192eae8aa7e36bea5a60fadc8c253578cc8cbbf6143aff979da4641a6ab345a3548b64a6586e858eb3fd3ffef4338a440d9c5cb30d8de7757850aa992e8530a9a798d51b8a4f7d75a29dc1137176d18acc1ea909113f4131357a5ff32d958986d95610d2896c5845d8606f892fc2e1f1274c14dce9a7065eff7cd489e9f8bb386d59220b8827e6cf6a0b953886ae270dc5521816ecabd784b09f572764ce456dff8acafa22ac795935f35f309261f2ff5ea1e48d8a94a0748e9981329fca5f869748e7c30c2be15ddbe617ad06c284bbd87fb31d4b401acf4de2ea9234ead5d54f748cef8dfb68b4512b7573de"
+  },
+  {
+    "id": "cnv-21",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-b",
+    "passage": "একটি রেজিস্টারে জমা আছে 01101100 (৮ বিট)।",
+    "text": "সংখ্যাটির হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(6C)_16",
+      "(C6)_16",
+      "(6B)_16",
+      "(5C)_16"
+    ],
+    "secret": "3a2d619d313ccf31d9dff167d2bbe5ceb027f99ccdce5f853c6ccdc559e5ae80793fac810934c5abd9d88061308e0a7317e5ff6f47daecd335e7a2efcda71fc40e84928391e9b552c24ed3241a039d6e0c26d1ac0f06f3f9572dcd4d3200b9e7247314d519b9d7b6cf345949440a0bc3452c95015e8364c2399c3c00c600b9a53881bf0633b4dc31c0ec1a5c2b7c1dcd6745d2d2089c737c1cef0a9ecb749e43f06392b89a59bce2f1a592edfa3bed3a5551f745c60084c256befcd0df69c1342cfd6ca4ad97b82625cca474420829d75f9ad8b578cf48477339"
+  },
+  {
+    "id": "cnv-22",
+    "topic": "conversion",
+    "difficulty": "medium",
+    "setId": "set-b",
+    "passage": "একটি রেজিস্টারে জমা আছে 01101100 (৮ বিট)।",
+    "text": "সংখ্যাটির ডেসিমেল মান কত?",
+    "options": [
+      "106",
+      "108",
+      "110",
+      "116"
+    ],
+    "secret": "aa9cd9440bb32f548b1334584885a10e7deb11750bb9cd8ee10839fe9a9598b1f9283ffee3d2d1890f3c1cf3202d94bb39c1561b77307663c04f979652a8ca89710ba67f4eee90b675506366d6f7636139d7521df70eb744c71c90d63491ceea37b1c8fcd9687150c992e064920cf3731b96b4117a6be82b93c6e32e6aaf62bf5d3158b1cc3f898693e24b86a456759f49a4af24a5921174fb0ac2925fb7b60aa2625e7221cf87819674d92ca27843c884adb60d83aa2a47005178dd3b63dd04fa2fd7fa941951cc728dffe4362bfdd428134c0da5d03172c6c98a"
+  },
+  {
+    "id": "ari-6",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "(9)_16 + (8)_16 = ?",
+    "options": [
+      "(11)_16",
+      "(17)_16",
+      "(1F)_16",
+      "(H)_16"
+    ],
+    "secret": "cc31f228fa43695129084b0caa8aec609631d00e24ea02ae115759f5760684bef41a7435563ffc1e227a5e047b9f461ff1b56f9113bf35255b31a55799a4d8f36ed23ed2e3b4bf16e0268a39fb7102575d02e4b2dcf6a9b97b9b695d74e42564b67f667b2cd12e55b85cb8f82ca0cd5865c488c7c7ef678764752c72b140821ad937eb56195e3ec44d9a9a196c03b64f44a152147f6feffced98e82b356fb1fe3e0560375004ca85b2c5b24a44a5ddfbaf5261127b0fe593b8eee1e35ba61eb870a1c160e4b77e21b31b6560e5917d373edaa5dcfd9982ccac91553def73a0096b1ce080cabaff3c0deb6b9b10f9f3baa7a26cde28dbac92e32ef3597d13b371a57ee620f57ccbed9c95bc9afeec8ed437ee63ba1551eed5c7b34fcbf0bbcf"
+  },
+  {
+    "id": "ari-7",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "(A9)_16 + (17)_16 = ?",
+    "options": [
+      "(C0)_16",
+      "(B0)_16",
+      "(BF)_16",
+      "(C9)_16"
+    ],
+    "secret": "8c8e6475729d503c9d1cdfb6eaecc444ea8856bd9fff12cc18090dded4eb60f62540d244ac27f308e93fb45b57c18a6a77d1bd4c1f89ec9976b125b498a491838e05c3241f1e5dc0b266f9b4edc3dbe822585fd2cc1834e8c4b76f2fe46f2822dd8b82edc39574b4ca8b09d4c7927f69ce807e34cbb0ccb6212cf8912a359b1f61ba0dd4a10371cc216b1955c7c02f6251a7b08f5fbc3a5a3d8aa2eaf01de5feba0ca94a92f4ca57ad029d5b8b850093fdab593039a4da2ad89f99362d0c8c6b62eedd33cd09f4faade2eb2669fa48b5c2e4ea1e99cdba74b62bd8a650e3cda14ea215b51f06d423b74a5642bd333812b91bcd7685c4f48e7cda2f49185cb37396ff7f30e7a70dfbc36c261b428c6676a75e066545ed45681fb4504fbd979f6474d9aca943bdd09ef0b77b2dedd297effddcf335"
+  },
+  {
+    "id": "ari-8",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "text": "বাইনারি যোগে—",
+    "statements": [
+      "0 + 0 = 0",
+      "1 + 0 = 1",
+      "1 + 1 = 2"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "de321c2e0c7dda6ea5cc8ec8c19d700467cd0eab9f3cff9872690ce8dbe0ef17665123b1b8bcf78babd68b70edca7ff8a63905fc4e83a3570756fb08ff6e12fab0f42ab451b44c6fb75775ad398702ca736ec62a4458a3e65af9e1d23feb0fb4043be629f72fed9ca546fd002279bd0bc1a5928d092bb739c2decddae37a3118114f1ac80c5777196057a2d6ffd0120761fc62ef90b85d0b04715def842e95fb89c589314022882a7ec3035383d339525c2bcd5b8b25f7412ed8d3da4a392ed17442385e1322307da8e0b8a209121e043990e5289abb2513d12ce103c964dd1e8a352c8673f7e9d4a9e815ed9d56811edb4d7d6a750f7819aa670f5bd9effeb0f6ffef0117c173d66d0c32d2be166f3b69977a87b738f5be93c90c33b67eda60b6b38d848327c95a50abf0a09d18ed18df7187a21de28134c91dd3885ab5a1d8894619313e989eb70778feb6b595c4a01310e47c698f155101bc7aafde0dbf1df300f91eda"
+  },
+  {
+    "id": "ari-9",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "setId": "set-c",
+    "passage": "দুটি বাইনারি সংখ্যা: X = 10110 এবং Y = 1101।",
+    "text": "X + Y এর মান কত?",
+    "options": [
+      "100011",
+      "100101",
+      "101011",
+      "110011"
+    ],
+    "secret": "388bd68ee777e6496742acb2160d91ca4083640c778599fd9fc6ea7a2ff8312737cae67ed227b0c6ad00f739bf2ce667ec4f02fdd81d485e9fcb9e1cf7db04ebac6b74b329dbf17f8b3ff13af80355aad62bfad0597d6db1b1c761509919154f4256cbed6f33ded4bd56d1dda4b26bb90c0d63887a4ecbf2608bf721f54dba3af13333feac8fcf1e24cfd57b687177ed04732b7d1bc8e3d12c84d1dfc7bf66d6588504397a45d8d0e6a7ab91a7572f970dd3e862effa522b115ca75b5592925ee60b4ec0a0409280d947e97a7e20cce93016d11e5d13cbc95fcb8983088903fb071e1a7005ac35f9e925df90e046a432bd226eb6a0520c49a1bd41800e171a50bd8b11f02c35cb7652db707095effabd36745806befa07130ba74e120aae6fd583f348adc79b5eaa063d488355cd91094ea237a3085c58ad4e20f9ed91bd74e66ca43a99dbd18f6edfb35cbb8aff77d04fafc9fede459cca65d09a582510343dd11cdf5fbc5f44e943761d513c5dc832ab6f4bba5b871796a039df23ad8ffef16caecb9eee25bca8630c13bb2efe5382f0023c82fc898d8757af0f193e8efc2c8956c0236d5e20021dba7bfcc6cced925a3897894237ca5d98a3b4502520d71a4bef454cc19152e8c88d36b8"
+  },
+  {
+    "id": "ari-10",
+    "topic": "arithmetic",
+    "difficulty": "medium",
+    "setId": "set-c",
+    "passage": "দুটি বাইনারি সংখ্যা: X = 10110 এবং Y = 1101।",
+    "text": "X − Y এর ডেসিমেল মান কত?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "secret": "097a5e3ed951314ca7324aab7888e93f59530e84c889272d1b8117069225dff2db1755fb80b2b394d1219bad64318914263131500a8c79a3aa56a6e0a5df19f7b6d3a8577108e5a80523f7b995723d1f70f1a35e1da31b60f2d7db8c8ba00297ac34371159111c24c9c2b55924d072fcdd9153077cff9a2b0cde72eaa26ef4ebbecb8add84d837d6fb0db9"
+  },
+  {
+    "id": "sig-5",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "৮ বিট রেজিস্টারে −25 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "10011001",
+      "11100110",
+      "11100111",
+      "00011001"
+    ],
+    "secret": "317c6d74c986d700981c2f6c6c3fa8f705e6dcbab9ea970eb2cffe77ff100aee076a3ab0c97d7418bd4158e5cfdbb0e5b03a27f25fdce84ab8943ded8d85209e5b57cbffb9b563c16bcb9703e00a36fd37446b608c703b4f59473aab567afe8e7007062c63703f03bfd995467789b4d74eea45adab686ac24b289dfdfac4d236d2ed4844adc612a94a1ea3fe18b79c75d38751c1a327921aa32ccdf08984aa6d2788e59a3d35546d2bc76ec2c9a26a67d7bf538e7e87cbe1a3dbb75062bc08f26bf7c05f5ee721e4cdc5cc24ee3e422779b476e31d47bd44d3b269328e43c05a07eed4e20e5eb417f8d500bf937c2117d0657bb942c5e922efacea54b3a9ec451b413fc05e144174a25e004ee9bd4da99cf4fd2f"
+  },
+  {
+    "id": "sig-7",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "৮ বিট রেজিস্টারে ২-এর পরিপূরক পদ্ধতিতে সবচেয়ে ছোট সংখ্যা কত?",
+    "options": [
+      "−127",
+      "−128",
+      "−255",
+      "−256"
+    ],
+    "secret": "80b3584e751fb845f7c3beaac7d172f498476e0bed4ced2e82d1f079b934bd6381d654a4938d24f49865c057271a0d9ffbd887bc347537ed47481b5ae62311730f55d2544afd0fa1fb41b2fa3c15b98beb5af603bb927782400dadee4f8dc76ce38d3684ce518336da3c3c1afd591b819ef0977d58c265f47ae25545ee7cd9a1c6243a5cc0094c43e4707da945a2ecfe56d78b0b5a91924d3a213335d3e44d4b96766007c6f21585f2c27ccd1e58c6fb6ec46cabf3c5673dce259c095d6554ac4e285b5f8f45f036d8fac21bb9b6a16e05664a84f7b1d97ed8b682e74fffd49d73a91ad0ad2c9b925b88e887b5875b5f606c23f470d2a89b45a192878737c240cae663a53d9b6fb5b841be62f2543ee4b30d2e1192ef74caf9899cad8ca976ec6ca39c2da4aab3f6da324b958e"
+  },
+  {
+    "id": "sig-9",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "২-এর পরিপূরক পদ্ধতিতে ৮ বিটের 11110110 কোন সংখ্যা নির্দেশ করে?",
+    "options": [
+      "−10",
+      "−9",
+      "−118",
+      "+246"
+    ],
+    "secret": "4c5d015fd198457125371fc744ce58d29e8a1edee6ddd0f3c722f855abf4cc3189d4c16c677d859cc6607c26b576cd34c15f23e7a0bc81aa9e409163d3bf0822055ac192b5468eb2420a8cc0d8bcebdaae9a7670bb6f89b907535117453199bb8bd383faadbaeee59f4d3520cf18ea6da1e43315995b3e4a71d54032afcd60b954ca0424843b8cf1860ce54a9916f30dc718726ecdbd1757584acec214826b98c21d0f13ce561f7bd1eade27fc183edffb7f455b93cfe5740693bc6f2b90ade0f7c3adf480a3737a2eccfe2bc6445deb736c8cd23c8dc76134ee78ea464345ed01d6292daa901647ad06cfdefafc8c1bd0578e46bfbe670a9a37936a1f3d1ad6d871dd3da8094d2bc87be071fce6bd8e007c85b9eee8236274a922659213"
+  },
+  {
+    "id": "sig-10",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "চিহ্ন ও মান (Sign-Magnitude) পদ্ধতিতে ৮ বিটে −5 এর রূপ কোনটি?",
+    "options": [
+      "10000101",
+      "11111011",
+      "11111010",
+      "00000101"
+    ],
+    "secret": "fc8ff9a6da920f251424fe7bf6198f98e255c1028d252c7d344177a4686aaff9a3aa0d2553273267ba8716c2aae61803eef3163a1d12563e188ac965c2c9b61e6a9a7cae5f1dbdf2ea2bb7023abb35f2e2ff10fb44bd09eadcf1206c0d645889ce82e6ca08c3a66d7fbce4cb86dc9a69586f9a670183534b58304ec28ce8f2d20cf424603fe075c84ea43482bb6d773718d615ac6c58b287d14ada52d9b62005251ad7b3e9a539d8ab54dd23746f45a2c1e3c20410d8a0a956a8fd27c41158527edf6094f67bea0970b8b0ae2ce3b77cea89f696c874b3bc45c61b0643e1ec2386be62b1e20fed27c21afb6fd1bf22d5f73e92bbef9022e537edbadd446d6af1a80b99ba576504dddaface14d32259d36ee1dcc3e3bc166e1f237497675b46c56c433b288cbfc48282b8eb44fa7e13540513626648e12782c376cf80cddcda0613935e8b73bd4edd55e6f7597685845ae9520cca182cd9b10ae707f0826c63b8a514452c1e05ebcf5dc0803eaec48ab9e122f50ec9146d23d61ef8f54dbffec5c5ac4b7b1b123e620fb0bb179a3a382138201687065c2f73a90540aab07154096bd2011d432e4c97332f8d5381c7420f25afa48d4fe73f5b41169c2f8fa05c50661d6398914db4595688e7c3034a92c280fcc68bd48bce9b4f06e0d9934c4f1747bfdc2ecaba3fffa934338dbb0f295a158633f19c1ded4d37a24414"
+  },
+  {
+    "id": "sig-11",
+    "topic": "signed",
+    "difficulty": "medium",
+    "text": "২-এর পরিপূরক পদ্ধতি ব্যবহারের সুবিধা হলো—",
+    "statements": [
+      "যোগের সার্কিট দিয়েই বিয়োগ করা যায়",
+      "শূন্যের একটিই রূপ থাকে",
+      "ঋণাত্মক সংখ্যা প্রকাশ করা যায় না"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "cadfb4aa8cbb1787ce6c2a4013c23424ff19253f165b719cd1a6ce0dcac4e7e120c65baa32beb53fa1cd88b03d7898ca472f5955d327440ef288cc827d8bf4921eef76ff28be9e5ba50fbbda5d31a2c33ee59bcedf6427ee0128448c902f7fbcf8d3db68113ecf5febe4af2e5f35faa32186574b7136e30fd9f817beebf9741acd301b7902ac29ca0a6ba890b67d3671881108ff4353150594671bf3cdc67c2a75d37b0b33950fd5854a163df987209f6304ccb8b6629345e266db4e0e5c23441b241d66ef68d9466e988c4d145b205029372460e2e780738550b3d49771dad0af25fda264692371383012518d9644f425d1ccecaf35d58f29ea255d78eff3abc8659c5da1b476b90b3f4c9e4f0d7669dc03ac6bdc2d897d9b652e5a36d2e75ff7d6bd9c090b2ef99c9d134ae3eb005d7d1a6e9c9676f5d0fe1fcd91ec04feab691e45883e45561c55c95f722716304348b4ca95e67fcd808dd570b2aec4cdf92329b7a3326907d39732be81c3c724d9aede9b930623b03c5e0cb0f2852efc187863ecc9a34d71b6807fd3c002ae5632a0c5f82ccbb559aa4bebeda8d0097a42d048396f066473daedb88c74116aced4c3afef77bb6d10a893f8acf0ccb335a482ab9a70a23c744a903dfa54b68c468e0332e44791c70334c737162ae5c9303a9a860e9ee18911cd3b0d33a3f858125cdd203bb42437b3131ab3ac9bb82afb0358f7c52f78ab9cafe75bed6eb6b5fbde4fba8d73662b82fc845c1b95105f72d2e8a71ee0ed8717782d8ea5c6cec9eec716fc840b968f53fd9cabab1742d962fe75"
+  },
+  {
+    "id": "sig-12",
+    "topic": "signed",
+    "difficulty": "medium",
+    "setId": "set-d",
+    "passage": "৮ বিট রেজিস্টারে A = +18 এবং B = −7 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "B এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11111001",
+      "11111000",
+      "10000111",
+      "00000111"
+    ],
+    "secret": "7ab62e9b33acb15d015b0fc24c71a3701698ff2673ed60935b3cbf27bade08b5dfad53a232222face3cc08e66ae209797cc2ecdb6df54a3102cd220bdd6dc205cd3231b9d7c7fb88aa4b49ef184992d6fc81e7dcd0450ae055938de082ce3fa6eafec387a21271812af0c1e163358cf808122e620987c148a0d67e061bb8989be2e5181a009aca5f847473d84b6fc1590aa2062d60d88904ec687e8abdb4d5e3afaf6689fee82753d9ad49567196d971013b8cd7fa87a4f4bfa305"
+  },
+  {
+    "id": "sig-13",
+    "topic": "signed",
+    "difficulty": "medium",
+    "setId": "set-d",
+    "passage": "৮ বিট রেজিস্টারে A = +18 এবং B = −7 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "A + B এর ফল ৮ বিটে কোনটি?",
+    "options": [
+      "00001011",
+      "00001101",
+      "00011001",
+      "11110101"
+    ],
+    "secret": "65378d95f25bd1d588fcd696b6e8cfd2ccfc7428293e37574b2b4e793d3d02adb5ef52d1619e01a512059ba573be6db9224800b1dd4227fdafd478faf0242cc0cbdaaf2c9a6bc6c0d5ec97a2e00719f1ce3a28c17ea9113483815ed1afb3e46e7e4b61a1438faa1032f3fbc6f33c7738b83f50471e154fea3c0b8f77d0704dc6f252c29a4d6538326805f29359257229bbe88606cc6fe67d5b237fbde7d8d58f9b3ca7e62c7936b9951c46d82fce244f5b9a945c27ce51031fd97682d8651e34b4d2ce38fe0c0662d4e29bb632f04b492579c9694babc2c75506f122f873383847b4b7fcdae7e3aa803da46226f2cd86c78116b8a5a4fcd658c8911f5ed214a1625967ffb0d390f44380ecf6f00d88db72e397a0f9d5373afd9ff13e782c14483c51a85641fde974671797262bb1532c5b45a8607d9ec6e2a7bd7ee22826723ceb64b129650752125d1b3053489f0e5c71cc32481be13124e62e53a7cc54e0981a2cfd0e92"
+  },
+  {
+    "id": "cod-2",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "(59)_10 এর BCD কোড কোনটি?",
+    "options": [
+      "0101 1001",
+      "0011 1011",
+      "0101 1010",
+      "1001 0101"
+    ],
+    "secret": "007df16331ff14e1eb1e9dc9a9c5553ca5385f088c875653fd39fec7c470fcf28a04fc76d9b7a241cf6ed6ac4caa9ddc64a529380d7e7ba56fe42138071a77e6b71b8aeb1acfa2a79c0f5c612fea0aa65a7a5b5cfdfa105d27b50d50ffc4f74e2c8bfc07b2f97e86cb5b5668a7ca1296834fc21f1fb753bb8a41344337e8f1d3e3d34eaaefc15d7847c480140cb20cfbce8636842d8b9e14bf3815522df4814c54508672dc5aad7befddf8d1b08e5d76744d2f8eb4a6fb68fb09330d14c9fb3eb18da03a06158d9d62b3724ad69e230f96ee81984551ef753d4869dea88d4afd202befdce14e9a00a8a37c22a0652ddbdd88ea5f51d110add274f860c91b2d56251cba1191b3b899cba94d87afe93628a1b1468d8fc842c4464b2eee10032faf01014f28f76f44b3bd0fc6c93371e8e82eff467ce430772159400c130732c2be35d1415843514495bdf49bb2"
+  },
+  {
+    "id": "cod-3",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি বৈধ BCD কোড নয়?",
+    "options": [
+      "0011",
+      "0111",
+      "1001",
+      "1100"
+    ],
+    "secret": "9bb6def28c190ebb4b3af319da3cc171a86b6a344064f3e26ef286e67e424ea71f4c36859c31ee692e1765a5111a241eb9cc05832c7964916d2ae1759e9abd795d3f965bde8b0c8dda28a5f09925845c08b606bb846c4edc13dbd85a3beed806fc6560311a4ee3a4ae8e88f9e8cc60f22f13aa5695f51efb44289d7f2c3c57ffc9fb3c51655ee47f2d9b1d7b2986e1efe5380af0654e59a14fe5c6e207ff10e5436f081002b7d5e9fc9a2a6e98dadf050187cc6453bbfc51f504cc914a2c597dc8b1c59869b81e4192d0e40351e76488a06626c1e7cab98dc401bd44bd0bc5f8c7c58fc446c19787b41dd8af8306225d05466600cf8e6ce9c7852b5b12a90d9268167b3093940bf034ada156eb10ee9a16c7258ec4f042c27c5485708aa2997bc263da5b183845acf643e80db1d96a3152915d2dc4d9f3c1aa82c4cebd8959ee4531c66126270f2b8571460c47060d26ca6d549980f918f8ecf69cd51abc9f"
+  },
+  {
+    "id": "cod-7",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "ইউনিকোড (১৬ বিট) দিয়ে সর্বোচ্চ কতটি ভিন্ন চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "২৫৬",
+      "১০২৪",
+      "৩২৭৬৮",
+      "৬৫৫৩৬"
+    ],
+    "secret": "c9aaf26246d5f9329a3994ac44a463a370dc69c6d3bbc2c49a805811e72d3da078098f66f37de667b5a629f1604338b81fd60a60c6108756805bf098073b119fccd52fb0c6fd42313d4b970eb55d710142a8b88112a917efdbf933d4c9be4bc94103a36d7c1714f8d86d2a42f9338982bfa560d07dc0da778491076ac871340bb2d2854a1dba4d27bea693b9cf27a11807e7b51533828f1562014f03e7e7e36e17cf3c10f2de963914ed3d1b6ed7c3e83b230e5f86306bec5e74dc1dee673e511b1a1bee8b29e902f857d9545f5bc14dc171914b79ba56d19bdfbf8a700ff51b2f04d8549d725aabaee9abd4ebb78faf7c21022f51fa2866"
+  },
+  {
+    "id": "cod-8",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "বাংলা ভাষার অক্ষর প্রকাশের জন্য কোন কোড উপযোগী?",
+    "options": [
+      "BCD",
+      "ASCII-7",
+      "EBCDIC",
+      "ইউনিকোড"
+    ],
+    "secret": "74cd919d1c986cb5b999e0b658f5834d6c39bdf8127b0e2fe798f795de6d5463a3e6d1940255404af81370ae6966274113a584e429363dda4cedc42a05bfe2a20b596e05f4d2dab391d31ea76fbef537c5d2c3e2896838e8a54e0cad6c88c47941a834148b866c5044d1007a45845f451cd1fa1d99f6de7aa0aed8d03defcdd17dadb6706135ceb0531b3926422a483eb0272a07b1ec730d14ec525ea796ebda2f2218756455809c2994c3e8089cc5665cb58f46deee104858f393950fb260189bc86d59985b845e4ab222f8bbe73d3e1c4230060c84f0297aac93064c619eef4fdc203eab416126999b1ccbeae0233293e0ae30141b62a2978e1edb9f01a48c10c1d1f9a1ebb3904bd8ac8855f3eb9864a57dc0682188d3957ad647ff0571262d96b0eb3b20d4f29c1b747022b9782d0537746ae5c0adae5543c28cc1508e82ba8cf38661453b2841721f547739953fef78703c9d07c8180b6b17c46f2c7e7cefc3857693b8137347462d42699ab19c6e594f851bd1d9d8bbf998ad26c60895a2aef49b656da549e25744170580d73d3ba19a887ea4b0f0cc2735d2e228372277b1559b3a4f287a281643c3b5a2be6cd3b9348cd2edcc988a5a8587a81bae873ba5345cd81a6a01b0651f14a51631abe6417b8d90e765a3a8853c4ba2b4c4a3a7db28056618c2ef0d990ef9ccd68dfcfc166542c8476581605aea200348a162e00a7b0066eefb2857b2d4a2"
+  },
+  {
+    "id": "cod-10",
+    "topic": "codes",
+    "difficulty": "easy",
+    "text": "নিচের কোনটি আলফানিউমেরিক কোড?",
+    "options": [
+      "BCD",
+      "ASCII",
+      "8421",
+      "বাইনারি"
+    ],
+    "secret": "f5cdba05c205d9cff92a5b561316c6055d5f60e2a556a536ec6ccf9d0c98277e647ba356cc0e435a4f0ccda493b13f3da37cc686a248474239a421517434abf9f7bed9323c51ae414acf73cbc9f810997a8dc4a0fd977e4fc70a583ce8c55d1d8345b29c26decab469ac73e7ebf40363c29eb4e9fd24a5e9562dfdb0aabb061632101b31838f6f3e01a4d1e32ef058fbe951df895aa73f98923380a65b799d1b752e5b3ee8ab786ee45bf59a355dfb50945c0383269a6d6e1997c180ff6cef998d12d92de9e49d569c2c88f4b0a77da6d3a3438fa13fe665d3042747ef5530218b4e3222aea022f0a00ba445a3ae3a8a9f2733b8329e1ca0cf18e52b150d4f6a169645a92db1d98aa569a214e882ed3ea4ce52d0b19eca384ac88efb53f5ad2a79dd11d8ffc26486458af4e1beacf27e87d24d8f30e01c3a7ee150d1e0bb89e5f6048e8bce15981ff2ff7f35ebde8257c3ae2d37e831941c5e9204ad07bd22730f4529ac7e39233ebf93c4f6102ae28e6e7fdf8ce83a8a2be70b879eb1b3815baae953d1161f16cbc3f7920088f079804a4e2d399352d3337504663473b2e4b8be54e94c2d1166bc65e888861c1902eba134ca9891c44cae1f82a2932705f6e1f93887092f1991638a365748dd7075d4b1af5922b5eb7e40ae014396825b2c451a7189f6065e4a29810d4e1cd9d0affc41325199dfd941f243ab15d66dc0d2b673279ee788a149be6a45305f11"
+  },
+  {
+    "id": "cod-11",
+    "topic": "codes",
+    "difficulty": "medium",
+    "text": "ইউনিকোড সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "এটি বিশ্বের বিভিন্ন ভাষার অক্ষর প্রকাশ করতে পারে",
+      "এর শুরুর সংস্করণ ১৬ বিটের",
+      "এটি শুধু ইংরেজি অক্ষরের জন্য তৈরি"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "bd7ac58ac24ee54ebe1177c728ad39e1d093ca92c8d5ec533624cce097ae5326da82590b5992eb17c4837ad342bd086925e590d68b4802e910e4287daa24fd8454e397908de63698de03047da8243be181d50be37a2ec0a5e9bdcb636d1e584c2861c5219d0a7ca2469ab902a18e2b76e116995a01b43749c4f721714b0e3583d4af62f31df77b5d65dcbf0251ceb8a079e06c44f7cd525dee37753aec6c2358511653e9718fab78faddd93a11ec009f26a7e9ed019e60f1e47e017dc2fa009af67cf047e7f20d19046001bd8191dfe47a35c5cc816a9ab489708c6b17835f1826f971b2bd8752c8705cca903a0db645d00a6967f005fe26bbf8d1b71813337ce97f1d26334c9ca2415d51421ab70cf24567955e89575144e2271de24eafe0477c7e793da25b7a08107c08bd3d22220ae0a7dbb08175663c303409cb26a5f2be0b467c5ded2c0a3971521193e2d158e4c996eb0093d8f9387e723ba97cce2c3b04091d927173b34e53c355ce7c592031b795d741af745c9daed811db6a5a057a5789030ebb6b6b3dad8debaa5fa1ab4ae6e4f47bfd9396b071a7cda6e8c067953182fa6a4add45c6f53415e8d172f1336ed83df39d7f00a60a"
+  },
+  {
+    "id": "cod-13",
+    "topic": "codes",
+    "difficulty": "medium",
+    "setId": "set-e",
+    "passage": "একটি ডিসপ্লেতে ডেসিমেল সংখ্যা 83 দেখানোর জন্য BCD কোড পাঠানো হলো।",
+    "text": "সংখ্যাটির BCD কোড কোনটি?",
+    "options": [
+      "1000 0011",
+      "0101 0011",
+      "1000 0100",
+      "0011 1000"
+    ],
+    "secret": "67eb0fa94eec01dfd0999f9ecdaeaceae20869e6713f75830dbea2065704692d994bb5992add36534fbe09093596962221d227d7668c164304ae35599738c86336cd5f9b282eaf7c7223b450354f925a998217a0b359e9e25158f03101a183317d7e6e0a7e78dc3629f2054709a4eeea70743166cd8d8c19fbca7144153857cb1490fd05e237b64e3f35c9ede5277c8093a1d1465b651724fce4cadbf192d3eaf0b6924199fcd1b966457e76c6d6fd698b53cb28b0e02a0597eabaead44255b309d66ea7c2c6c285"
+  },
+  {
+    "id": "cod-14",
+    "topic": "codes",
+    "difficulty": "medium",
+    "setId": "set-e",
+    "passage": "একটি ডিসপ্লেতে ডেসিমেল সংখ্যা 83 দেখানোর জন্য BCD কোড পাঠানো হলো।",
+    "text": "সংখ্যাটির সাধারণ বাইনারি রূপ কোনটি?",
+    "options": [
+      "1010011",
+      "1000011",
+      "1010101",
+      "1100011"
+    ],
+    "secret": "0f8564007ee1f410b103de4acee5dfde93604b7747f179bb96cb2e16a5a51ec5de8b25c65356a9eeaf0aba04ff59820745a84741628242aa297623781764717c3752ed96cd688ad36a73b25c9ef7876d434adb06962d69ae5afb1b34e9d532a43b8dc0f8581cf9eb5e153b2a973e804b736a5b2af49ad83f5383bb2452d017f02bbe0967692087cbeb2af3e36167370408204c35573edb5ae9466cbf16f716a15812c1e5de9c2c1a84c6bd00aa19d47cdfd25b4a7595a9c89377913b369ad2809afb744ec86a85efb9c82fd8ed8aa5792867609e84c69a5bde55d51a6a170cadb19d074a6542fbaf8042edb749b5ed46f30daaa3a1a78fddf6b5e1ddd7f32a2155739aae11884948612e8e2fff899bf6027668724f5cf681ee829b27b0aef545a5913d72b5f34516ddded8147f0a94038c34e099bd54fa6b8d265128ff0857fcf37dcd7c406e0c787c6665fe5f4168dd1100b80d10045ee2404300837d90ebdcb2987815a02f950b"
+  },
+  {
+    "id": "h-con-1",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(121)_x = (49)_10 হলে x এর মান কত?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "secret": "4955c1480d978c595f6b6276e4f5bbcc44d49e1f6cd85c1a6a9a3cd7aeae29d07e6d00af2e5af1c3ea9494a92d2fea93030b4ac535c542d3f853a506f98151285e8cb45e7b93459f234dcfaaea7017f6ba47e2b20b281da8aece27cfee8cfc148246b64e4d5c46ebe72caf0ec0bce3a86425f9461ea18c3bb87c92d7a9b4bd040b3ecb361ec80154dadb9be51ec129595dfd656e0d786d82f4290f18385d8bab4a888747b129e6d8c6d39b9d3c82e646cd3784f4135d0d7eb8ac70e6642f18ed423be31c365c949a596bcb6d98c839ad60542806d1147ac87beb702aae5829b579ce55bba5ddb4080b52bca13e7b274ab8f9503baa52b771308605e0a39f54b5cb85e60dec8faf5e6748a3a15aa742b630f3e05665b8d26962f622aac26e898e4ea66458"
+  },
+  {
+    "id": "h-con-2",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(31)_x = (25)_10 হলে x এর মান কত?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "secret": "6be8eaca7bb2ebfb48b6f4140e5c673e783242a10e58ce22d37dede47d2a9f86950bd7e78ddfa45600927e6273bfe9edc58a78e1a4e8c2c41e2a797d4d996a81a6d0fca8c9718f34383b703b48b118fa34f3e3a53e599751ead845e86d42675c47899d8abc659cb2f59b0cfada3b44e67804deee5ffd6f4767be3070bef45c44e0b60259a645282e7fbb21734595a95103dc05e779f328898936d9501f1dcb5e00cc3642c7f582d45eb02b3cce543e7167bda809ced7cd86963195aff2506f11c705bca86c0246adbb"
+  },
+  {
+    "id": "h-con-3",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "৩ অঙ্কের সবচেয়ে বড় অক্টাল সংখ্যার ডেসিমেল মান কত?",
+    "options": [
+      "511",
+      "512",
+      "777",
+      "255"
+    ],
+    "secret": "f59e815fa1a8d43fa5bee112f89014e8a3d2ef6ad85aaadde2bef973717f2e1bf5e8beb7108185efe4570c8364616dc7526189148bc04e6f9dc29ab032aa415495d05ea110c99dd79420674886f5bcd1b5f5e4f3984b3fc02233d4666f018991460b49e2f6dc25c146f8fa81e402107851acbcd8091a62393e56ff8d290619694923d56b7f00d97e2ea1b06a43d3565f3df2c0435b0d486043cc4f03d1fa8de57763086b5458c882c7d27ea19c188156020fd47ba396d3575ef8d9602f378599628f7d298b9b40afde3e760db35e650c4c421db5ac35e59ac6d8ada2a1f3737721623686c085adbb68b03a58e140040e23bdbe5bb5d1cc1019ae5dc31ea432fba4a3c56b9c012f1271e407682c0802774645d1"
+  },
+  {
+    "id": "h-con-4",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "৪ অঙ্কের সবচেয়ে বড় হেক্সাডেসিমেল সংখ্যার ডেসিমেল মান কত?",
+    "options": [
+      "4095",
+      "65535",
+      "65536",
+      "9999"
+    ],
+    "secret": "c799bdafea0837dae6251148235d7e41284904751a642d69b0374359cf3b885931fe77a3006c9a54521a8a34ba22fd4f974160135efe654d50121f89d1a4ebafe5344b8f71a5edfd382bec91baa9c00ac160bf3abddcd735da11e9a0edde587eff1b9e85d2b5485ac7f873434676dcddc1c2bac543ee667c7b69569eabe448443d0fe08ad55b5fbd29af1cf0495d99d69ef5c9bce9fbb952dbad5fe19e937767863ae39a6b4bcdf90277647c819f31d7ce990826b20ea178aa9855dfc97c90dd17241e4f21b3250d3fc90b7139c08059396468bb12488f72f90b69bb7407dab2abc7cc2a401a2395130a5e477093f3988fdda4234fa413af4b9f45c566dbcc3e27c894a249f9f1a61aab1b83b3"
+  },
+  {
+    "id": "h-con-5",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(1000)_10 সংখ্যাটি বাইনারিতে লিখতে কমপক্ষে কত বিট লাগবে?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "secret": "24978feec29600fa50a0745d55ef0e770762a5f7456db754e7b8b59f16ba8d7fe536b406d01d3bd9235193219d34be548c90f51ce0be8580aa584cbbf70a53cc8c1c2626eb0f86d7ee88f6edacedabedfe339f58f40f8330bc3f6584304be6990b235ff52b8a84d89a399c646281c7ce6702b797e07f14c6c293dbca0bba1de0fba8e252d475e973df14c1b1b110424d11804d88d8a0a068ab6bcadb9c2f6f254dc098bd7fc28b9bc3f807478ec34e116e3c0ff0cacc0886cf74bc767273c92f9aa29510ecb428bf979a880eb966454ccf714945d8f60f697bec336e8fdf3278ff1c834fd9455bd1f01cdc6ae4c475b24cd7c1d9f7666f42f52ac1a1a5f8c1caac6d7401ba7317a9861999656d0a5762c33c765c0a3fa1773b644859d7e9e725450cf874fccf24db6c671af54a85847c2656e6ad1ed130e496ab7723cb58e28533f53ae72b29aa25295e87cde5537c7da95fa3e581b785c9169185c6424227111b9c53894c5c7fdfa6aa6029f123287df201dabbd61a64ad6f90e8a9370b1f63"
+  },
+  {
+    "id": "h-con-6",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "কোন ভিত্তিতে 3 + 4 = 10 সত্য?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "secret": "db95c701f3f801590fc4a03146c50760e64d45ff4462271ca511793165f7272b2e9ccfba5360bd4f6a3a62de56a1166a55607a5e933038fff38c35f6f6da3bd84e3697be09698cad2f6e20275d09a48803211629b90a9ddd88436f3816406c417061a05100a7599de9f98fac15328cf4a7212767d330f63b657061f11c9f05d0f26c0b454f5d6a59af1fd270cc5787f2d3f37497077432a8da5103c9b464db57f49f5a02faacab68d2803dcfeebe5ebfc46e684411e3728776df742dc2b534023ab8210430e3115ebccfda3e28979351dc9077a4f14abe1a4266"
+  },
+  {
+    "id": "h-con-7",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "কোন ভিত্তিতে 5 × 5 = 31 সত্য?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "secret": "51eafc2608a2ed3f51146af959370c88fce80f0294edcb2ef6c48bd57b2f913045a223b4725b5494d692b4476a3fda2f4dd735f08d5d69d1887ef99d21486bb4dddf434508a8763e16ac67f97f10d3ef0b9131429d346f160722969f2adc95988545be89d9e2bdcb9b150e3b0939ef1eb3387a1963498c33582e58aeb10a848a707424bfbf34e3250576a939f9487dbd3f64e46044925612d603ea4bc8f09acd19de7e73184171eb43f8ed37bddde1e5172a066543cb4e2d22e8dc5fce46685dc21c78a3def60208af640d0251f0cb484512dcd20b57360232b6044881876aaff14a52747d2442a87decc813dc673923e820b1"
+  },
+  {
+    "id": "h-con-8",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "যেকোনো ভিত্তি r এর জন্য (100)_r এর মান কত?",
+    "options": [
+      "r",
+      "2r",
+      "r^2",
+      "100"
+    ],
+    "secret": "3b2ff7982347a6b2ba38b35532d000e2ced95740ff872857877ed58e396581ac80ffd89587d47950dbf3bcc38a1ce80a26e5aee10c5e01b1708e94c359e47b891533ddec1b8ad3f08d2ffaca3813b44c77a55710629e284198919314b471e28c97d6295d228171a4eb395937154aef5033979d5b4a85d60a0058c0b05ef576e6c3ae2b75ddfeb5d7b12bdecb6884c97b32ad1bd8d989dadce4c53ee47de5a09b151a62cb1230155af85a35b3cd5bdd4104c0500ddbabad219570a7ee75c987a5a18d7e4105d2eaed046556bb3156a8d08ea0685e09e02386cdbab3a63362"
+  },
+  {
+    "id": "h-con-9",
+    "topic": "concept",
+    "difficulty": "hard",
+    "text": "(1A2)_x সংখ্যাটি বৈধ হবে যখন x এর মান—",
+    "statements": [
+      "11",
+      "12",
+      "16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "29814c8f0985e96a4e079572f596f341fa2d66aad465529682b5fbb79ba4118251e0f256455ce145458557af9c1f6cba13798578f24eaaecc8ee17976726ca1ea9c2ef6bbef2146caffa239b20950535873804b0a9d6d56e22e44fceae3d7ac16d37ef24e76c141ac24d6ae6abe63bcbf84d6cbcfb6ede46a00d91a3cca7c2a8c0c63eea80ad1c15c069a470d20be08d2cd5bf575a227df7fc5d9ffdfcc631b18e1c82d9af67d359bf9a8dfaaa6cf685c5c0e17d6655b1895d01ad18bb786c254d051d6068b9e17166d4e3022c5b0c8e72ed1bb9e4a7e36649ffc0a147a4ea773d0bcb8b6032bf7290f2aba72733af18361f34a6be1371b73db900a090dbf6dcb54c91d74bfb1e9dacab5657433e2dac05e04cb5fe238d3f162179960094583b46872ec96a89b52e0fc3ea18f41943552a625cb1448c21454f4e5ce03a96599d2e4a6ae5d0af41a0ef05c6130dec9a2adb3d4701795ed0df0c6cdb56dc7a1a824bc9b83202fb1af4fd7a97ab22ea1ddd7b394630e48b1054d5e5"
+  },
+  {
+    "id": "h-cnv-1",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(234.5)_8 এর ডেসিমেল মান কত?",
+    "options": [
+      "156.5",
+      "156.625",
+      "154.625",
+      "157.25"
+    ],
+    "secret": "a6d3a5f2d64dadc926bbf42d58e3898201bed8c22432cdc7cd776ee9cdc959d96bc159acb20c4f82dd513f1fd9ee49a36d0ee1fba637b8a94f3e869d30274880495d63ebee8a263922176a056427ae5553b4ff2152ef20fe9fab9f3b6728ac35b81148a14efa2f2b36905ddb98ec3aa00127cf47cec537f6c4b2"
+  },
+  {
+    "id": "h-cnv-2",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(3A.C)_16 এর ডেসিমেল মান কত?",
+    "options": [
+      "58.75",
+      "58.12",
+      "58.5",
+      "60.75"
+    ],
+    "secret": "64401190531f8f353af52c4a01b6c8d858463d1b2016efc4ee62aa4a5dcd049027c117058cbdeb7d7433ff7ee3136305f477d1688cac45c76fbb74f2b8f1582e37604a697da0f375915bacc5fb981bfb5cd41f7f3dac449a20c9619e123b4b7f8abf3cd65ce36345e198c40cb496f11a1e56b803d4ab59cf1744c4e4b1227d5663c73815efc0bb0b977b"
+  },
+  {
+    "id": "h-cnv-3",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(1101.101)_2 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(15.5)_8",
+      "(13.5)_8",
+      "(15.1)_8",
+      "(55.1)_8"
+    ],
+    "secret": "810ea4befea3823010aeca5e21df4b0ac9a8e6c55e277fcc2ee151f583b94a4860ca561ed06799b0a695935af7b2e5ef9bfac7df4a7b958d410e66f613d94283d92e3643f839c25e3808ff3cb9ff138cc57326eeb99513468cfc028b4ee79b499b281e2b2c0204bb948a08c8dcdb674b699517eef0e674ac59a6484927a6fe0ab2eeaa1a6cb28e81ac18542ba9b26b81660dad5f065364bc4db13568f415cb8456eac5edcf5211640f7d9fba60d4889ec478a11441648f497093d3aeac886dcfb140d1f9f4c999dfd1ebd64522b7ea600457f916f853cd96f6cf84230a998dace650e791bb6f80bde6b726c4fd9f5a83c554e0c4195651a21636ccb1c453eb81ccfbd304918421acc95b6fc813383cbf8805688ed99b6e11fa3fc0b5c50dd7cf6f"
+  },
+  {
+    "id": "h-cnv-4",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(10110.11)_2 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(16.C)_16",
+      "(16.3)_16",
+      "(B.C)_16",
+      "(26.3)_16"
+    ],
+    "secret": "deddc2510f95899cba6683ff257e5c3f0f4aa54f6a495714f56146511480d142b7f39c405e957eb9c9a899711d149df7b01b682393bd6d02332939f2e3ad459ee43ee134264b6b085927406c0f73443568731530840c56d7ec909324b84bce92800f18570e3b191fffc0aaacc43ef9fdaa7063323e9c4e6e69ae87be98b68d75b7d9a086b3ffd9bd385ee20005f24d42f5bbe53342f91cd78c31202d255447f5d36e6daf138fe46788c4d236131e8a6d573fa9b2757167f908aee3cd08e99d6489688325c084466061612fc8d489fd4e3b59ee647654a043a9d74c3d9a9375467d5b6ba8b27217a0cc33c1f6e819bb05366553a1b1fb321ccc7bd16f23d5424b2f2796082f404ec7e77f83f4be289f5ba1f73a859873c93467c5a1ff275d01a64fc7cd2d48dff57dcfdd62ccef8cc6ce9dd7847feedcfd5326dda4fb438ba61b4fe73d90f23fa4c348db19b1d96c304024e29e5bdcdff49726fd056b93f4802b86c646dad2811e0ecb0245a527de2a5a2efff15dfbace412389c84ad40b5510228de4a55dbb9ccc7ab0bce5900e7a5ff5eef9c2ab353b189d005026a9815df7bff15c770800319b14760f20d517225e533972aea249adfe9d19ba1ee5fde6f87c9511762565470f754aa79068c06f10e05bff27c410ce019ab3ead753c162f7b"
+  },
+  {
+    "id": "h-cnv-5",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(0.6875)_10 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(0.1011)_2",
+      "(0.1101)_2",
+      "(0.1001)_2",
+      "(0.0111)_2"
+    ],
+    "secret": "6941e95fa14de7f0b58889088f246db0e0f984f87e391e8363dfa663e4d3d23aff2bc59de59ec1944eb1fa458be7f4517b75c0c8e3c6472557c21bdca38262144fd25e73988010f6be7014037f21fdefeb86c4b370be72c06558b24a1be8890bc8790fe45e4bebe1df3834c0f15ae1227b509fdfbb5f35339eef37ce9e808fa31a9b8652d02e8b5761447dc2bed35efd9eb8dedfae6e3a4905d6da8bb5055e73fd55be14e99fc4101463cf0860a8af4daf037413a51456c8fce3d251d0f648db66a7304cb97932719ac2da4b0266ec90441958adeada04ba53b0af46620931ef67ca89d88047d44e9bf3956bbdcd7913780fe7161f2ed8819e0e5e35cf46f23837e79eccd2110d9a1edf28d4ddea79f57617efd93e0d315f25db38c74ba72b9a42cf94b35ee24e438ccdb0fe6034612beb7c4e67ee5e3cdb998ff7e6a0b5e669aa5fe5e7e1d1ac708d430b9c1d3ff538a77c4873fa6b45d98a93740592e925a173216853844b5255e5917f96db7c413a35735b75ed35c1b7512aeb72166509d165659f8848de415a31a6f8863e56a108021f81f0c914851dca86cb6c7d8b52e8931588775f19241b7c1a58bc1416c6c09ed779f7002db0b202e38e"
+  },
+  {
+    "id": "h-cnv-6",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(27.625)_10 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(11011.101)_2",
+      "(11011.011)_2",
+      "(10111.101)_2",
+      "(11101.101)_2"
+    ],
+    "secret": "c3567e2df101c1dc539b0cd35dd9a413805ce151ba7bf8b93e7fef043389e7c573cf5e34166a44656b7c0605cfb6e727593209ce0c779f749deeee4cc5606580d3b005cbfa90e90071a23593505af3dcf66442162dd409e7540306531d2a462c1ee848fdeafaac6f30caef6a403292128c0b3d28d0f8fe576d20e1a60b43070c0d6835a8ce8a5ee7b878b7cbe750948b1998779741faa01db3f7bb68a1ac6a7c43cf195ef9ca9b5b5afc7588f86e5e397ed6e297f41dbe3b6a30be95e1f0b73a69ec257f37939fb535ea1c694c499b8366e5e93ff9ff8186a9e3d55f56f3a57d4de64ce2940e32f686775a0dab973610928253fd8553b86b4399043cce0729cc7b7dd03525a04eba237d3b5a9d187176ed2cf4c9019766b89a83c1ad1b06c9153f99d63d44d36e67c7abb54e655567e5beab0d1c55e782ca47f8a926cd9120abbd86c97ae68c78ac952ae509bec882f27f6a494bf9841d2a4a82f9eb6267b5"
+  },
+  {
+    "id": "h-cnv-7",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(725)_8 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(1D5)_16",
+      "(1E5)_16",
+      "(2D5)_16",
+      "(1D3)_16"
+    ],
+    "secret": "fbe940431639c6999b47a2e8474563ac0a4bb0667238a5b56a3f53c3dd8cbc17bf97053ed4fa01ee59119609d37aee903a7911402d4c0a84fc27c8e72b362cc58149f308a6262b47394a4078c89f063066891a34dea2c65696834625e3708fab0bda4324f5c57092cad4f56dfea5464ce89a23bc6be6975e1f020772d0ea3954f894255c40283eadab87eb0d5c5028068d3c34847c74fd1e2cd7f349a0b0901d3ac38bb0d510d33e5379836ab60bd1f90d206e48296ec4cca4eef365864b3a7c125dfc7f5fa1e9a49eb1fd4565fdd9843770a53a7b8685f4f7f5413117ed3bd7d864b5cd882d8f472506e55cc5bea3da8b5c24a73e4c7c6f4777b44ddc24bb39f1bd31e0a171bd016c234ce2566c8f46f55ea2c1df60f23074d22de9e1786657fd"
+  },
+  {
+    "id": "h-cnv-8",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(B7)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(267)_8",
+      "(257)_8",
+      "(273)_8",
+      "(167)_8"
+    ],
+    "secret": "eb6ba1e992326cdf4091a4f6d4f1c5b6f1921bf0b5aa8eee6f20df9f5d459876ed6e944cd6eafd6a34359791bd89915d143ba66c4fffbfd04ed83d264511cb879fdc0dacbfa06c00f50f78da60aeb5d746e0a8317cd824da35c7063d591d4596933c50de2d422ba767ed91f1e62ab4b441064639dfc4dc5f8ec6cb660d318f4b6a1827f4413715e8c54e9125c2caea9bcaa923f25535a2120c6ee40896500866c4209853ad8d708d1953e56443caa37759e832bf50adff50d1d10fcb152d32bc538d924719466e0411ad0463b6fe7edb4ca56ccf371d3617fa800ef58a0f781b71564982a941fc30680913c4d93b549148e3319e61bc15946180ce202043fa7ee938327dccd6981ab08a619cf9666b42c6d3"
+  },
+  {
+    "id": "h-cnv-9",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(AC.8)_16 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(254.4)_8",
+      "(254.1)_8",
+      "(252.4)_8",
+      "(264.4)_8"
+    ],
+    "secret": "005c33215477ff3334d973b810202678288b7c046fdee6a9857d0b143214ede82b9012083544b1666685de6c72bd904902c69e678f50e005834763c460906a2827a258affca4f17d9a0bf5ba5f6696045b2e068457bc4dbafd7c754016cbc13ac01d6fb54579c5cc1305b16b4dd1e16a8d45ede48ab4f9f50e328ce309d64e4b7ea203fb7370e5c65ff6ff3771ea99c426eb3acd201e3b7d3526f58a0799aeb26e22cdb2e1a4de187ec70c9a49d0f0bafb1c7e4ccb4ce199485abb320838d283b3768d5c2d8738e5b30211102adba6263bace19e96d192dc961e1cc777a86a7468a7c7346c04864e01f988f042c2a25f8b6cb61519f43748dd50927d9fa35797060994934b6b3cc6379dc16cf53ffe9ebff3b751d876cbd00933305b94f1be4747eb8fe9cc25231215450a8d6e34c45f7eeafe8a95"
+  },
+  {
+    "id": "h-cnv-10",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(1000)_10 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(3E8)_16",
+      "(3D8)_16",
+      "(3E0)_16",
+      "(1000)_16"
+    ],
+    "secret": "f3e57edebf377534579bc6c6a70213758cc7f9d6189b24c89bad02630b6054a26ffb35fc52bc3a6ee734a7fe4b10b80d66c1482513a853f8560d79467fc79495f15aaf1b39ae6095efcfafd1c0309e7343e396e8150b3ea3765e4d10e092c1af4920c69a4e29d7dc414d87543459590c2a07140f47d468c93e6cb8ff3f62af27379829f5bcc653693920e226e1aff7963fab28c783ab993888a25289f536140ac0accce3a90db097791fd9fed901a2aecd265f6f1af4e8e187e63f2359d32204a816c290e16f5d1ae0bb936ea2c200c6038444ae2616366c107465acb24da46ae79005a5959d4e4816f2af8b95678ffc1cca883956b001f7c1e57aa4de6af5e3736feb9512025663411eda67d70a002a2e9be4adba8691acf8ca3156787acb2b3a383b7faaa310170726046398e7ef544d986c18"
+  },
+  {
+    "id": "h-cnv-11",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(512)_10 এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(1000)_8",
+      "(777)_8",
+      "(512)_8",
+      "(1200)_8"
+    ],
+    "secret": "04c7f4f285f0d7abc563d56e9f5fff8f111c8b8862ae35b91448595075cfc4fbc822b666e41cac5e45a911b920829451cbf3989d0b9171ce85cb6dc7b988bc099536844e148c9364570a86f4235a962efebbca724aa614b07947ed7bf2e27d598f221fd8f6e37161baeeaf4142d84715f014115295af5a4074da89bd07cf42f0ddc56f302ccb1977247bf6cb40fc6575d6b8af34a6b9ed49322ad5cd61bbc95ecfc52c9cf5882dabdba2a0820e721239af30980a1ba2ae6991ddf16e20ec8c236b878c609098330d1118a13c17b4e646b255b94cb3376cb3d75b9821700c67842f12bc9efcbcf1775439cd4e1aa486391356c4a03cbcacec115b18dfb34fae4a55cae2cc1dfdf6e072b7b2e09d0d86df6191567958f01782b6f056ca885eeb1d184a48a212c3aa385f08c98b26b3ec1dbcc31ba0e54ce3a077448e3723302d4e002922af1ec618ca591c1e83"
+  },
+  {
+    "id": "h-cnv-12",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(4095)_10 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(FFF)_16",
+      "(FFE)_16",
+      "(1000)_16",
+      "(EFF)_16"
+    ],
+    "secret": "fccd9456081614ca36a3ed300fb042e89153c517ca4b5b3d3d496f9113f3a8407a213821177e3052ba05c8c984eff69bd69c842090efafbfa7f4f03d3882ba54edb946b1bfc9850b46e4cfe11da4790d77e7e99f6f69701cab9506a1bfb81a2adf51cea3c75cd2b00c7195e7a8679a125b4d94a560ef27a1bcc5e01d0c1d045e52c4ea5f2cda42c17508ca27510981e2770759609b345b213087714713c2eaafa33df7a558c5388ab483c9f9c6442e904c1fc2c6d5c9a09dad462a1f0107756003807fcef29378ce82111c19d1d4ca01a367dee7b1c58f208a9d6b0727e0103d2fa6568424e26a7ccc83c893cb6aa14c9280ab2d589743e16502672de5765ff2a410cb06fe8051a1275174f052642865b4"
+  },
+  {
+    "id": "h-cnv-13",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(3.2)_8 এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "(11.01)_2",
+      "(11.1)_2",
+      "(10.01)_2",
+      "(11.001)_2"
+    ],
+    "secret": "ccd2cca9a2ec9dae8a8f4dd986b9d8e1802a26a2bcdfcd32701317022a97b3f69277b07cb992013a86906d222c2b62c3d453fc73cf5e20c75e80324a12dec4dba5fe40b5558f67843f46be89c70fbb5131e495e464d4b03878142e57aafebdcd0c4df9890a6b9794fd9f580ba83f97f6fa5407d6ca83da8143199697a00c023199ff87e304f9b9543275149bc027ae3f9aa1c8f8020fd260d33de4512b4fa17bc803b13c56543085747ac78160f7eb9dc0d82147fbe7f48a2ff0f74dbc4116e3d3622e5e368f76f92a39b64ee53a0183b8639b9074d7d1c9df126f73833adc75e2002697eef6e3b0a0ae2f73e258e73dafde2a4429b34ffa0cc3e7ce28e28890b928a115b79fc1bf4fd363d30b73c81c63b73de6e4fe93c5db69198dfef8b5f59d69b7ba1e4898fcc3a5a027c0d712c5ed8ce572884c2071"
+  },
+  {
+    "id": "h-cnv-14",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "নিচের কোন সংখ্যাটির মান সবচেয়ে বড়?",
+    "options": [
+      "(110010)_2",
+      "(64)_8",
+      "(33)_16",
+      "(49)_10"
+    ],
+    "secret": "7599d8a2b94fcce3f665ef0549ac879b5105a92962e36c68b5c50433a10e55bd59cae6b3f230250659696640cd7b2222a7d1fce2e2b4d39805c86e11c9b011a8de1365a565ecf1fc47d66bc524fbe0d7fec28306280b6efb945c4c70383420d04aeb559f5c50839811f3ed04c1eb11a5bf763a6967fbce58b24924750b4588d725a0fbd9349d5b591048eaa40d25ecdd3e79cf5af14abeba183ffbe5dc78e392660cd07c931ddc50d401b3c04066ed1e1fd09d6ddd00932b4e2ccbf40e62bef81c3e01fcc9db9631de435e16cbe2c2e5dd6819a021ce5c8aa5c3cb53f8ea20200f85bc68bbbca0e8b655844fe3afd58ae2c55e6009943ebdf44d4e6e2b968dcb311f71585106fde555b758dc548aea98a118888a16108504"
+  },
+  {
+    "id": "h-cnv-15",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(101010)_2, (53)_8 ও (2C)_16 কে ছোট থেকে বড় ক্রমে সাজালে কোনটি হয়?",
+    "options": [
+      "(101010)_2 < (53)_8 < (2C)_16",
+      "(53)_8 < (101010)_2 < (2C)_16",
+      "(2C)_16 < (53)_8 < (101010)_2",
+      "(101010)_2 < (2C)_16 < (53)_8"
+    ],
+    "secret": "88efff965f3e47f31d12dc1461132c06a610c86fe08ad2a5b66fba4bc2a0e9c98b768539f059e3d74cd74ce4d6a6830842b75f96e50f433f1708440c337e4c2452ac3deab0bfcd332b175e1fd428ecbfffa2fb4b9f76f16c869d427720e637b413322633449f91fc70d1efdcb2b3c648b39f6ebf97d4158411c2101dfc52a40b67535c4978636a0b1ba1d50b9747577a1ed105bc7c35c0effe94e195644cea4f50a1b44e0fb6e6d0758546d534ea0bbecf087a2b37e648d22d63afa1ffea8fcc4b5bdb435ca4d67ef8cbded7ca12732551d0175c9ebf303104bfee0ad5c309cfcf041d866f892c"
+  },
+  {
+    "id": "h-cnv-16",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "setId": "set-f",
+    "passage": "দুটি সংখ্যা: M = (5E)_16 এবং N = (101)_8।",
+    "text": "M এর ডেসিমেল মান কত?",
+    "options": [
+      "92",
+      "94",
+      "96",
+      "104"
+    ],
+    "secret": "add1d91e8e8e44fe2623d51f9c5d6f79455f0a23b0a997c5bdaaa4d0f898cf25024c32348d6745bf947f52b8a7d95a93cd665598b49eb60d53a58ef902f6f734663005622824075d0c5fff9c1e58c3f5dfa89441be21fa4078991101193f4031e2e18d38"
+  },
+  {
+    "id": "h-cnv-17",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "setId": "set-f",
+    "passage": "দুটি সংখ্যা: M = (5E)_16 এবং N = (101)_8।",
+    "text": "M + N এর অক্টাল রূপ কোনটি?",
+    "options": [
+      "(237)_8",
+      "(227)_8",
+      "(159)_8",
+      "(337)_8"
+    ],
+    "secret": "0db973efb2946692e5dfc387f802d3fdf3fff1d4e9dedb42436fe608cddef39c485aa26fff65f1d3c90694fca2d7fa644929792bde7c83169753f08b675bc5418c9e950fc80749d24ea17b2153aa68cc0f1e40a4f4294911dacc8bb20a6c93ac8874f22b948b4a1fb35c46235f3953d0fcb13834742f3c15b36cf45e6109b3481c62d1ff12b01b6960cf433951e48d40231b04a8cc7e52a9d0ef080da1371baa42d11fc4c6cc9ed15b865d7c61ead331dceacf82b1d52057e20736aba9f33815a37f080657e2f3e163418131fe1fdbaa618a20a8948570ed24fd5cbea25b1be87874b63802d5f0bf7815dec48daf0333c23ede524fd9057b3f8b6705cd129313fdd9357b947792867410caa62e2d9896f492af8c8eecd8a7a0077ce4271f680a48aed6df471e"
+  },
+  {
+    "id": "h-cnv-18",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(111111)_2 এর সমান হলো—",
+    "statements": [
+      "(63)_10",
+      "(77)_8",
+      "(3F)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "0b4ef19d1c32b3dc837eb4256b9deedbce8a497ad8dd277d1fae90860c1e8b0be81e161227542f14449e3df6a512f3981a5e040973836201f1675350c7b9dddb0a87d03bb415573ea2dc21c0d20ef83ba8077e106cb50e699b7e4466c472bfeefc5eed158ac7da31a40edebc91db773d9866ccd610675dd22af4f722ad538013fda9bd6c2bb0bf44c098a874c72eee04a7e18d6da22422f41388ac9c35636d6b0e9dbb958e0da41b8eafbefee00319af88c244cebf4ef7b8d604cb2135284abdd31f83b80af7c739f29a17e36a0dc35aa828ac70aa0c"
+  },
+  {
+    "id": "h-cnv-19",
+    "topic": "conversion",
+    "difficulty": "hard",
+    "text": "(100.1)_2 এর সমান হলো—",
+    "statements": [
+      "(4.5)_10",
+      "(4.4)_8",
+      "(4.5)_16"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "6ab43debe5d53052d9ed69bedd0fdb6465002323508ca23384cdc1a1d1faae2391b750a447bc8caa376748e3f9e2c15f29d98866bdd8d3e1dcad435d1f7f3a5927845675e364ce4bca885a2f3e2678dcd64511a10aa1a470b6847a07ca42dd010d42962109e9af570e482224b3b333afa9ba9fc664ee3d7ef7f41c422dca7304f3d52d0c4c49f0514530f916a2214f9286b89edeaae223e45b71ef66d7cdd88d9a04a3d6b3236ab99447e4e6fe6a528e7771e9712dcff149787bc5441b79e88873e4ae3930473a97a0"
+  },
+  {
+    "id": "h-ari-1",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1101.1)_2 + (101.01)_2 = ?",
+    "options": [
+      "(10010.11)_2",
+      "(10011.01)_2",
+      "(10010.01)_2",
+      "(10110.11)_2"
+    ],
+    "secret": "c174542b11946ce41c29620bc6c26d7c2739f81023148708013c736cd5afa4c4af6221c716278a1d55ad5f3c847fdd2a5ad83464cbcc36940f3a1b0bf98f7fa8af36f5d63d28a54e3ca77939393166545861791e4947e368542fcef7cd626e04fffdfedf46aa4b06d8045ddc77c909712df033bd668916880130d8ee48101627bf42bd47ba827d18fff5c88db98ab70c3af316ad07334b40ffb681ba03405cb40e30e4710799a4a079902f128400d9c19dc76fc9507fbda8191b1b8fedcf0eaedc716191008d135d2ec22b8dd89a49cc103fa310ffd13a95538d845cb9b8bad27225503319331014e23707057b3d74ab1a97ba9f877b0466007c32210ed066ef9bf8456eb7fa09fcd92ca106f8b9bc1ed1757d02ed75c39f5735798798fff5425eb83c14b5dbb9e92591144a49ba728461f7a2f83c"
+  },
+  {
+    "id": "h-ari-2",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1010.01)_2 − (11.1)_2 = ?",
+    "options": [
+      "(110.11)_2",
+      "(111.01)_2",
+      "(110.01)_2",
+      "(101.11)_2"
+    ],
+    "secret": "a5188e3fa6bb8889afef7352df4f57c7de1050cc89144c6bb9fff0e72ce17a7b836dab5c02afece4e90959fd802cc213da49d14ef4dc28390219af08a0e8216d17502c52fc6b554a4f8379a9196530b9df761381131446e48c7552ca0eac232e0beb83e1cc923e4d92456f2de22042b0846fc8e8141331337d37b74dfe6b2487fcbe672556d3112129e6645eeac2cd981438f4bedf48741902b795a82e9780a31f86816297469f7a89cc10bf756d232d1ebda9917de64e339c882f51c7ec7516375792e46a08f8c859ea567819a340abd6715eb6"
+  },
+  {
+    "id": "h-ari-3",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(756)_8 + (345)_8 = ?",
+    "options": [
+      "(1323)_8",
+      "(1313)_8",
+      "(1101)_8",
+      "(1223)_8"
+    ],
+    "secret": "824f371a9df423fb53673903265ded0a1300117f2125b3f894d37a88525fadcd47e3b869126dbc2e9b389050027a167908b75d8814065a7432f93fe7ae116022355417294282230353a1ce0db061bc746a2b2f79f10ab1a4b8b2e74413456efa142e3f1d7cbe439d66f7f7813250c7dcfef8a66c34c724c5181ba067ff75cda2cc9ddda33df4210e8bdf645fb70be1bdf9e91c5c8a07bf298e3b6535ec045cfbb54051be20bf419d5e25fa9e73faf304905741ed83f3b04a53abdc4590024c0a5bbf7197d325f64558319ada424e4f999d29f194350401bb773ce26f3fc5b6403489f1c125731bee260d796b7d36055e50338df1b82c92334a95c38dba5989355ca5197148ae4e95816f0795478318a0bf883f10af002633225b620d1a52ca478f393f46f9e38fb06cb39d30885317f457d45fb11f71e325054dc0fe9c25eee36b00e9e8d477bc07e4f23902e879588ee9d2874777aa9de306c2d30404d755c3cf5ecd382da95fc383914866f827071ff3fdacba8290"
+  },
+  {
+    "id": "h-ari-4",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(FA)_16 + (2B)_16 = ?",
+    "options": [
+      "(125)_16",
+      "(115)_16",
+      "(11B)_16",
+      "(225)_16"
+    ],
+    "secret": "01a8f884df70274cb016513e074d36ba434dca4093a2ae0ecb7f32367e75b37ba6753e55472f4e03d2e14403e9de73063f1de24cd1a8fa733d047cdff1e438a2696bd654bc28aa59001a80af09bd8da1df6387eb51fa4e7fd39780e612b7efab6fc52eb9b117b433c79222ced3d3d7ec374cca8538f85b6a0248fe89a736784d9c7644627a831ebae4fbdd277190a87d7edf04ac0db47bdcd05eeda1ce7c15cb387979f3aa1e8dc1c009e6e48238a0c5e47c40128228863a4314b5208d3d842f1a8f286243ad16af5ddbeebc5ac28efd18bb62804e32ae7293e798207ee58e4032b467b1c03a20e690462ea2519cc3f2e88516758100940419d8ebb7a270033bd214c5515b17f517d3913eb19cc169361533eb3a7e32a772007d8ecb4c731d97728036b346414796c61d5fa13954f2770d1f5be202d931e43968b31f9b020917d09195eb8f82155366ae78f58881f6b8e1f301d0"
+  },
+  {
+    "id": "h-ari-5",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(A0)_16 − (3F)_16 = ?",
+    "options": [
+      "(61)_16",
+      "(71)_16",
+      "(5F)_16",
+      "(63)_16"
+    ],
+    "secret": "f1e9b9f2c6df0b565a8aeda046b347680ed01c9ecda1f516fca5839d0c494e03f2faa06e859bd6fa726f0eedd6b40fb33976afbff27096281d974e18d26d1f81256c734f99d52e67670dc8da52d88671c7b20605a0538a74d1e6211c875b51cb1b124d220fbd6b58799c2387b512c4c400da1a9e94e6578fade8c6586155af5614f45fbb6a960aa474c84a80ff4b6ab3cf28eadd26acd4133889c72db030db00b60137f7f9bb8571b26ff9ca02cce65b64c1e098865c3bdde9e1b3cd574062466b006b39562fa860669a3eb6df84550e7dfe8dd579cf35417132e01a799762f8a2d561d29755d4b8b396619563f491ff2b02da6f3d6cb4909ef3ce4a44b184e4a44d5bfba2d4a3c58b64b29d0d053347f6aa3c2962c09598f446f909c6c10441bbed5c214c2740c0e3efd09a4a048be07248e8ecfc78576e2b4420958ff084eec86b524aa3f5449b98251120a2130a443b47e1e43bf7dbeb80366b38eeebc44b51a4ab018f2cd319b60af6f412a4705efe008cafa683593022"
+  },
+  {
+    "id": "h-ari-6",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1101)_2 × (110)_2 = ?",
+    "options": [
+      "(1001110)_2",
+      "(1001010)_2",
+      "(1101110)_2",
+      "(111110)_2"
+    ],
+    "secret": "d9a22f567b8eff29594ec3ad8741071342725c093b0ddb2568c95a769f25dd020706ffd616615ed276b184f3179a9b8316466bd9e45c211b86e13f82512e90bac20efe90d35bc0f886c2c29055073e0459604709c9c50ba87a8de3bd96f2405a0edd7ce78e9ce4293d010f253a1283d69554c095afa663ee3d76475e5fad4d61b5362b3c911a410b89ed03db63a0c5cb45f360575a74940826f3fdf38be65e9391ffd713bebd1c3bf90e7ff9ac1721f9871bae1b06567a997934116e2330b0be3681785982f716a8ba9001145043ccd7b24ea8c71ebd07aecee420302a1a316b27253b6da62d5877e8782f9b8f41ef392f4493745d63ee2b8cb841a1a5b3b6e494667c2fb301f9ae3ebb7d9e51688e2c067c977ddcbd3ef8a1cb65e8f739675661eb60c7ad6a6bea0261d44cdd460fd4e48505d79acd068d73ca47fe8c2f176733dd7aeec8377405fa2aa65ef0b8c2a5b46127687af001e4a28bc3196b25e32bd7afdeb32c"
+  },
+  {
+    "id": "h-ari-7",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(110110)_2 ÷ (110)_2 = ?",
+    "options": [
+      "(1001)_2",
+      "(1011)_2",
+      "(111)_2",
+      "(1100)_2"
+    ],
+    "secret": "c85aa8421273f4f4acd918c82a11a8b497f6fb6269cc09aa520a8efbf031f3bf899e4458df346409fbddfbebea8d0c4ea7cf5eb2f8153772162b377cf3ad343ee85433922e0f35e7f6f89c8ce5290c56fee20243c249eb32599ced184f373531b75b80fa81dc4b74065e3628e33330297d3027ed1a28c4103a510c951b3c89425d0a2c51cfa0ddf48acac90f7edb5974094fa2c6834be2f884440fb060b42c"
+  },
+  {
+    "id": "h-ari-8",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(72)_8 − (35)_8 = ?",
+    "options": [
+      "(35)_8",
+      "(37)_8",
+      "(45)_8",
+      "(25)_8"
+    ],
+    "secret": "6f424b16d7bf8a7394c3adc19bdd247f86e68da709eddd8d7a521f2a98e49d854221fa313c9e001de5c750cafffbc8e308bec86214834b94b77bb9a0fae502d98a694b3e6a4fff4a64526d699f3bfda028f0d3ae53bacb50cd060b3f7827dd32b517c6f46110d01b0632d78eac9d11cefbd1c8a39dfb29f4cab3f55fde675d008b48c947e5c8f8c1dc35725bcabf95d752c62425f9b6e8fb7f69f9ae87ea74156200440a2a93e39ad81af496bce7a3752d5cdb114a6cc44202e41fc3516b5f522bb3da3f0e89f0bad715d126d2c75f1b0fe2c831f2b990dda91cbf3af1814969834cebbadf9c4e406311a2b27e824a87dfa59334c55fbbf3af91bad08a6b3d950bb37e17164c7664c538431fbbcb745a702d59a5b9388a07b7f507ab6f03e79c779f0cd1e046f60c3854235bf114a46a48c7c64ea51a5fe4b5d1eeef92b32647dd1470520e251d9a2affe73472d62027463ad72050c11bb4191b4ca804f72d0bd6e7a08eda1c1808c6a7fccdae980297be44ce524640fc"
+  },
+  {
+    "id": "h-ari-9",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(1011)_2 + (27)_8 + (1F)_16 এর ডেসিমেল মান কত?",
+    "options": [
+      "63",
+      "65",
+      "67",
+      "75"
+    ],
+    "secret": "06e22ed9d5dac41433a02a848d261870a6e4b32cd3e47805cc14d83ac5a00bbee10f997af3bd7729dd120517c167d68dfa565dd5cf2f041f31d13ea7ea2abd8587b14db8ea5b18268457998eb7b89fbe5e0db670910994244299bc0e90ca62b9ffe6432d26b214ec06e4c158f39822c32650c4e9b23bd4c04a239bba0b8b3803777384f043a7d60fa2f1898fa3fe3571664ed430c792d972977ee1f5e4f6331a240e3141931f4dd04423a570152232b67908ed6f7177d7e2461db72eb7f96c14799a33f2bd99f01ea16c94b7838582e87f0eeed4c8748776d96f9b7cdaa3cc62e7d2070b574b7cae6a8a995ae5"
+  },
+  {
+    "id": "h-ari-10",
+    "topic": "arithmetic",
+    "difficulty": "hard",
+    "text": "(CD)_16 + (1011)_2 এর হেক্সাডেসিমেল রূপ কোনটি?",
+    "options": [
+      "(D8)_16",
+      "(D6)_16",
+      "(CE)_16",
+      "(E8)_16"
+    ],
+    "secret": "0a0a6ad06a12b71433012ce9c421ecb4fb590516e7102bcbd04a947d78e78594e45cf035dc8d9e05cb6653e1de781654399165656a07f1ef26399f60957a954a81e3d065bcfc8d1080f1350534e42515596802ca9e13b56567b2b2f5af4479b3bc13a4a2f2810d21497ddb5a018a29f8dffe9afc4f795fc9c800974eb7a909e946d025016b4a4af36a8903ac9f571f4fb1722494116bd4434c1a7f49ebfe507df820cde072d6a2ad6652c911db57c6709e960288663d353b240d7886e1f31663852cea232e133e0a9f0f577e343f5cb52638fc282dc64f1bb55a29020d0f6aea3c"
+  },
+  {
+    "id": "h-sig-1",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিট রেজিস্টারে −128 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "10000000",
+      "11111111",
+      "10000001",
+      "01111111"
+    ],
+    "secret": "917fb3b3606bc5de6c6b5c66d430520f021ee186de1deaf1d0e572c847bd168f94ecc70a7a2c3979c8acd436a6ac5fbaab73d50b14cc6d0d7fa6457820a94a2fa32bffe37c83277420b67a9c70c384243ace16657296316ab6290e284d4ea635d0a937f96a20948a54e708c801bf14e46782b11b749dc10f845d67ed9c16b05cc2d9502e2b81cdacf7ea74a070759a8c24081aac74376782f52c4a52c8df4dcf5a3c388de2e50cc6e12513a7615b1a75cd56acb7753ce2101c1c71682ab9c1afb1d1153c1beb9293675090be30adfd3a3dd955dde26fd0c49a5cb4bdb9c8ff0109d428c417ce272ad204176f3fc042f737d07ff9a7cd75f71ecf022266a7973e8dd445613af424453f4b675def37fa2852c96f3aa6796be6295bd324823f08b91d3cf83e3a78845cba86c7b423cdae7ba105a2a46857b05c5f34171cbe8fb86a36e6d109945951e80a4b6fe6c9f091fab4f8e5974ce3"
+  },
+  {
+    "id": "h-sig-2",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "১৬ বিট রেজিস্টারে −256 এর ২-এর পরিপূরক রূপ হেক্সাডেসিমেলে কোনটি?",
+    "options": [
+      "FF00",
+      "FEFF",
+      "FF01",
+      "0100"
+    ],
+    "secret": "c9b8e5cd9b910acfea3cc10cc7eaaf41d223eb5cfe7b25c6ff62d9147655dab20fe785d38803262d5e69ff71a63334da8ff9c11d3933177794f151bdba7a14cbdca73bc8b0bf2138a7ee6ba4238113dff06778ddfc95dc62230335b5699a14c156a3402a3464c62cd15a093df9b9e9086f009f7e0ed807b96a32a9e8420f82ddbdc13566463e2cefc9de3514e9a8dea49426b009cfec2040d1097a5d2033e5fd2d79be2e844ed2b559cbd3cca8908ea023eecd89da8371b7b396081bff776c110c51b406d200b29a7dc93eadcf1a480ef6495f60ab2ff58ed031b73a689345b248e1c83f3b618fadfd9cdfb8bfb305995e973407e61062e7769e5c906f6284dd44743148c2b96f18f611f0a675fe4610ea910b4c268d69e118a0c602e8f6719be2"
+  },
+  {
+    "id": "h-sig-3",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিট রেজিস্টারে −45 এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11010011",
+      "11010010",
+      "10101101",
+      "11010101"
+    ],
+    "secret": "62f023cc3b5f550a4c94ee564409a220744b907a9524107ccc42a6f8c5a7317381e63172b3b895f1cd4ae6f23c30a6143a1516e78af1a24ce15de3d3966557be2fa69e5ed4ae85ec36c39c8ff1364e8fbd0bb291578943d84991578937782e5847d1cf79f97ceacf1ec39e3d335bb04ce1dbfe08081db93a3877f766104ee613e14435d42825600811e26dbfe0ab861f77aee5a19a88ede5bba9606c6623a605c8602a095f13b189e5f9a21204aa09688113b31a09aeaacb18fb9ff2423a27504ab928a782e626fe6bc0432c8f"
+  },
+  {
+    "id": "h-sig-4",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "২-এর পরিপূরক পদ্ধতিতে ৮ বিটের 10000001 কোন সংখ্যা নির্দেশ করে?",
+    "options": [
+      "−1",
+      "−126",
+      "−127",
+      "+129"
+    ],
+    "secret": "fca1a0b0cafc6df64350a072e71543b3280ef82a40328182a7133853ff3e83ee2a6d826f98dc25375b6e6e15d9add7e730bc6de65b0c84f44eb13d65271c104ed30adb706e7af5e65afe5ed2d5278cedb55fc49ff297cdcf7f368dc333315596a17337b5ef2531b59c76a172d9cd7f44e1568e13c700d1a0daacdbde2255dbfe7d1c0042323578cee530b2339d9aacd3a35f72bc5e0733e9f72b03cbab97eaa5f821c53ed049eed442e1bcdff19b080520d2e2055bfa93c74f9e1fe5225ea976ec9f89f6b50678d08a797385c9dc1f707163df71e190e72df62fb7cfa9a3be56ed1fbb0fe11080f1e6ed92effd769ce71f"
+  },
+  {
+    "id": "h-sig-5",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "১-এর পরিপূরক পদ্ধতিতে ৮ বিটের 11111111 কী নির্দেশ করে?",
+    "options": [
+      "−1",
+      "−127",
+      "−0",
+      "−255"
+    ],
+    "secret": "123da2748dd6beabf3d6f7dad4ea07bcdd352a75f989c508028108802af9fbb134b4b6cc22ee23d3ea2d196181f7c67799dc8c122086e112d59864c0d4f80b52a764cd2a8f10b3b7bfdad1896c6c0ba38f1dde13fc54f629e96b7fc44721f08a99cf9ee17c588a5827d608c4ee4d3932b4d4456dc796fad5708d4939bba46786c707e76e3566eda2615218a3f2df00b019f9cd6453418e5698b562b2d88989f3d55504f14a8c8835c4e27e27bfc96fe24902cc6a9ce09cb83b10fe6f6ae29e6d6fc29406917ad7cadcf389d046fab03c8f0037991e762a8d940b2fdabbff3303e67b928583f70eb9582d94e5446bab4fcacf83e1aed72d1e7d65d5e874949c70cd342af35d0dccafbb27356167bf6ac9cf55cb413df751dc692dd8a194d8bfc63a5eb4ab6ba9b4419cf6a1df6438e2643d1ee7fcae8ccc0807e8b405d4aa3b879ae1ab95df927ea2b3a1336229f1d8b66bd5042e3fe4777de5d1e35cfc3ba2609e9450b971dd748b0d521589de00631302595d4dc013b2876cdce8c6112a81757f52ccd29a73d473f7f933e1b710ecadd4828e858798e47e235ba720d10919e03b5adfa56cae4665142e1ddb8052"
+  },
+  {
+    "id": "h-sig-6",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে (−25) + (−13) এর ফল কোনটি?",
+    "options": [
+      "11011010",
+      "11011001",
+      "10100110",
+      "11101010"
+    ],
+    "secret": "1be22bf3e21f183daa4f45c43ca320375ee51df8efc163e724d3730ddec1f177f4d7001665508545e8870ee907a996237af2ec9ad7086f988777cbd42e6fbcabadc4b0e9c5cd8c286218719a5a9c1938928651039a2cf750d6abbe52c880be466c68bdf20f9130ee37c55cf0c36589bb2092ebf93d8cd7d88d855103368e63f02bd6022e24543e831572c26f9d815d84bfac7f46f93d6adab5301cea80c8348b304109e53107789f74a15814c1981647739d3c632e3dbf760b5b8e280e997accb33f88cda10d1e787907f2ffe524ec75b64c620f37cb4804920c8fe47b325ef90a391ac03017bd36e25b56edfdb851676bd86a2c39e319aed9f03513e71f8f28e262c02e704b43f95e8938c183350322413fe3a00572de8d27253637c7287dcf9b80d3e3e5749fb3d1cc0441bbf310662b6b6e83f16f4c7b75a1ea192a053df563f9570ab0ba4e710ae7e9e00fdf03d222ba78828ccca5fe059e1babd0639072f0"
+  },
+  {
+    "id": "h-sig-7",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে 12 − 20 এর ফল কোনটি?",
+    "options": [
+      "11111000",
+      "10001000",
+      "11110111",
+      "00001000"
+    ],
+    "secret": "526744631406f8f938efd25d1f1e9895954783885e7b1a8aed430d37679099a01150dfbaf1588684c97c0b83668995c98298f95db426bbb0f5fb6010a32687a4db33b6a1f3bae4b68edef9a1694948419fb254a073c018b2345111cd0d9f347daaa7d15f2b81f31777e53280b8525217397f6a23415d3195f45e0e5e8399326887b0ef9f06d8e9ebc5fff68b5e2f4d9278739666d10d0912c9b5d6e0502fd40b1c3ef2be139e1b069df2fd1cd43f970a83996aee78a567f265d60ee8137d06da968180fcb6460d60b0aabadc746238b1ef68fdad9ea5fe276364bc1856c612b6e79b03b9aa926716f5ad7b9a5f01af72ebc1bc00a81c2e58683767e25106b85e02c2110e7890c7692fa0af994a9c8c2f2bab91d331a30bf53def2710a6a5b8f98644ac"
+  },
+  {
+    "id": "h-sig-8",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "01101001 এর ২-এর পরিপূরকের ২-এর পরিপূরক কোনটি?",
+    "options": [
+      "01101001",
+      "10010111",
+      "10010110",
+      "11101001"
+    ],
+    "secret": "e9218f67c08472a882de4eb30a6a48260325093a52642f0526ae59d0f92c1b8191ebb9889774e2a0df4685a9a0a71fe45d8060b64f16b66a05eb2c1b24f45e271a72dfc26fa0839208dc5436918e72ff78d6066d3774d75f6bcc9c4c63bb7d357cdba369e6b44003f50d167a5898531ce9b249d5a445da756207addd3c91dc1999b79601579e24cf2ff230a43bdd9c92e40fa9db94d215c3be2527deaa8dafb4fe68f7a7f7b8e508606d4674bb6b049ad8ec281f0d571fcfcef258142815b37dc8f12afd579c8155fbd68dde1d43f3da98fd12dec0c64850271d31eb09e69a76d9ef0296ab72ed876e98cf024495fc3352a80f283545bb3bdf4ee873ea5329a138a08df8888e6633d8d86b70b36ed1139d9ca698bd4e91d1571c145315f9d158221edba36360ca48629854b0c8d6d026f5bbb476009dffcda005805af1f12b9a5d80fc24ddf992299c"
+  },
+  {
+    "id": "h-sig-9",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৬ বিটে ২-এর পরিপূরক পদ্ধতিতে সংখ্যার পরিসর কত?",
+    "options": [
+      "−31 থেকে +31",
+      "−32 থেকে +31",
+      "−32 থেকে +32",
+      "−64 থেকে +63"
+    ],
+    "secret": "5b3c598503ca3a298e9cb535f844e73b413b53341e1a6d14207616ce07ec6f55cf33b019abaf6f414d52fafec06e660b64d9db0efac77b462636e2f4654dda4e181c272262d950ddaf34074470a843ca057ad0b68d266a27a06fff6ee4257c8a7e9a0a93af599566fa6c1172b89eba65b849386280c7aaf7e77330759eb8bd42f3a0924f337c6c4079c7ba2d26474e1f35b6adbb5590b6f0cbdac7af2e6590953e13dd4c9c07e21f3c0a85e5554ae8d025bb1a60025a0ce9518b67a83b061b042fa42eef6f7af300c58d8748e5858296a90ea9e9a9c1b90d3462b20d6860d8f5c5f565e6a2e10c5deebeb5cd28f7897883950c7307591f"
+  },
+  {
+    "id": "h-sig-10",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে (+100) + (+50) করলে রেজিস্টারের ফল কত হিসেবে পড়া যাবে?",
+    "options": [
+      "+150",
+      "−106",
+      "−150",
+      "+106"
+    ],
+    "secret": "604d9052212edffc08e31176596ad951adc50edd50fc6c6788a8199d5eaa7e88c5d662b82e23a10557d5368f1a2b8a0563250af74c47f6b928aa2af1691c22d42382bc7e5762b78524563e44d92051c6ab50946281c4af8abe0216133824f7d5db620e06f8c3d68d80ca4c54c02300e0e53978c359b4581bf54a2c85e3517a34954b80e0138295ca5074e4249b618d7254684fe043e5e6d23934c306f2015bd207c90d9f2852e355b8b48b06f26556543803d9917e10abadbaf713740dd356843fd7e72402b9c3f40aabdcb9706d9f1b06b73448656e2f2530e2099b2be3a7a6bc06b305f59981a1e6a932c4b31b0122d45f537b100993f01d28f08a8f407741797ff4c65c084b8b84e33c804b85aeaa81524353869a62f438ced837a645bce38e6cef00c14618297a0250d0dd9f24f7512ae9c7962a20fad815575fcc80053778841bdfc42ec857c60a8c6ab565cd4a6c5c83b969bdf3150f48f8184308abd0ad44e5a8b474586fe46992f23ac09bdb9517e39fe5de093081bca56de95227b16266db8edce5587c360bb7b183e970c428eca0a1fd5c2dc30c51f07018789cfdfe2fbe164283dbc325cf726c1d3493d89e0d769077f4587fb0742527756aebc84ef245e818edfa"
+  },
+  {
+    "id": "h-sig-11",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "২-এর পরিপূরক পদ্ধতিতে −64 প্রকাশ করতে কমপক্ষে কত বিট লাগে?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "secret": "96e19c1068ea69c14457bfdf1266489d37db52792f4d705b0c0923bdaa7e7f40807b1802d53d5ff2bfa275d532658c72829c3b96b4b0b6b7c08f22928b1b352c2dcf8846aebf809b70d2a088cdab5feff114a6da0b3accf8d31f9986f0cbd1fc281bb878be7e9cc8e3671c131d2edd9617851e8f733ae34eb32e62c609a80aebdad696bdfb023541eefd618479abbb46c5b1b8bc98688d7ef78b1d38b7f0a238664a7c8977c084823f921ec056f3dc3f4d17b814b6c27b216dd157ff254019fda46ddd9a1c6205bb7fa74d6626bc0a70fbd5a907143f5e83231858ef661835524523853e915ee97c7a965398ba276e250d3aa6975e21fb48b76cd2a41e271ef43ba720de082b9ee6c087568071ad83fee47a9ba57165ad62ccb19dfb2fe7ff156a4a34d35d93749a3d65e6b371183aa74e5c96e9e4acf4afe6a663234473dbb37fcb5e6348ca2c5789"
+  },
+  {
+    "id": "h-sig-12",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে চিহ্ন ও মান (Sign-Magnitude) পদ্ধতির পরিসর কত?",
+    "options": [
+      "−128 থেকে +127",
+      "−127 থেকে +127",
+      "−127 থেকে +128",
+      "0 থেকে 255"
+    ],
+    "secret": "9111f5f5556ab8ae11e69b281c8374229622892fa337f9c81d23648c1a49fbdb8d3f2909dd478fda386f85ad13a781308a95c6febd87be41adcbb15d7ee4c2a3fc1441b4430952e13df4fe573eb2609b506221a398fb7a0910e46bc9eab9ef46e6076b06e882453d80a7c0f42c4f208a938f868884da71def50e15c0213c82f4aa0f53b24bc8eba936af94bbe2af34eb6e27177c4244a88285f95ac16799e33192d7af92868fed2efa471566b47905093854ed7a15591cf53105010e5cb8553793a8164ed8ddefe7ced030e27e5da80659f31a8e1025fe8221d0690428fa7db7c6901f03082585d2ea2aa5190dabbd8c26f8142ec44f93885d9bd8b808f94a00b6265897a66dd2f51a2d5dc90fa11941fbee7385a4a4d9998e1a872c6f5248dc714364dc91f429deb3f916fe9f7d31937bd6f29c39aa35e453b0789565a6144b3000ebf5558f9ae5e2970fee1114029d5ff9ebb06f2b03474f4016e0999ad7393473877676cb63628942340c46305ad3b7187ac5340825efb830762ba29660e8ee8926a70ac3655baef2cc37ca6e19"
+  },
+  {
+    "id": "h-sig-13",
+    "topic": "signed",
+    "difficulty": "hard",
+    "setId": "set-g",
+    "passage": "৮ বিট রেজিস্টারে P = +35 এবং Q = −60 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "Q এর ২-এর পরিপূরক রূপ কোনটি?",
+    "options": [
+      "11000100",
+      "11000011",
+      "10111100",
+      "00111100"
+    ],
+    "secret": "f355fe8506ae481842e5f2c1d9cb5ff421f985df5b6dfb66c9ac2223a8e3fc48aedf84f9f78959267dc8f8a7d936ec7780a4742d3a87fb24d279fe061853b1abeea1761e3cb2003a093773a5b06b4029278e318e7dfb940398dde2c653bcaec4e9fac897c3c6c0ed22b15186ed425ca3c83d6f1028441e3aafe5f4ccfcc6eb6332bac925d28460f47d7aa6b81f8f13cafce8e767968727c92d8d4c7088d1e8b98638a82b90a9c768742e9259c2779bff8e44a248ddcbb8340b15a40500a03d7e779944451d44f9f5563177cdc2d0"
+  },
+  {
+    "id": "h-sig-14",
+    "topic": "signed",
+    "difficulty": "hard",
+    "setId": "set-g",
+    "passage": "৮ বিট রেজিস্টারে P = +35 এবং Q = −60 রাখা হলো ২-এর পরিপূরক পদ্ধতিতে।",
+    "text": "P + Q এর ফল কোনটি?",
+    "options": [
+      "11100111",
+      "11100110",
+      "10011001",
+      "00011001"
+    ],
+    "secret": "c15b146bff23d58fd45f504a9abe419c66289cb083c0e7825d3cca31e1f17291a86256d352645c5491d0080a07f29b6b593b9c96798ba322d9c1590b6a2dc752194861dba84d4d7ce1b67a89494f75d8a31f1b4902f37b62fd1b4ffbb5e7d747e99048bcb82116d753b077b9659748b3882e9dc388445ac5a8eb40c4593bf136c80ec1193d880b59e153d2be8e4741a0146ea865a86d2a5743827fe297c803dde098154ff5b960171a87abf2730b6fc0e2d56a94f55f07c2490f48763c6dbd586c01bb6319c4dcbba0d017a8a263f192c1d5eedd68a5d8dbd94401f179b9be6005ae385d46a8a49071fe72f6a71ae224335e9fc06f8341ec384601462b"
+  },
+  {
+    "id": "h-sig-15",
+    "topic": "signed",
+    "difficulty": "hard",
+    "text": "৮ বিটে ২-এর পরিপূরক পদ্ধতিতে—",
+    "statements": [
+      "10000000 = −128",
+      "01111111 = +127",
+      "11111111 = −255"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "63d3f7aa01d09f33c3600f921fa0939e9ec935d35279f99d0711f6a81f474b0a220825ee1fec8e68819e3270ca46749a1e411358d8460173cc606f3174de29c28f62b2f871c556833401e8c24c5e42ad110c125e136cd323fad8eaf2feecb0333ce847d464a5f0c684288d725c79efcea0e0818a574678b43f418558da89cc889c52e9372e349becfbf771320d5600e9009436043279e5e6902e3c5c93909b450e8cac8657630f3fa4b17e20853f02b2b00af9cde26b0c85107dab87a89381226bfde514ba7798cbc4fa6c9e684df2c0b6d64b407ab36f88e46510c9eb9291799e2298167fe24225d6af3c55b0aa67317723a4f7bae33b3d89f645b7bd9a58bc11c332c7ffb81cf411b57b630b6c7f259f2a3afbd5b8e0c6cb21ecf0ee480afcf1eeae06a7a9dfb28b3aab627ac05539b2e61c25d45671bf5db0c1e0bae0ec364b059b1e997a3b4a781b3a057425c6fffc2f4ac5012f59f49fb9980c86b0ff064d4a28c2430c4051a1f380512fc9867b0f9a3c"
+  },
+  {
+    "id": "h-cod-1",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "BCD কোড 1001 0110 0011 এর ডেসিমেল মান কত?",
+    "options": [
+      "963",
+      "693",
+      "936",
+      "2403"
+    ],
+    "secret": "d98c52977771305141c64ad4c476795031a44297d22b7302f22ef7ef0bdd54669dfb106ee8f73c47bb41e6c08a4128f13ccf71fb1c981ea0cd6e0b595c63910753fce481c3f2ede0085652a29d39168c80834df6692c06aba482f0e19fa4815731e7827a2116fb5adf920b1d01404942e615559c5483ad5b596cbc9e777b650c3e4b0e668e24b2f81ec9abe9204060ba44503608191ef532349003b534687de8f6e60e5799f3551bedfccddfd50cb03863cd3d4bf9d9"
+  },
+  {
+    "id": "h-cod-2",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "(250)_10 লিখতে সাধারণ বাইনারির চেয়ে BCD-তে কত বিট বেশি লাগে?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "secret": "91ac4b55944d632d04c6aefd2463175e812b00dc402dd8a5928ec903bec51cb4eb117cfaf3470ff8251cedd7950b3749f554ba20ee99cfbc01e50eae25c94366488d93141660062b686fc619ddbb4fb7f7d476cb51d1a8d95525483d4560d56a53134324f2c26000af0cc85ea2c378b3a85257d42d09179687b265ce0ff0ca27c762b3f5c366cae98af0904c1960df8b5ef4b1c93943239f79814b87eea7d04dfa91bb862edc17e33d12d6dc8d1056d40625e23a825ea05c062db7163aa2aa83003a6c9ca9eccd9ada14478b1283a231d037838c8671296d95e7948e18a0eb72791d47a814a9188d0a041bf0a5ed1f1ae8f70d017015c5a2949493de4c9170d291f85e"
+  },
+  {
+    "id": "h-cod-3",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'a' ও 'A' এর ডেসিমেল মানের পার্থক্য কত?",
+    "options": [
+      "26",
+      "32",
+      "48",
+      "64"
+    ],
+    "secret": "81e7116ac94bf4a3757c3419d2f0f32403bbfa86a8dc665ad12a56b0bde1c2aba98872a5993296c16110ce1c0b652962c9ef24aa3c049efef226360cfb0c8fa04588bd406a5ce2d5538907365fc61aafbcfd45424117fd298439c497ed4f386d2c1679d2d782d6644d4ea5089724efe10b179ff2090f3d0ad1058386ef71ff10da3f74b5bbdbe8b29853a5f633f7a0070e7dc9fd38f397f1a5f03b6c4a3ac88dc287ee0180afe707a9a1fb484d1a97644ea4927352b1846d19be76824d778a6f3f6b1545913ba54fd2f501f4d0624aecf119661c5f073dacd98cec90b1684cc5352f7bea8d5a6f66f9da17350d047493c662fa64a13dd6be6bbf26af722ce29ba54eb793cb5c4d0be0"
+  },
+  {
+    "id": "h-cod-4",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'D' এর ৭ বিট বাইনারি রূপ কোনটি?",
+    "options": [
+      "1000100",
+      "1000011",
+      "1000101",
+      "1100100"
+    ],
+    "secret": "ecd15a4427cd3015d1f4053fc3d315b14aec78a96f0f7dc90b649711710911209efa898695bda2513263f54830500e20be124a8cb7d9c307127f70859bde63d2e5be0759dc243b7f066555fbe9e964fc495b8d60e26d85174957cc42bf09c934298903c1aab06d38a2fded798249b27db685a6e14eb49450ce36cfc67942ade075828b3dee951f56faa4d614"
+  },
+  {
+    "id": "h-cod-5",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে 'c' এর হেক্সাডেসিমেল মান কত?",
+    "options": [
+      "63",
+      "43",
+      "C3",
+      "99"
+    ],
+    "secret": "3956732dcddbc72bbce2a02d5df1d03a084e5c5d3d9a01c69cafedc15a62d40fffa17fec0d1614a26ce0e140954fc406886a6bbc45fe9c241d1e3c6ea5de8d147e6485e0d2a084cb8bd3b1d8fb447224bcbff9dbc62838347569b660b0c6102ba3cc4fd85b17a0380d8beb98553e93f3a0498e07af2cbb412ea70f56aa65334f3f9a402bba3629586c37904c63c10d0eea38082e3a9f95632b7239bdb647d51c3be3d674"
+  },
+  {
+    "id": "h-cod-6",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ASCII কোডে অঙ্ক '5' এর ডেসিমেল মান কত?",
+    "options": [
+      "5",
+      "48",
+      "53",
+      "101"
+    ],
+    "secret": "d3d6b000a35770a129bd8154f4eedf47bf33515d18f4e8ab01389d48a6701ed61c5b7bee053fb8cefc1817b2facecbec2238d662122f61d62fdac77f8d48cd9d582b5d77a3c6d75eeb385bdb5c260c9c0d0644f03b7dc99380694f944522e97ed7292ea9cc8601ad6e10ecd657a891ad9e1597b7de9f44d883ea4eca02562d801dcd372f458a904f7b3306fcd3e1f792a614c10e8bb885894fbf48f9dd7ffb808e84b85bee3478171077dff0527406c4c555ebaf9627e9ebca997bbef326f8f249cf2d959f259731fe9399652c615a483fabd3fe79f45872db5129a9683692a75c9583a427478f74bb44b663e78d17269eb6c7afcb14d28a94e940567e90b235899158eff61eaf543f"
+  },
+  {
+    "id": "h-cod-7",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "(1024)_10 এর BCD কোড কোনটি?",
+    "options": [
+      "0001 0000 0010 0100",
+      "0100 0010 0000 0001",
+      "0001 0010 0000 0100",
+      "10000000000"
+    ],
+    "secret": "3b31593300772148993c15e84e9d45d642b56e2b284b8a7f0d57703d6393112cb56eba1df6fffc38dde3115ded385b3accdaf8f3c8b3a20320c247f7ab830223397236a7d78039eb7368e7f9a55b4f50390870b47453e9395a2ad36206f88d3d115cc45ef4e0242d38231fc787869618b4d75324da758215bccaa7f13aa872debd67b73f90c7c37b4540d6717551da6acc7716e2641c7c0d9abec73fc10830b9376e147572c19e6d9861c4b0c53ac3651a2da612ba6a1acd44b85b3607184bd40586d7408b53c7732cd7b6cfc58467896ccdde9f271a6269d1f38bcbf753a9813699e1545aa4fce58cf0a3288f03d05ca2dfb01315b3380f9774da5e789154631404bd51f6cfc3989f80a41fa20d852f"
+  },
+  {
+    "id": "h-cod-8",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "১৬ বিট ইউনিকোডে \"BANGLA\" শব্দটি রাখতে কত বাইট লাগবে?",
+    "options": [
+      "6",
+      "12",
+      "16",
+      "48"
+    ],
+    "secret": "c2eccd512d7f4b65c83cc98dcb605d0665f55c3d5ffa37f68c7fb5049ae7a43f93f16cbdaa61ea184b3a9d60ffeb7bdb5a7760a811cd2bfb5c60bbde29cb059c302511f738c7b6defcb8d3de4c6eaa325ef273c3c692be5f180cc8f0aea30edc43bff4460774fcdf70fceb822ce52b5721c0ddefaabd8b5e823eec809692dfb39219f05befa6c49f6b051c9df40870c5fd83f9f47239f0861b700fe870e17a51a72759a6ece2277895898aaef492f6d4e5791264"
+  },
+  {
+    "id": "h-cod-9",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "নিচের কোনটি বৈধ BCD কোড?",
+    "options": [
+      "0110 1001",
+      "1010 1001",
+      "0111 1100",
+      "1111 0000"
+    ],
+    "secret": "a1722385479674a3d865a837ac657ae6e4158e26b8da0f6394fa748198046ffad64a6f91a36aaad60b08a2e5398aa7f55c4bf8025b089dbff10c07088ee71290ce22818da67be438163b2a35e77ce6299161ebd5a99b382084d2404a052a3e40002728f1f15316725339129a7dd7d1b99f69ba69e1851c95e51a9078940907eb89bff556ab81741bd4da333f14efc3508bd96846250a4842b980376f87c4faad141c5fa8a5bdd909b0948f9eff262b3e4a28553a822b13b36cf4c2247d83bdfa98499e2c556ecc975918f0f37a3cc95c6c6e15b53768a2c7164e932ffa1151b40715733c2c899fe5167e58f8f5e060a5f683e270c7142108811492b28a277f959e917d9b1a51226856f56b5362d5b458175544a2cd8763caac0bd0e7d3e1d40bc2d39caff7e5c2588cc750cebcf358c1e65f2b9774bdfc919c3bdb4d7fe5d8e77d5588c79bbf6eacc320cefdcd769af0832e4198c8"
+  },
+  {
+    "id": "h-cod-10",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "'A' = 65 হলে ASCII কোডে 'M' এর বাইনারি রূপ কোনটি?",
+    "options": [
+      "1001101",
+      "1001011",
+      "1001100",
+      "1011101"
+    ],
+    "secret": "4a585677ddd4ac4c3b06f3867c92f4d6b795ff29f0771f0f7f9a7b25bd20b4f256d8391f93eb3f0b5dae892eea43646d0249b856736634d265457bd9aaa993d6f09910151c738f77d8a4cc1d6ba2580370a5d43bba47ba67e20ca436094d49e9b4795b4ce99f7f5ad78a15be7198451f07ea81885386d0c9db679532b14bec0b86ecb894d84cf479f374ec3d1cd3a5ee9af98c56b527c986336da34abc40082e0546a12241130d32ea40ef2fdf087a56ded7644ca07c4a614621a2a6f6cb667e17260ccef53d7419cad6b988a1127c7060957dc0cca350c066ec3987f5ac3c8d80f38b7ad738d195f9fd8964e5b7e1237b19fa1c3c792ac36589a957ca78fcc2376dee3be2a35519ae8fed02dff3"
+  },
+  {
+    "id": "h-cod-11",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "ইউনিকোডে বাংলা বর্ণের ব্লক কোন পরিসরে?",
+    "options": [
+      "0900–097F",
+      "0980–09FF",
+      "0A00–0A7F",
+      "0600–06FF"
+    ],
+    "secret": "d008f55eabd8514b9b546ec59fa08da8ae0a3418091e5b90d9e98ab04e7b533da10292af0317fc7617151eab1475f7491741c437d376a13715802c0b45db354bb22ed51ed32f7eeb8482bdb54bef818831b8fb55dcf5b3d75cc9484d608316e20dbe05a07ec219b3926ffa2a11c9ff9402d222b64fc789f62a708e4011e1dffe813e41f82be035f960aeb2f8f42c0f4b08384df5869e4c97400d3f8d824036e914b4b68820d94f4675f0bb28e72941901d4a2e84152f5ba55375ba5779cb5d1946be8619b039cb3a16eb8078b9e2be5a1ece022d85cf7c6aa1cf3d5cb51cf7461f5d3467e6d6c41233d3f9961c5abe30aaf97aa55455ec116ca4c6f4238ae80c619705ef5c18fce4559dc7eb0defa6ed7a5e7794995b5a3189e24143396c9d37333f6aa302698a3800e34531bf1fcf3d60d6428de7b0b90a0994abd8e6c8e442cb"
+  },
+  {
+    "id": "h-cod-12",
+    "topic": "codes",
+    "difficulty": "hard",
+    "setId": "set-h",
+    "passage": "একটি ফাইলে \"Cat\" শব্দটি রাখা হলো।",
+    "text": "ASCII-8 এ শব্দটি রাখতে মোট কত বিট লাগবে?",
+    "options": [
+      "21",
+      "24",
+      "32",
+      "48"
+    ],
+    "secret": "a96ef0ed4dae7beba236580cb54528036baed581f77917fc34d407c00d8530008e8c66a071412014d1c961edc35049cd97622669b004a65fa57e899bfb1f752fd5cbf615dfbfb692402dd182b9feed8e35845956cde82a74f8d809fd45b904f4a15f678b7770cd6d9009d5ef91649f8df66c3e685807d08301c2baf04ef54e752a1e17424cbe275ed87565abbdb590eae977889195caa75db5663edd54d168d7efde17e1ecdc39b2d3e8f9ba4f92fad0c3e70384175821e3d04308a4d62343442d45ad5f6228b6af3e1cf44e41d60524da007b"
+  },
+  {
+    "id": "h-cod-13",
+    "topic": "codes",
+    "difficulty": "hard",
+    "setId": "set-h",
+    "passage": "একটি ফাইলে \"Cat\" শব্দটি রাখা হলো।",
+    "text": "'C' এর হেক্সাডেসিমেল ASCII মান কত?",
+    "options": [
+      "43",
+      "63",
+      "67",
+      "C3"
+    ],
+    "secret": "8eb9a7ef461d493d081a3526277c0ee5368f3b6dcd34d507ef419573f30af8204d8dbf2f78f59d82df4cbb4f83baaffcb4776745a9cceb55d4232727ce59c6b7a73de055310a9fddda2466b863dbeee0feb99a678f23d6af2ad16daa4db971fe3e9e34124a665fd558f957bfe86a9da32ade07c37644968595b2043ae472c4ee0ce4bea2abb6bd489ab6e572a1917476bca0584cb4372738aec691509fbb6a37b72d5da4"
+  },
+  {
+    "id": "h-cod-14",
+    "topic": "codes",
+    "difficulty": "hard",
+    "text": "কোডের বিটসংখ্যা সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "ASCII-8 এ 256টি চিহ্ন",
+      "EBCDIC ৮ বিটের",
+      "BCD-তে প্রতিটি অঙ্ক ৮ বিটের"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "2bc4a639a02730e74b48851bf327e31b15179b4e41b3078751899f327bf7524fdb1b2b2c42efed936ace58d882de98404747aa6c7e4d90d756ca81c0e00a1f22417ef49a178324441199cdfd904a47d6797ef4c8081c5e15f1f6b5feb7c7c68174e0ca51ebbabe6611437a92a984c51eb64c8d927a8ca66d86aa41d98ceaee74f422ff4758dc5a5f949446d8f7113445da7db10756942579393587debf7f7be130a28c71ae588931b1bc942e6db47d602a5cfbca7cf972ab70adf241f90885817cd9c01aed60698f1ba23b1804794b7daee72715258e2172701003b2d84fb7f3058282f0cc8ac1fa68bdd4b82746f89e92e6b4ef9facd0e24746"
+  },
+  {
+    "id": "his-1",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "American Standard Code for Information Interchange",
+      "American Scientific Code for Information Interchange",
+      "Advanced Standard Code for Information Interchange",
+      "American Standard Code for Internal Instruction"
+    ],
+    "secret": "d5ecf0acb857786f4817a0ee71daf3e259a0348210481cc0526e11c8fcb68bc0e4d474ac5138058579ff4031c2290c39f39e54738cadb2afdba2b96391757785574633a2bf787a524288c86e34eb9eb6dcb1a07c180ac33aab79d7737c4c2300d173ef59cf8f9e814177160dc60a0110a6eda9792c1df43b14dd610d803dfc166600d401dfc4718c250b54f12c453536938feb6c6a6e0473816550c6a52deb929c0eb85f961178124e80640449c998665a96d100c5e20fa434e37673db6fbf94c3e55a7a80c5f3fe00984724d3821aa4960d0b44f2eb814723310a9646755df443704153d23ef88dbd6885a8f8b3f8009893fe4c14402f515e79518919d5803b5d3f6efff436b80123da9f158b6f34a9e8317d"
+  },
+  {
+    "id": "his-2",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "মূল ASCII কোড কত বিটের?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "16"
+    ],
+    "secret": "b6652a490c8586acccd402b42e58eb4811927e142345298b0d92f4a3f036ae3ca8696f7b4b23f05c9fefb4a6f7140b5abd6698c5a5da138bbce6b767dbaadf215e2480a6be43d09f13c89f6dcc8cf5f13024ac70b0f15302855aef7245fa035e3f8cdc6233d53282f137a7f7e6e80211595456e63bdc905d436836a587f612ee8bad910a2dc15d73ed8bbbbb7c79aab778fda5ac3577abd448b7a6e0686e12c95e42ed95308b7530938cf3748d378d3d488a1dbb69e19592c576de1c6b8a6f75f56463e6b36a8aba45402fd12fb236967dd46f09e3882a99cd14d76647a7c6b8a033c91fe74f8664fe958f56a8fb04aaf78d3a4c753665ecbeb6359207292f3763110dacf497b6d42f9042c3"
+  },
+  {
+    "id": "his-3",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII-7 কোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "secret": "3f0f21ea59e1edc0faf2af303e415f73534b5ade4ba39e90f724b7f919c904c0c1ed049e1c875437116572204acccb070ce9b00aec1d3e4bb0a2ae34793d2126108043917031a7b48fd3c0e7d1dbaef7887bebde8aa8b839d6207b540762370e53216594effdeddabb30cd75ad9ca22d423877086ff87a65ebe3bcddfbe1617afd38dad653c601586345fb92f3cee43b7a840f2d5bd21554fa2b9e900c8ee64a6ce2b23a2729cc0bd9ed6129974d2ec28a2d55eb8d802beaa6eeb0407d2719b8abb8a5834b9ac5cbe590cab350e653fb3745be310aa0a6587bb46bfdbc6e969665e67726df6e52"
+  },
+  {
+    "id": "his-4",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ASCII-8 কোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?",
+    "options": [
+      "128",
+      "255",
+      "256",
+      "65536"
+    ],
+    "secret": "0ffa297fa77606dfcf03039fa7e136bdbfc45c0d8424faeab05a895b7d1ecfa53c3582459ae189d5621e5610942cae23c8da52f1f7b24de2729b56f868fec6d16bff159977f6c7fc13a35633588cb26b828a99d5ec8c9bfcb8b3bf730353ded32f9d14d14c32a6d5b2c11c50c097631bcb04080bd131515b2da621b2380df368ad26ec1c70a76e86039ff9e2e4a87e1f54e736542f5c55fe79d3cb4d3cf818dd8b4ebc5f1a7f9c9a95152d8edf54cda944a0dac5b115ab311fd414bb13ebf9a70a9288462c16089312b394c5e0329b25893e49d8e3917d6e08f7ecdb8df6f4cb787088a837e36f6529"
+  },
+  {
+    "id": "his-5",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোড প্রথম প্রকাশিত হয় কত সালে?",
+    "options": [
+      "১৯৪৬",
+      "১৯৬৩",
+      "১৯৭১",
+      "১৯৯১"
+    ],
+    "secret": "ca90b5403c14438243cd4b1ef6f8b8d3c20bacd93c0bdb6b5e4277b10b20d8ebef2aac919aefed8a76ea38ca5f17b6c12ff2e924432dee970671c1cec4e02f774877f0cb014875071b02db3ef89798e8be3a66ee0bd56d35be2dd9d8840f3629df65ffd62172bdef45fb172d5b380da88d132995133a43bac4dd88de8dea6a6953739a8181b42127d257e7a9c6620e0035f094cc907cf249ed605757015f0f5d9b873c2ad024942a937f06bbdfc14f516cecb4d636ae37b64c15a2f7e52abda58ecdaf7e8720bee6c44e9a88aef8d1c66ed2700f6e415d87c4c8b5fe1a40b723fa5f22ce2aba8ab889da793aa3fac59f5b92dc3d14f26a0ca454c0afafd69be95cf9f4e975d20e4d50961d64e646b1d0a0c1cf5e6fe7f0e9360666cec8de3b4a1e011241b93a002ce76663c0eb5ae652417737bdc06d95ef272eb36782399e0cfa63ae6b96420b711743aebdfd5263c72afdb9bf18c88c350715d2ed2f6ebb53ff3fc4f1f83a3adb747f1e79e2"
+  },
+  {
+    "id": "his-6",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII-7 কোডের ৭ বিট সাধারণত কীভাবে ভাগ করা হয়?",
+    "options": [
+      "৩টি জোন বিট ও ৪টি সংখ্যাসূচক বিট",
+      "৪টি জোন বিট ও ৩টি সংখ্যাসূচক বিট",
+      "২টি জোন বিট ও ৫টি সংখ্যাসূচক বিট",
+      "১টি জোন বিট ও ৬টি সংখ্যাসূচক বিট"
+    ],
+    "secret": "512f8c1da66f0e5a4cff21d0ff378e32b7bc43f6fe9d6340addc1fd9d1701f5f94762dfbe3d5362d3e502b5035460bec44b02284fb2cc33073f8595dff0b220b793e15f89d0010adf5abb77368c8069a6976dd06ea0176b4502acce232e20b8c746e4aaa353066f79b58ced648f52aa059e460bcdaad86e1829318193f4bcecbe9ac7ac23a741175ddd332b81d41fd8e6776edcca212d3f45e639d59fc02e45d697236c26c4ca86a3b6ca3aadfb7c69410e9b00612dc6641cc85483bf33d22e982cce902731d0008adc35e3f3c1c592892b46c758c809e2e0e3eab8b85584fe160b6355730"
+  },
+  {
+    "id": "his-7",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII-7 এর সঙ্গে কোন বিট যোগ করে ৮ বিট করা যায়?",
+    "options": [
+      "ক্যারি বিট",
+      "সাইন বিট",
+      "প্যারিটি বিট",
+      "জোন বিট"
+    ],
+    "secret": "508ab0ab36e48347c738033a4d92e1091dcc02d70da7da40236eee94009b04e555d4f320d1b83a4b15c3d8ef809a227e1c8212a55c7f13c642bdcf3290a509038311648a38f1c3f88f9d9b9b0ce8d00555326bb46aeea83ffb3a9f1ebde5e5754bfce42c47d6fba6969b67a36174b18fe429871203527e9e4f07992dbc5f8b3359d2bec914d82caf0bf751f99c561e7339e3c00f75dfda6ce6277da23ee960854cdb635899d579489feb3de97321b1416b1b6a99bbbbb840db2595fd8157cbca59e81f7c9c655bbce4b123c2f3efc500689e75d990657f0c1b60004cea4f67bd5d4d44744e22202187a876472276b2c49ee421da756f450b758eca0873e9792eec9b65ae6c303523579282498c1f31c6f217f04372a0b6ad688c1553842fd3518aa6ccbbb7ee305b699126ffcf8ef2259fbb3f75fa58f72bc8b3298ba379e70e42d4e400ceb777782b8f46eaa17b29bd633c7771129cffd4b32e29cc4aae6113"
+  },
+  {
+    "id": "his-8",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোডে স্পেস (Space) এর ডেসিমেল মান কত?",
+    "options": [
+      "0",
+      "32",
+      "48",
+      "65"
+    ],
+    "secret": "709fe9d6b93fef8a260e7e77e977838f436d6a73a35ad36000f971338de4e7e38a04821616239a9e61beeeceec9d28492bf268f865d62c61cd1ee614df8f128da6428ba222b5c86572a40ecf7db1d6f3e3d75d45fba6ecb0178a06ee762eb38078bc473c3caa8afb87874249e08b02b1edf130ff9c17c14345725475faeb630ce7d74383714c303d52472f03f8a2ff9a1a905dc7c1e353a3ac0266bdf846df3cda6fe9758fc40dac5bd63dff854c2d02911b59b96511e2a9039dbf63520d9327fdd9d38a8b8863151d8a54f70da1c56e902660f7dbe17bdaa7797032ed1df588cce78c9de4f68771f2e0c8614319ca246d90f0ed8fa3278ede84cf460e8866c3163f9faa3b6dbe55922f8d97654a40f0c9804798aeffa8aa36ef82f8e6a1f51d4a9f3bdefa42029a22a3c68fd4db0544ee"
+  },
+  {
+    "id": "his-9",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ASCII কোডে 'Z' এর ডেসিমেল মান কত?",
+    "options": [
+      "90",
+      "91",
+      "97",
+      "122"
+    ],
+    "secret": "5d4eac80db88d732fbbe46971d6fa6cf6d864c7a63fc4c358c3f4bdb577172103f0293570af4cf93faa38b19dbc54ea7c50c9470cf8a039f944071219127b67fbd4740792157145366a0dad0d2517ab83afb1ed5aa15b6e57386fa145f3bae7ab2db9d6158f726748e4292b79c0bf5103141fc395d23d7b0074b386af599ba7ce5bdf5c44b472b5e7a49ce691b9690bb2f799eebe8d991c36f912f8f5baadd96a34bf03d5cee38343958854cb5e95e7c11117da52190111346b52697d2d3c7ab216bfc83dfe918f768162824d90af755a997"
+  },
+  {
+    "id": "his-10",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "EBCDIC এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Extended Binary Coded Decimal Interchange Code",
+      "Extended Binary Coded Data Interchange Code",
+      "Enhanced Binary Coded Decimal Internal Code",
+      "Extended Basic Coded Decimal Interchange Code"
+    ],
+    "secret": "c1e8329ba6a9d84b450f0a990acb31cff3c4e0bcb82f739c33b5d1c473f9deb7ea4075721219bfe1c001dc02a50154dbc077da846e0eb436d2921e1ff6fffcd2a930acb22bce4ee80127da54b095e24edb6196d6acc35dcb230ea025ce2ff68b5b22b9dd3fc03035c6e445cec675b76625a3d1dcaf80b3e812fa98e5cb88caa3e3625064383ced00bc3504089890c1520e273d9d3e6741de9665c7aaec8940de0ea4f666ca87943ca41def8214c846175c2f92bfb0b6aafccdfa3c4e6b646fa0c83ee7d8b0da028975"
+  },
+  {
+    "id": "his-11",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "EBCDIC কোড কোন প্রতিষ্ঠান তৈরি করে?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Intel"
+    ],
+    "secret": "779a3f5fe2d2ec125e400a9c536407d96418419e2c9e86ef018d822d5dbdaa7d31bf3b627b0c580850f750a10a06d3f8483771bb3acaa9af7cf5f8756ac39d87bfb680c97f1d68a4d23045dfeb4f4a54cd09498bab44b79c1cfee143dec9df71b06594a8289dc41dc48733cb754696d99d9d656964ffebd50412f4e44f53604379be74897e24afdc883356231c0e86b4e5ebd0a176f761498e02f9a66c15238a66dc2fc0b634347b57ee0a2b0204ef3b137426e9e110ce384e269d47b7788a9b832f6f660c1bd30e1489c04a673e09a7c43c362f8a43f2cb7960023b6ef155cb2b7dcdf2"
+  },
+  {
+    "id": "his-12",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "EBCDIC কোড মূলত কোন ধরনের কম্পিউটারে ব্যবহৃত হয়?",
+    "options": [
+      "মেইনফ্রেম",
+      "স্মার্টফোন",
+      "ট্যাবলেট",
+      "ল্যাপটপ"
+    ],
+    "secret": "ac4c50975459e49c1efbf1708031ad81877fdd4eee59ef3a889101f78b3134fbf9279d41f727f1ccc75c6fdce570440b23064b10857e4e7febdbeeff2b479cc5ba244e3108f286c34f973d44850aaf71eae9146a54954c0dddd50746afc43e48322c73666d52f2a40f943d272e6a2a62883ecdd43e0582733c291da99e730bb7dcad807876de06c832db85d874ae7a97187b4bf8139a128f766e8fdbc28358fdcc1738235239579e88c5cccc6f59e45cfefc19caba89b2e981e4d3e6a6a620fe3cffb6ac0c8d26ee39a0c006cb3b7edf0f80e4dcbb42637414aff7292e16a45c15c76651c49583e2c59f8756b64240bd1ade8d41d6f3771a3e6942f28601d078dbc0a3a1cd8ad887bbf019a45528c81acc663435febfeb9cdee1e8a5abd14f83fd3e5165d2d7"
+  },
+  {
+    "id": "his-13",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "BCD এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Binary Coded Decimal",
+      "Binary Coded Digit",
+      "Basic Coded Decimal",
+      "Binary Common Decimal"
+    ],
+    "secret": "0eb57b0da61fc2a7028bcccdb6bdfabe3a9b432f970080e516673d655586c524dd6705ed989a09e689c94a9e49370321b59cb3692b9419acfc86288bd22faef235cf3d728a2368994e5d5358fa189868762d4aedb8e493626232b4ac6ed152a2b9acad665cc3ff1f785ed0e587f945833850adb14a0ad385c6102a8a17ff85c775f95f7b1d05598cef0540338f65ca9b69a780b83b23d6a00c73394c9110ab468d073b01d7a60118215555933cee4785172ba1c191d372dbd439c3bc041d47efec50bccfd6987b7fa57f3942a242"
+  },
+  {
+    "id": "his-14",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "BCD কে ৮৪২১ কোড বলা হয় কেন?",
+    "options": [
+      "৪ বিটের স্থানীয় মান যথাক্রমে 8, 4, 2, 1",
+      "এতে ৮৪২১টি চিহ্ন আছে",
+      "এটি ৮৪২১ সালে তৈরি",
+      "এতে ৮৪২১ বিট লাগে"
+    ],
+    "secret": "21d482a4b09ab5777cabc2dfcac4e08e553d7961c2bdf020b5cc5d1f5899f83c871e161ac01fbfe7c908a24179c9e4065665bf2d8fa2fd55735667018f8be37d272207a73f4019641c9c80adca4da22d0c6f6e9e47ee4cab6083f1caceed60129744c097ebbb7993ede258a9bffde2e607ee98d8e53eae6ff3cd01216dc587847f208eb4fe07814bd939c0ae970323e5a8766ea98651575a55ec1fed9e55afed45de0092187d09e56dc75d800ec1e41c00f3f140e6bf701403e451b90ff02cb2ccb0bf297f7c36b78e8ee8638f84551d922811ac0f0c77943f3d1a49acc4c98a79d7f91a89618f1b23ee17a4bb449536d36a5b18620445fe9493e61615b3cc9bff46"
+  },
+  {
+    "id": "his-15",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "Unicode এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Universal Code",
+      "United Code",
+      "Unique Code",
+      "Uniform Code"
+    ],
+    "secret": "136e2b20dc0500b8981e91d92eb5bd8df2f94d4e50cecaa5fac947990bcca653142e2a2e6224ee0dad22b8aabd11bfe0b97447830fef67c0e4d21330da4491bd84436ca254bf4ee7fba85cfb3afc7b75a0c57e6db056b3fd4fd1ebe5b8dab64f6f1fca0dd2d1432f5a4f3ab422319b635e0fef7d8e0121966ed946cced8a0b8cb0737e82af5ada1f0c3a380fb9d4d00395637ee09f460f5ccca723f5089322b75365269993cd9de3ae452227c207ce6df4680d1d669df3ad32dc0732506d7f609f13264ab7dd75989cc6b6d97c92892885453156cb8ce82734ed90643b15b1d72b005c91fa6761"
+  },
+  {
+    "id": "his-16",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "ইউনিকোডের প্রথম সংস্করণ (1.0) প্রকাশিত হয় কত সালে?",
+    "options": [
+      "১৯৬৩",
+      "১৯৮১",
+      "১৯৯১",
+      "২০০১"
+    ],
+    "secret": "faa8d14b9dade67b9bb29c07a3f8d786fa2f281d03abe86e767c6e7e8d6b615399447aad07beb3f477fcc58f2e6faa6e80fb8578511a893331bdf819d353f8fda6fad97720ddbeb7fc14a82f0dda0ca0ba7e4313241c8754fca8751dec13858a557ed47700d50c41972fdcb112c0c76517e5b75dd3279761c5c1f2373207ac4c91ed2a30c1a78f312811d12aa8d4cb395d4bdcda2eced71c3bc51053e8e80f20952d051eb22aa6e051149d9530e61380c34349b7877470d0d114cae3486119cffc2809de28472296fd49936ba2fd5aae1486018a"
+  },
+  {
+    "id": "his-17",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ইউনিকোডের শুরুর সংস্করণে প্রতিটি চিহ্নের জন্য কত বাইট লাগে?",
+    "options": [
+      "১",
+      "২",
+      "৪",
+      "৮"
+    ],
+    "secret": "c5d05ead6aee8b5cdcbdf47158266a7073dba7b790faa8c0ecd7019f4212c66a3a379c2eedc8cd812402700f5d154087b72b9addeed69eb2ba70adaf805ffa6d366e2aa7ce5f8383146c3aca1d3e987f467eddd23400166726a3fd7af8e424ecf96cb54af9b46d3d36a1234136fa0464875c91bdad8c54d8b9e5b747d6d93742846e779d8f2a645d478207b2a10a9499dd2c1e7e478d82ae9c182104463a6be23b6724af9d95b46853261fc428d667110d75f973cadfef41dace888a8cc68b4d963ea502e59cd188bbd24827"
+  },
+  {
+    "id": "his-18",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "আধুনিক বাইনারি সংখ্যা পদ্ধতির ধারণার জন্য কোন গণিতবিদ পরিচিত?",
+    "options": [
+      "গটফ্রিড লাইবনিজ",
+      "আইজ্যাক নিউটন",
+      "চার্লস ব্যাবেজ",
+      "জর্জ বুল"
+    ],
+    "secret": "534e7471f7ed422c967fdbf348cd4ddc6abda990d7113d7c9124f8d238bcb78d3e9708b71709fcd81ebf04dc73d9973f79a826eaa5e180ed50e23318e854f6ccff770fa023cdb7e73a3a0f5c18387494ac002ea79ff8f6a281ce5eb55860d238932bca40658582d994333a77acbfda5c507cf998feef8125bfcc76fff6e0b3b77a40564f8caec49dbe5d9a988aceae02be5209cf2d0f9df9ac4565a0c65600777a5139b7f010c41eaf52732f39f95774aee707872c5adb3096eba6f6cb2d8897a0416491aa1b71550d6bd1002ae8e7d68f0d4d25448e7f383d7b144e2e38375f81669dcb75d078595f9b4314def830478180c369f92e2c6dd5834632e01ce62fdd4b281345071aab4cd0ce36981efea7201ae3f707e1dea408982e08695aa5e2c56fd2053c331f460da2dae92f0883d3c5a38ecc6064cc349c281847af632c8a5a936253ad39047d1501513b04e3500707f44b5328654f377ddb987f7641c8b549e3ae07182f57cb018da737a23a67b79748435b67c6d9e3a8af1a6877f5"
+  },
+  {
+    "id": "his-19",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "প্রাচীন ব্যাবিলনীয়রা কত ভিত্তিক সংখ্যা পদ্ধতি ব্যবহার করত?",
+    "options": [
+      "১০",
+      "১২",
+      "২০",
+      "৬০"
+    ],
+    "secret": "c996af12834c1329527ad61e1e9a37bdfb85f4869c28a9ff4f058ccad1c2ef50fb4b000b7875e846d4c5481b3916c574df4ba547a9e0bb721402d2c94c2448b196bf833da14340857a8d18af75dae8d2f23653a615bb5c3a0a3f6f088dc9e07531f3a7c7bc7c11b8c9da252ddb2a8be062008ba6b8d4359b48720fcc7fdf166ee936e993de347984f9f9e0a63bbdd175d2255da2eca47be01bd62858a4cdd6ed602eb748090872d3ee96a0fd7a0716bdcc4ba48013acd0fe8ca95b79f94af82a5fa884d46cf3271ed77999b9a385eaf8464e0b984f0d34d8fc9e0c26cd9cbde0409d0920c11b3c79980b08a12c47a95c69f63a00248d39d2d2fde77881b1283c084d162d481e1e0bb939f0954e7fb4d54217870d2b116ce3939eba71a4a67fb53b0d071883cd8e3f36d1e803e264993cc2dc4abdb4e073d70938af9dbc0cf01466e60192"
+  },
+  {
+    "id": "his-20",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "মায়া সভ্যতায় কত ভিত্তিক সংখ্যা পদ্ধতি ব্যবহৃত হতো?",
+    "options": [
+      "৮",
+      "১০",
+      "২০",
+      "৬০"
+    ],
+    "secret": "9fba752165519910a5d161aa611164ec93b2234b40d9e27c316f443a7d03c2c923bd19fd0d962e455472debf32fde33da6cd0ed9802299cb0aadc44a76b8b4785758242d11e12cffa9a300fdb3d168aa6e228d9386a10c7f4fe732b2ef18f14565a4e1d39e91369141a1c1e92fc80d1b9a069e3c5597897ba34208430576bd38713c63b0ba04bef1ad91a14a6dd7616d2f20059108cfb4e4f3514dc5ad88fa015d6b4304fc428209568f8c2156ebc8ae6f3407c2e681e499ef7875bdd1fab7d4c86b37fa28c84619c87fb0ab353159050e4d1ae3d14d7887068cc125173add4841f9d86ece29ef850858d112793e6afae46acad5baa9e86833520e29a254727c4d69070fa7e020c2ff1c9f58704303cb3dd22c25ddb2d4901e68f7e04e26b348604ebb3033e80c9ffdcfb04872"
+  },
+  {
+    "id": "his-21",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "প্রাচীন মিশরীয়রা সংখ্যা লিখতে কোন ধরনের চিহ্ন ব্যবহার করত?",
+    "options": [
+      "হায়ারোগ্লিফিক্স",
+      "রোমান",
+      "অ্যালজেব্রা",
+      "বাইনারি"
+    ],
+    "secret": "550bed486bc9bf32c008bf8e50c167d2b242d87700dcf1a1a8dac2f51437a5957dceaebfd23abcc56aff45415b82fa8c85acf29bb2ba78a3272e0d3ee7e3c26d7221de903954b6cd38dc92ad1a46c6f6fcd456d12281b44bdc8cfe27849fceb4cbaa8cf4fb87441fd5347c41731292c0a0bdb2c2d16ca5c8bd5339bf02b975c78d3aa05696b8bb2b09c7f0915825c60932c11ab00dca6f5828f162ac2f7e5e1f476ccb9dcf4823a2562b1ae95bb4c2f674e51db33dce2d49d0e21e0f2301bce554ed1f5a28df5f1a0542182f5689662e8225f7dbfaa03fd28ac3b2549ad2c9ac6aee2419be1416f87fba91ba8db4775d8f4a7b8913bc4fca0a31a41c792f3d175014c543355d2a799c085f35d12d077359195007d81748075da415e015bb14ad3a5556420d0279575bc3bdfc60baa1d2d28f30166cc3120be3025034feac01e3ef56195bd1ce934bb6e97ac5f6bab69c3b9eda20060338b512381f28"
+  },
+  {
+    "id": "his-22",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "শূন্য (0) এর ধারণা ও ডেসিমেল পদ্ধতির বিকাশ মূলত কোথায় ঘটে?",
+    "options": [
+      "ভারত",
+      "গ্রিস",
+      "রোম",
+      "মিশর"
+    ],
+    "secret": "436affe064c526d2573d85d0d7156ca1644b97eccaa17ddd1d4cb79e2838b34655291be46054d0e455bdea5def924c14164a28b7f9820fbdc02f094d8bcb09b145b498b9f004987caa01b25b54df0ae732ed7a54d0d131473e8923c0e72c1d20fb4aab61313970dfd68bd4d4470e68c64c8d030b2ff3a3345067ce625e50571a6579efa1b22b7ad2589818ca4a449328eb4bd2bba689f894da0a587e2522ac2dc0f4faef7b306f0a9ecd2954919b8fdaca046fbb066c077d2c0673b22ea62e912e39eb8814ac24b566d42fd65e1c569b4ae2220b2108db433b409753c949a7a925b8a8bf5213f601fba8f32b542321eadd7530438d19f0800845d36d069b6a154aced14ffe8abdcb64b5c60e6d9e5fd4ff7a44abca16ddad6bbb4f62918bb4e00650cecf574bbfe48cc05f8d71980a42e879b7def880815e78b30b6e1454394bf6934d62fcc37b5905fd8275099ad5dce4d77ca2b1681d9198ac22b84911877b895c647d6d1d784f3524"
+  },
+  {
+    "id": "his-23",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "'Digit' শব্দটি এসেছে লাতিন 'digitus' থেকে, যার অর্থ কী?",
+    "options": [
+      "আঙুল",
+      "সংখ্যা",
+      "গণনা",
+      "চিহ্ন"
+    ],
+    "secret": "d50c0eecb3c976104188e253ce9d133d00b705cdb02b686421590281759b968eb2bc23870e619a90fc2d232bc0124babf02fe29cb95df7f6ebc9598f90b8f9d6b17aacc3b21796e0248f76a4be3e31962d82f4d2762d713ed729ee63ea7c9e450c35d320c37ff169c0e70440879bbe2563206cd53d53cb75e8ab0514c30724dbf22438d6d948211c74c55c96b3a141c8ced8c4bbda976ee55865cbc40d047ab2eb94233a842d4fa18ac1e59b77145ce4e53dd3288c55ced9388e69930261070300ea927d07cf975a1f6e029cb8b7e6c1f78b86241d2e36a64a36129bdb7f8694cef64757fc56b81e14357ddeaa00cb0bf42a2134f37e0f65ebf277b48697691bccc37e80491a54810240f126fb050cbc1df4183a4b42ac12efb17642472d7f4a3d32c35c7d60c19fdc45fc5a9880217694c66d8296be204c05eedcec2e9d2fe5f458f86d19119da968ab0980ce02eaff4b9d2b162cddb2114169f7ca9a5d88876171adaf488aabc6cba6f9"
+  },
+  {
+    "id": "his-24",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "'Bit' শব্দটি প্রথম ব্যবহার করেন কে?",
+    "options": [
+      "জন টুকি",
+      "জর্জ বুল",
+      "অ্যালান টুরিং",
+      "চার্লস ব্যাবেজ"
+    ],
+    "secret": "750d38f56cf4ca2468a73948fb1ec9a72635b5a5b60835062721a68096f02a17f16a684be7c883e8a38603d9c895552f07879a3d614eada86c96d096e7f2b60ab3c48eda458d312dbb7156ca1a5f583de623e44138b446641d7842fe7cd8089daea78e358898b00181be9ad010aa9149add2323174fc0a35439c77b445234a34995bdc4ae4ff3c12dc50cae0e7a1425b9616006a82f747e0796261507f85a5ab8f979a2f88001785bd958e6fc5d1caa5a2a72f202302f31185308a5eb57ba8025f40e209f2bec3a1a4b2e6b49c0935444574d08a267b44f9178d1393e148b05ed51e167bdb18cd63247503b5193a988da9c357342726c8b1afaf2b9bf02a43b8a1d9a32287975dfc07fc522c99f3840ef5a30a17e247511bc4362f91e9d46dfd261916ad8878fce5d8d2f87ef9f80f283646c640ee836caa873295b42f305fd11f0c3b502f"
+  },
+  {
+    "id": "his-25",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "বুলিয়ান অ্যালজেবরার প্রবর্তক কে?",
+    "options": [
+      "জর্জ বুল",
+      "লাইবনিজ",
+      "নিউটন",
+      "ডি মরগান"
+    ],
+    "secret": "535475da69873b92ea21daa278b4ef355b6e0b4a56740728e3a0284ffbe72d336a4ada013e41f4baf384cb747391a1da61f62ce356b9ef61156f28bfacc58d4a750b6a66c56deff6eab69921f7260dea2b0cb5aacca4636218f103a3a86a1439edd84a42f9faf3f349eb2999c1dcb4d34b5532b4d5f7e521536f13648b0b50f2b96f8a3b581976780261b64eef8fbd124dbaeedf092f4fbf143a6a66b9cbfb82ea5201809bb61c175f5a1a1033a4207cf334178b149cf2b862ce84b36f8c32e682bd4b6dcc50b7d3bfa26837c45098740d43979ca984eb5e355ead73320e157d0e80fee9f01e3635181df98a90cdc5b49d9f74cb9e15923806bf31b1c68a02d59edbcac7ae7264d8445c34b33abf34cf4a497e6771ce0e0f738d80a46ea770737ad3c8851f4f034d7f812ef0ccca2e0448912b6d3e0f6ef7c3fd856cb6d10b6d76c7e130291b1d2b828763fdc89dd9e434799d2eaa2cbb4f9f0db90e40107d124f8665"
+  },
+  {
+    "id": "his-26",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি বাইনারি অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "secret": "102701c11402638a2b310eb4a592d884ac563a5776197f207c62b9e9a805ef2e9e05af24517ddbbd4bd56e06d3d5f74e56b096691be254cf42db6de262651a996356061f9f1e8e1ec6ad8183dcc4eecc27442120d16a5a16985c042722a0652f0a08a40207c402b51115a7ceaf15510d246c430245e837c668fc72769b833d7641a76ea4ce423b841a7c3bd07474023e265e4b7bfc3696b549db6ba496f898ccd451ae10e4cf077a0a26d51bb1728ce53d7a6c4830fe7e7a824bae67e2b7f5ff2e20ca44121625259021b51f1943beaf7fcc6d00d2a11d2b854630"
+  },
+  {
+    "id": "his-27",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি অক্টাল অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "২",
+      "৩",
+      "৪",
+      "৮"
+    ],
+    "secret": "99d3950659229c3b0828e0bc412cb078d6eecee55e24a53aca7bebdcb843afc879676c402d2500121e4eff8dedda829dc6a3c7e466c8ad75a09024e9ad29a6107a1432e427a5c9b4d58cfeb1eba8d3b2108da8319224e7302cfc63941e5d746b0b98dad1d8fdf9e218b6abe2c1c7ca349201decc2fb413c4c6636c159853dd2824a5ae935c8284427cb4275b5e68e95e14c732acd7ac5caacf812804e578aa44bcd11fc63950c552094008f4741892ef9aeb0c"
+  },
+  {
+    "id": "his-28",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "একটি হেক্সাডেসিমেল অঙ্ক প্রকাশ করতে কত বিট লাগে?",
+    "options": [
+      "৩",
+      "৪",
+      "৬",
+      "৮"
+    ],
+    "secret": "bb93bc54dd403b3b46a66f09b86353880aac226d90bb520f8d24b6ce89c603f3f18a47d0c5df454bfb865911eb2a026bc37084f6966f93eb454ece50d94e8eccbb3029ce19f6d5677dfebb31551578a4eb9391e9b8c50d0b38f566b383d4eb8c1bbd7fd6514fd33138f15554216ecb8915f5425ccd7e57d4a0542aca12b3df359b680caf7d8ce38dd2f2e652f031ec0568a87f02575946f94436bb7394a0968b6f9900f424cd83845754e374ae9cbdcd1fcd47a660fa6f51b2bac657029ce96f2baf4c954149de307584ee77d3"
+  },
+  {
+    "id": "his-29",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "৪ বিটের সমষ্টিকে কী বলা হয়?",
+    "options": [
+      "বাইট",
+      "নিবল",
+      "ওয়ার্ড",
+      "ডিজিট"
+    ],
+    "secret": "a037d6926e57a9d3da95ca2ff75f7c97c8608f2513ecffbceb8fb8b6c094942218a5a3f2e44be1c27aaf2821e57081651793d13c8f2335ed16e87c8147452a944b11b1ac6c3a0e78e015cfc6a9eb491d7742e981bb7b46501f555b17e7847cd5dcd608ce05e92916449e9b5d8420aa960207d1e00e345437eb59cf1bed7add8764e606a48fc822a7059798e4247f52741839ebcbd360ec76dbd7047adf0c10b62ac53c43bc508b56d1c4c46a54cf7c05d071db"
+  },
+  {
+    "id": "his-30",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "১ বাইট সমান কত বিট?",
+    "options": [
+      "৪",
+      "৮",
+      "১০",
+      "১৬"
+    ],
+    "secret": "caf680649840bcaa45e192845fd7b1fba17bcdda64d95ae60ca5374b2a539cc12bc1df3178151bc673e9f31e80ba396022b806e34a1fcf87d2a39c9a7ef6a8dd2973b3c2a17434dbc7f93b94d60bc5a58182c1ef362b0a1b5402eb4a7f4e5e06717e27c590fa0e0ff71c9725b6474804ca259837794221839f1a9aa02a7a15f09faeaeabe1628f1cc465725c04f74555cd55c084996e33d0099faf2ea2826bcdf9fb973db79ded053900286ae654683408ca02eb9061626ccd0d45c9ac82fa0e2dfc009a85caed"
+  },
+  {
+    "id": "his-31",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "MSB এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Most Significant Bit",
+      "Main Significant Bit",
+      "Most Standard Bit",
+      "Maximum Sign Bit"
+    ],
+    "secret": "543e8a234884e091059649218d21aaf57ef9754380e68f2dae76b3b2c3ddb72189e676a2fc84c7e43951cd9f04cbcf91b048b98c74bb7a6593e9c85df10b53c75ade0949c448816a1c4dc0e1f2aed5c699fcf4f076576ecacc2bf5afb367a02464a15aa6d8fd233b3ee734be3d7bdc4ef28a06d8354463a95f526cce9fa62dd2de024e14ddee953858f262d1e20a45fc61b22081438a68e965437abcf5b8bc4319fe3f1daee714dad5f2066790c51331887a0fd20b7b480f949065c08582801086b26ae143e2c6457af8471200b8802ac453ebd2cd2f4dd1acba9a08bda46615f6b14d594d0e4d48d82761be117b327f29717df8c1323f660f4d08c451d4c5d54fd079ab97b1684001d024134dcfd81681d4c8945f2ca8961c9e9cb0f30df274997ceea3fa4079"
+  },
+  {
+    "id": "his-32",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "LSB এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Least Significant Bit",
+      "Last Significant Bit",
+      "Low Standard Bit",
+      "Least Sign Bit"
+    ],
+    "secret": "33ad5ea4000b6e78c2276858f3542c2513099f1b8de7d1a17b30bc76ae19a5316c64b0c0cd9410ae8cd64277a10f56488d37cff0ae460a81cdf70c1401ecaf187a461517cd8e1723c4aa9e73a9989be4950d8d83538c158b606e8585c5be265722483942f99ac760f1761c5e96c60ba9a8167a23de10d15b7f1852d41e9d6c9dd71866572cfdd4472fbb548b82da80896e37e446146624e9effec1d98fceb2b5206dec505e52284e7097e016e97e1bf47ff8bee36a5ecc7dcb0fc3ba1cf43803dab3394511636f9b6c0d971086b0bda8bc5b3a68ebe6329ab1b5312228b6c7123926c7ed0f6a6dc040f63bc1c849c00110a86693cabde983671899"
+  },
+  {
+    "id": "his-33",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "চিহ্ন ও মান পদ্ধতিতে ৮ বিটের কত বিট সংখ্যার মান বোঝায়?",
+    "options": [
+      "৬",
+      "৭",
+      "৮",
+      "৯"
+    ],
+    "secret": "cab6d144713c29e08f1ba54e16cf8919b6bc40fe89f37013c679a1efbba5d225dc15ebcc2622abc4347467c3a7877ba3898838a4bcf249603c54198f287e19181c97986ddce3d378c1fe3ae4cd5834349a38331cea5af0ed0f8bbaa3b7d730563601f8d3922982c82e08c78af7f88f1309c33e459426734222a0201c952adf7992ef066aeb7f27940efda255238841739588579daca3f49bfa1d0b9b1be25831c4ceaf866f8979967f3fe92484364ee0d9e51b5c273e8757fa39360375ff81690f573c27c223306e622c8814d4928584a376d0fd71231c67ed91"
+  },
+  {
+    "id": "his-34",
+    "topic": "history",
+    "difficulty": "easy",
+    "text": "ডেসিমেল সংখ্যা পদ্ধতিতে মোট কতটি মৌলিক অঙ্ক আছে?",
+    "options": [
+      "৮",
+      "৯",
+      "১০",
+      "১৬"
+    ],
+    "secret": "f00c37d3d7ffc12eec20a072687936e9113b35e13541338d68268822965b4e12e2a7e00e47306bd7865abdc6903cfe2663a258dacd65d4f0c3c674bbce2eb0e9458878adf7730d12b8b585cbffad08b0dc9f957b62e3579ea93ce7d7cb835a87c7ce2230dbf09e01175ecb1a4e2f14009fbcac0646d6c6aa802b3f11b5ec80b4ba8fc50d5606cf7f22e3242fb609930dae75abba711127d0417f69c069c2ab92b266c012a45b2d95e56287923e505af0df407988abe96d97d7a9b195e8c08ff141eaeddd5a12b14595227bfd86cb79cb13cebf51d5d93233ba13493940e51b7b7c809abf0561ed2d256357c06dd040260bc2fa0b9733b9e062e4692dff9df39a745b7508ea69c77d385b9e858ce0ff1ec566bfc78f786cfb23c235a7cec1d94dcfff2e8748e57798161b46ea8e96609631cb046e3c61549e638f705233d3278ffee23ea9c2c5dcbba1a206ca441f82"
+  },
+  {
+    "id": "his-35",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "প্রতিটি অঙ্ক প্রকাশে বিট সংখ্যা সম্পর্কে সঠিক হলো—",
+    "statements": [
+      "অক্টালে ৩ বিট",
+      "হেক্সাডেসিমেলে ৪ বিট",
+      "বাইনারিতে ২ বিট"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "330c3835a25c0c065f2206c5c2f85ea4dfedacf633dc2383ccac79fc4dc7ef08f7bd4b0dc410c87df5ff55058d47558fb2a5ae0d4a2a3b27bea3ef242b4b4b8a91e01e00e0a54616b526fd3cf617cc3a542064a3fb23448245f0b609ede2792ada4efe94ea40f356104cb2f4311c676e2ba126a74922b8ce35fd8f4a075279e526e3a7c1cf935cb3602592bed6aa526cb0c0eb679222e5fc23828f6acd61b7a6c6b8df0d9490acd2735e40dff29d6f38e689fa9d42012a719ba495a3429856a83a9e35f787b353aad87042003121545fd7"
+  },
+  {
+    "id": "his-36",
+    "topic": "history",
+    "difficulty": "medium",
+    "text": "নিচের কোন কোডগুলো ৮ বিটের?",
+    "statements": [
+      "ASCII-8",
+      "EBCDIC",
+      "BCD"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "dedfd93e2d813370e17f2c3f27433863e597f776cd20849b7fad9d4001c0f823535fcb7a61ed0925c2d4978c3b9b08c5813de58d4fe7e28185db46702746ca0a2f61d25bc1e1a1c89814504ac985aee0d88036619a486b1c51f5f9f043138e29db44735f39900caa26b47ab3f9ebd59df27b6bf04f0495536806ed5752635914f9714427056ea85d9dd149581d62c9ce2637d3469dec9de8bf3d7e2a547948aae1193fc2569d4e8fe507610e52ec614bd0220536e735cb995d117697ec7a19cdaa9ff141a9e408f0d7d4182c96ddb1ef11b9d09fc4edb3effabb8648f7d5f9cf7251a8d9d8ead69d4d37ad4ed12f8eb6fbfbdff34de7dca28caab23fb8082d7434751b3bc2ea8b97848f6eb1bdb0201c717cdb293421d0c751"
+  }
+]

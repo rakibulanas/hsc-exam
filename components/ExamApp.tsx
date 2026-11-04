@@ -72,7 +72,7 @@ export default function ExamApp() {
     return (
       <StartScreen
         canSeeAll={hasFinishedExam()}
-        onStart={() => setSession(createExam())}
+        onStart={(minutes) => setSession(createExam(minutes))}
         onSeeAll={toggleAllQuestions}
       />
     );

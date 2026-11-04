@@ -53,6 +53,7 @@ export default function ExamScreen({ session, onChange, onSubmit }: Props) {
     <div className="exam">
       <TimerBar
         endsAt={session.endsAt}
+        totalSeconds={(session.endsAt - session.startedAt) / 1000}
         answered={answeredCount}
         total={questions.length}
         onTimeUp={onSubmit}

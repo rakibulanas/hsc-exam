@@ -1,7 +1,8 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { QUESTION_BANK } from "@/lib/build-exam";
 import { TOPICS, type TopicId } from "@/lib/exam-config";
 import { toBangla } from "@/lib/format";
+import { unlockQuestion } from "@/lib/unlock";
 import AnswerCard from "./AnswerCard";
 
 type Filter = "all" | TopicId;
@@ -15,7 +16,8 @@ function getTopicName(topicId: TopicId) {
 export default function AllQuestions({ onBack }: { onBack: () => void }) {
   const [filter, setFilter] = useState<Filter>("all");
 
-  const questions = QUESTION_BANK.filter(
+  const bank = useMemo(() => QUESTION_BANK.map(unlockQuestion), []);
+  const questions = bank.filter(
     (question) => filter === "all" || question.topic === filter,
   );
 

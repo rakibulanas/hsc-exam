@@ -1,7 +1,9 @@
+import { useMemo } from "react";
 import { EXAM, TOTAL_MARKS } from "@/lib/exam-config";
 import { formatDuration, toBangla } from "@/lib/format";
 import { getResult } from "@/lib/score";
 import type { ExamSession } from "@/lib/types";
+import { unlockQuestion } from "@/lib/unlock";
 import ReviewList from "./ReviewList";
 
 type Props = {
@@ -11,7 +13,9 @@ type Props = {
 };
 
 export default function ResultScreen({ session, onRestart, onSeeAll }: Props) {
-  const result = getResult(session);
+  // The answers are opened only now, after the exam is over.
+  const questions = useMemo(() => session.questions.map(unlockQuestion), [session.questions]);
+  const result = getResult(session, questions);
 
   const stats = [
     { value: toBangla(result.correct), label: "সঠিক" },
@@ -70,7 +74,7 @@ export default function ResultScreen({ session, onRestart, onSeeAll }: Props) {
         </ul>
       </section>
 
-      <ReviewList session={session} />
+      <ReviewList session={session} questions={questions} />
     </main>
   );
 }

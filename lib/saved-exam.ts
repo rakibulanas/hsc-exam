@@ -4,7 +4,7 @@ import type { ExamSession } from "./types";
 // does not lose the answers. Storage can be blocked (private mode),
 // so the exam must still work when these calls fail.
 
-const STORAGE_KEY = "hsc-number-exam-v1";
+const STORAGE_KEY = "hsc-number-exam-v2";
 
 // Set after the first finished exam. It opens the page with all the answers.
 const FINISHED_KEY = "hsc-number-exam-finished";

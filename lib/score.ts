@@ -23,8 +23,9 @@ export function getAnswerState(
   return chosen === question.answer ? "correct" : "wrong";
 }
 
-export function getResult(session: ExamSession) {
-  const states = session.questions.map((question) =>
+// questions: the exam questions with their answers opened (see unlock.ts).
+export function getResult(session: ExamSession, questions: Question[]) {
+  const states = questions.map((question) =>
     getAnswerState(question, session.answers),
   );
 
@@ -41,13 +42,13 @@ export function getResult(session: ExamSession) {
   const secondsUsed = Math.round((finishedAt - session.startedAt) / 1000);
 
   const topics: TopicScore[] = TOPICS.map((topic) => {
-    const questions = session.questions.filter((q) => q.topic === topic.id);
+    const topicQuestions = questions.filter((q) => q.topic === topic.id);
 
     return {
       id: topic.id,
       name: topic.name,
-      total: questions.length,
-      correct: questions.filter(
+      total: topicQuestions.length,
+      correct: topicQuestions.filter(
         (q) => getAnswerState(q, session.answers) === "correct",
       ).length,
     };
