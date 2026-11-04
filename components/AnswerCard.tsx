@@ -62,9 +62,12 @@ export default function AnswerCard({ question, number, label, labelState, chosen
         })}
       </ul>
 
-      <p className="explanation">
-        <MathText text={question.explanation} />
-      </p>
+      <div className="explanation">
+        <h4>ব্যাখ্যা</h4>
+        <p>
+          <MathText text={question.explanation} />
+        </p>
+      </div>
     </article>
   );
 }

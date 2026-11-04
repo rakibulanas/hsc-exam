@@ -810,8 +810,20 @@ sup {
   margin-top: 12px;
   padding-top: 10px;
   border-top: 1px solid var(--line);
-  color: var(--muted);
   font-size: 15px;
+}
+
+.explanation h4 {
+  margin: 0 0 2px;
+  color: var(--brand);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* Each step of an explanation sits on its own line. */
+.explanation p {
+  color: var(--muted);
+  white-space: pre-line;
 }
 
 /* ---------- Bigger screens ---------- */
