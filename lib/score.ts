@@ -1,4 +1,4 @@
-import { EXAM, GRADES, TOPICS, TOTAL_MARKS, type TopicId } from "./exam-config";
+import { EXAM, getChapter, GRADES, TOTAL_MARKS, type TopicId } from "./exam-config";
 import type { ExamSession, Question } from "./types";
 
 export type AnswerState = "correct" | "wrong" | "skipped";
@@ -41,7 +41,7 @@ export function getResult(session: ExamSession, questions: Question[]) {
   const finishedAt = session.submittedAt ?? session.endsAt;
   const secondsUsed = Math.round((finishedAt - session.startedAt) / 1000);
 
-  const topics: TopicScore[] = TOPICS.map((topic) => {
+  const topics: TopicScore[] = getChapter(session.chapterId).topics.map((topic) => {
     const topicQuestions = questions.filter((q) => q.topic === topic.id);
 
     return {

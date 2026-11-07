@@ -1,4 +1,4 @@
-import type { TopicId } from "./exam-config";
+import type { ChapterId, TopicId } from "./exam-config";
 
 // What a student sees during the exam. The answer and the explanation
 // are encrypted inside "secret" (see scripts/lock-questions.mjs).
@@ -32,6 +32,7 @@ export type Question = Omit<LockedQuestion, "secret" | "optionOrder"> & {
 // One sitting of the exam. This whole object is saved in the browser,
 // so a page refresh does not lose the exam. It holds no plain answers.
 export type ExamSession = {
+  chapterId: ChapterId;
   questions: LockedQuestion[];
   answers: Record<string, number>; // question id -> chosen option
   flagged: string[]; // ids marked "পরে দেখব"

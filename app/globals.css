@@ -347,7 +347,10 @@ sup {
   text-align: right;
 }
 
+/* pre-wrap keeps the lines and spaces of HTML code in a passage. */
 .passage {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   margin-bottom: 14px;
   padding: 12px 14px;
   background: var(--page);
@@ -890,6 +893,31 @@ sup {
   color: var(--brand-dark);
 }
 
+/* ---------- Chapter choice ---------- */
+
+.chapter-picker {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.chapter-picker button {
+  min-height: 46px;
+  padding: 6px 10px;
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.chapter-picker button[aria-pressed="true"] {
+  background: var(--brand-soft);
+  border-color: var(--brand);
+  color: var(--brand-dark);
+}
+
 /* ---------- Fonts ---------- */
 
 body {
@@ -903,6 +931,7 @@ h2,
 .score,
 .timer-clock,
 .minute-picker button,
+.chapter-picker button,
 .palette-grid button,
 .question-number,
 .option-letter,

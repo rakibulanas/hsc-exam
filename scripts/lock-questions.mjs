@@ -1,16 +1,21 @@
-// Turns data/questions.json (answers in plain text) into
+// Turns the question files in data/ (answers in plain text) into
 // lib/questions.locked.json (answer and explanation encrypted).
 // The app only ever loads the locked file.
 //
 // Runs by itself before "npm run dev" and "npm run build".
-// After editing data/questions.json, run: npm run lock
+// After editing a question file, run: npm run lock
 
 import { createHash } from "node:crypto";
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync, existsSync } from "node:fs";
 import { gcm } from "@noble/ciphers/aes.js";
 import { bytesToHex, hexToBytes, randomBytes, utf8ToBytes } from "@noble/ciphers/utils.js";
 
-const SOURCE = "data/questions.json";
+// Chapter 3 is one file. Chapter 4 has one file per topic.
+const CHAPTER_4_FOLDER = "data/ch4";
+const SOURCES = [
+  "data/questions.json",
+  ...readdirSync(CHAPTER_4_FOLDER).map((file) => `${CHAPTER_4_FOLDER}/${file}`),
+];
 const TARGET = "lib/questions.locked.json";
 const KEY_FILE = "lib/lock-key.json";
 
@@ -20,7 +25,7 @@ if (!existsSync(KEY_FILE)) {
 }
 
 const key = hexToBytes(JSON.parse(readFileSync(KEY_FILE, "utf8")).key);
-const questions = JSON.parse(readFileSync(SOURCE, "utf8"));
+const questions = SOURCES.flatMap((file) => JSON.parse(readFileSync(file, "utf8")));
 
 // The nonce comes from the question itself, so an unchanged question
 // gives the same locked text and git shows no change.

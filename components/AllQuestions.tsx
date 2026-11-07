@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
-import { QUESTION_BANK } from "@/lib/build-exam";
-import { TOPICS, type TopicId } from "@/lib/exam-config";
+import { getChapterBank } from "@/lib/build-exam";
+import { getChapter, TOPICS, type ChapterId, type TopicId } from "@/lib/exam-config";
 import { toBangla } from "@/lib/format";
 import { unlockQuestion } from "@/lib/unlock";
 import AnswerCard from "./AnswerCard";
@@ -11,12 +11,17 @@ function getTopicName(topicId: TopicId) {
   return TOPICS.find((topic) => topic.id === topicId)?.name ?? "";
 }
 
-// Every question of the bank with its answer, on one page.
-// It opens only after the first exam is finished.
-export default function AllQuestions({ onBack }: { onBack: () => void }) {
+type Props = {
+  chapterId: ChapterId;
+  onBack: () => void;
+};
+
+// Every question of one chapter with its answer, on one page.
+// It opens only after the first exam of that chapter is finished.
+export default function AllQuestions({ chapterId, onBack }: Props) {
   const [filter, setFilter] = useState<Filter>("all");
 
-  const bank = useMemo(() => QUESTION_BANK.map(unlockQuestion), []);
+  const bank = useMemo(() => getChapterBank(chapterId).map(unlockQuestion), [chapterId]);
   const questions = bank.filter(
     (question) => filter === "all" || question.topic === filter,
   );
@@ -41,7 +46,7 @@ export default function AllQuestions({ onBack }: { onBack: () => void }) {
           সব
         </button>
 
-        {TOPICS.map((topic) => (
+        {getChapter(chapterId).topics.map((topic) => (
           <button
             key={topic.id}
             data-active={filter === topic.id}

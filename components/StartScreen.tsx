@@ -1,11 +1,13 @@
 import { useState } from "react";
+import { getChapterBank } from "@/lib/build-exam";
 import {
+  CHAPTERS,
   EXAM,
+  getChapter,
   MINUTE_CHOICES,
-  QUESTION_BANK_SIZE,
-  TOPICS,
   TOTAL_MARKS,
   TOTAL_QUESTIONS,
+  type ChapterId,
 } from "@/lib/exam-config";
 import { toBangla } from "@/lib/format";
 
@@ -17,13 +19,17 @@ const RULES = [
 ];
 
 type Props = {
+  chapterId: ChapterId;
   canSeeAll: boolean;
+  onChooseChapter: (chapterId: ChapterId) => void;
   onStart: (minutes: number) => void;
   onSeeAll: () => void;
 };
 
-export default function StartScreen({ canSeeAll, onStart, onSeeAll }: Props) {
+export default function StartScreen(props: Props) {
+  const { chapterId, canSeeAll, onChooseChapter, onStart, onSeeAll } = props;
   const [minutes, setMinutes] = useState(EXAM.minutes);
+  const chapter = getChapter(chapterId);
 
   const facts = [
     { value: toBangla(TOTAL_QUESTIONS), label: "প্রশ্ন" },
@@ -33,10 +39,24 @@ export default function StartScreen({ canSeeAll, onStart, onSeeAll }: Props) {
 
   return (
     <main className="start">
-      <p className="eyebrow">{EXAM.subject}</p>
-      <h1>{EXAM.title}</h1>
+      <fieldset className="chapter-picker">
+        <legend className="sr-only">অধ্যায় বেছে নাও</legend>
+        {CHAPTERS.map((item) => (
+          <button
+            key={item.id}
+            type="button"
+            aria-pressed={item.id === chapterId}
+            onClick={() => onChooseChapter(item.id)}
+          >
+            {item.title}
+          </button>
+        ))}
+      </fieldset>
+
+      <p className="eyebrow">{chapter.subject}</p>
+      <h1>{chapter.title}</h1>
       <p className="start-lead">
-        {toBangla(QUESTION_BANK_SIZE)}টি প্রশ্নের ব্যাংক থেকে প্রতিবার নতুন সেট আসবে,
+        {toBangla(getChapterBank(chapterId).length)}টি প্রশ্নের ব্যাংক থেকে প্রতিবার নতুন সেট আসবে,
         বোর্ড পরীক্ষার ধরনে।
       </p>
 
@@ -82,7 +102,7 @@ export default function StartScreen({ canSeeAll, onStart, onSeeAll }: Props) {
       <section className="card">
         <h2>কোন অংশ থেকে কত প্রশ্ন</h2>
         <ul className="topic-list">
-          {TOPICS.map((topic) => (
+          {chapter.topics.map((topic) => (
             <li key={topic.id}>
               <div>
                 <strong>{topic.name}</strong>

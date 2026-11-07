@@ -1868,5 +1868,2675 @@
       "i, ii ও iii"
     ],
     "secret": "eb67d6137ddde6c150c29a22a8c14b1924843d05b5efb815e07b494e2e43ccbab719b2db86a22710f0ed11a2f8570cdb79b331e63066129a69039b92016fd44cb005ab6bf2fadae17f46dd209cc3f28d6aa9c0440e308ec9a4e61ce7773c569341528bddade0a82e6b905ff4fd410d946a0fa72a54ebf6f0aa29956d4c1b775333f84a16baf1e174126954e5b836d1caef937c46c9bdf38145f97119100f7ac917c0b47dd5daa9df5d023086856e3068a1dee815ab1ed00521e1deca7f980975adaf8cf034743fe7e9532cded241e193e88565f1ebfa3814274c59c77dc04f8c984196ab771b7cf18704e0be5b1ce12bc8ababb5c99413d785737d4f5fb0a0de5bcc61a217478636798c7da5ea772de961a1278e63c9ec199c"
+  },
+  {
+    "id": "adr-1",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "IPv4 ঠিকানা সম্পর্কে সঠিক—",
+    "statements": [
+      "প্রতিটি অকটেটের সর্বোচ্চ মান 256",
+      "এটি 32 বিটের",
+      "এতে 4টি অকটেট থাকে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "d81f816d5fa2683fec410adec84dc922587a598a174ec967fc3b72812b6baa8f501f57829d5ffb9b1637426c7450e97df0b4507991ae75ddfdaf8a2691658988e8b692d14733df3771827d80d8f1f7d4fedd49e60c525db977e67d1dc025c33b6d085b5cd0145457106a5313b7445527627e3be523cf5278bfe5b6c0c814926a2f76381333cdfa7a13975686bf05d0e596742fb7970a9e6d7f3eaa75e366462dc4b6babf9a35a9fd1ee42ae2fc328abe9a82861f5bea693825a638c2b6f9503f99b9cc67fa2381bd9a40aa239c7ede0641d1a7778ee44ff258c6624fa3521c39d838a586aada9631c18a08a79119735c981b50e83bf5dddabd31d4c39aed9e24da5a7faf4faaeb431e03ee237874b608b9"
+  },
+  {
+    "id": "adr-2",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "নিচের কোনটি বৈধ IPv4 ঠিকানা?",
+    "options": [
+      "192.168.0.254",
+      "192.168.256.1",
+      "192.168.1",
+      "300.10.20.30"
+    ],
+    "secret": "61922f0f42d0b5903cc79e8d09d2285d0abadd7643a0f353654f8353d63e9460422ada1c785982be6481150adf431c152f6271ab08c81870c954950c70ff892081915bd85156930df83ee49acd418a39df6052d6219eab555538f852c9b568ae0fe491f6b7e4f7c5a5780ae3a9251da2bec92b2034faca1ae4d9ef8aef0f22f66a40a14cb2e5796b7531f4763cbb90fa21da4d27100d99f561b67507dd3595430d1a3641151b4ff338b46cf58432779d81b8acf60e601a6f3f79ddf9732ce773a42081d7fff108d9a40cecb7fa2695ced1664d2a1a77fb2ad730b22bcd7288a9000fa5d45a3294d90c5cad69f2cf741ad1a14b49864b8632ab46e5c7a7246c638a60"
+  },
+  {
+    "id": "adr-3",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "IPv4 পদ্ধতিতে সর্বোচ্চ কতটি ভিন্ন ঠিকানা সম্ভব?",
+    "options": [
+      "2^8",
+      "2^16",
+      "2^32",
+      "2^128"
+    ],
+    "secret": "24b6df253d602e14a9ca362219df42feb11190c8a2adc0069ebaa2380879fde6da948aac9a4bc38f096739036a54c758d4293db19594c70762014780c70435003fecab6cc4a258511d9f1f69d78b863f724dee5c347c38cb2ed3c8c1074e96b9c041ac35a92a56700ddabc592b650b1c3a15cf214c9bc641d8380c6a2b6904ec51115292e43fe4a22f94750923335f368695b8d7c7f339eee9bee4a5f0e106a98251c312cfebab3fe744ff5f03c848789c77a9faac9c8e211b4f141ba910584ddd76502804bc89d14d4bb3fdd71b51acebb5dc4383622dca61175748b80c19b839e1cd88692cb442472092facbcd67fbb04af16fc1c0abf7eb7b8bc4"
+  },
+  {
+    "id": "adr-4",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "IPv6 ঠিকানা IPv4 ঠিকানার চেয়ে কত গুণ বেশি বিটের?",
+    "options": [
+      "2 গুণ",
+      "4 গুণ",
+      "8 গুণ",
+      "16 গুণ"
+    ],
+    "secret": "dc0dcfd9be235fb2c771cda7552a70d1a7a118fed82f753fee373407aa68361315ad79a3f07b7283945ff48182ce1cbacb0f738ccd34d913ef0548eb2674d11ca3ebf40674d1aff094605020888351adc70ba56c2266550553e2959a2715de99b5d100f9c2e0ad141ab6adace8916e72bffaabbe041cc5e23c7c9824a6515afc3c"
+  },
+  {
+    "id": "adr-5",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "192.168.0.1 ঠিকানার প্রথম অকটেটের বাইনারি রূপ কোনটি?",
+    "options": [
+      "10000000",
+      "11000000",
+      "11100000",
+      "10100000"
+    ],
+    "secret": "44504d642a6c6b1d878cd6e0e271a38259d5ceb21b22c66c7a9736854d86e60958471a8e65e71f3e02c25152720a75038baa29e9499c540ba17d0cd7ba7ae4fc0506efb1601cde2360428113c8e629a358832ee5f9a4fd0b0d4c7cdffd4bfa8f7aa4c30b2f04591730c0ba78f39b1ebca721aa2b09fe463b904bf987c7b6f4e6a32cfc02f93f252c8a1a6ec013159c33f0194ecde7dd0a458f4019962542be00bcde0cb1650cd41382f09a58"
+  },
+  {
+    "id": "adr-6",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "কোনো ডিভাইসের ফিজিক্যাল ঠিকানাকে কী বলে?",
+    "options": [
+      "IP অ্যাড্রেস",
+      "MAC অ্যাড্রেস",
+      "URL",
+      "গেটওয়ে অ্যাড্রেস"
+    ],
+    "secret": "41c5d827e6b1b2381318fdd2b39ce6c6e084edf8458bb6ad11c14be142eb42f0c1f0015e873a0b9fede13b2923769a98d45c142722edf0e2f99c98a53b68647f843a09be67a8063925fafdfa078f6d5047220f82abcc238ebd8c496253715941f12a14b52c73360987d7fd44e51c42f20259290984f136ed0119231eea6e85f9a32d3f883730b1bc83c0a37702c0bb04262b89bb5852ada7dcfecb15f550e275405cbdacaeff6c1dbfddec1dc96f15b393e8f556b04a154358097bd2c9169e4354f727584e28492e9a9b1c51d26d78135f864a0a9b4aacec0d636ee8adb991b244f0a7635431e99659202c11470fe3324ea7651a6b0450f1776d1f28dc51a1d8fcc00914c1821e363ebbe5beaa4ad675ca65bc592f2a04f803c855e510e14dedf1822ea7708ab0f2de05da9e437925c4d5fc84c2b878456b1ec9c20c4e430da220c35a96ec419facbed5f8aed7ddd46208db77b645e7"
+  },
+  {
+    "id": "adr-7",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "DNS-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Domain Name Server",
+      "Domain Number System",
+      "Domain Name System",
+      "Domain Number Server"
+    ],
+    "secret": "8dad266e76d103a63220362c367f732b600605f7e777a374a77115d9f06e00edc1843efd14f134962dfb4311807196450325d52ee374664e6c0cc61fa382f85b32fe259a928281ad8682e088e89b90657f7ef66f68a077a1aca235b610458b0a3bd93448a27dc9276e828ec4e78b3733413c0174ab39fecbaad00cef93b43ecdb9ca92d45def9be3e43c9685fedb28507b5c0acd66f78e9be5a49eb36f8a5b0797eb7b704aeb1568e586d07dc42565129084d1ae48a4525677e9617cee09237548ce4bb7"
+  },
+  {
+    "id": "adr-8",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "ব্রাউজারে www.kothay.com লেখার পর এটিকে সংখ্যার ঠিকানায় রূপান্তর করে কোনটি?",
+    "options": [
+      "HTTP",
+      "DNS",
+      "URL",
+      "HTML"
+    ],
+    "secret": "08f6018d465cdc53b6193f6c9b386751ca2cec5b99fb2da13f42f0bc179a3ee62b60352e479ac6052b74d9f1bae8f061b9eab9cb883db3170dca24218506100c0709f545c72ffba8bd487b2a8e79986eb364d8923ea13e53da5c02eb47417c2a3b285776a4d14403b5d24e1e0ec3392760710306879bb073c06e6fd622802a43a6ead598ac3ee0a2e2a8ab45039eba3088c58af95381dac770229a2480adcfddde94406197ffba80a1ef97b7e7dd23534a3243dffc38c0fa94c6500d61af8c8753bbe1fa0c8d06216f7fd71372494307c0865c15ed36c87c5d4cb099e9bc11"
+  },
+  {
+    "id": "adr-9",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "\"IP ঠিকানা হলো ডোমেইন নামের গাণিতিক রূপ\"— এই কথার তাৎপর্য হলো—",
+    "statements": [
+      "IP সংখ্যায় লেখা, তাই মনে রাখা কঠিন",
+      "একই ডোমেইন নাম দুটি ভিন্ন প্রতিষ্ঠান একসঙ্গে নিতে পারে",
+      "ডোমেইন নাম সেই সংখ্যার সহজ নাম"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "b0d5b59c79421de390bac7b0003f394a74c92046521f5abd8de8b5462518aae60429a1a4a3b1c3ceb300bee5a98388102077eb733a4895cd9a1fc3c3a0dcbfee6e294391c2f63cf990377841f943510d46516e45bbda9043fc26f0751dabf7cdf275557d8dc8a0b357e8a11f70a2461c2a96e320fddf0a81be400e889329563cfa077b2cf6b96f4711a1b5d0b4d916d01880ab272dff3a16ad83c124a16a1671c2090e411929bc2f5b9f9e1d1f070c127b3b0d1a0ccd555c626db9ac08fb10ac679a9c44b6cee322375f040fa6e64709b0e029726801aa3c6e0b0e65b00d1f83ec352bc81ebd0937e1d5db1079e863d265ee67f108c0a7a14fd31b19321d9c9da8c1adad363bf48f15e7db386a27d32c20fb552d29f163ced14667702094772365dabb91eee144f0775d9fe0bbf896b060eb76a105ee3e6d08b1"
+  },
+  {
+    "id": "adr-10",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "সারা বিশ্বের IP ঠিকানা ও ডোমেইন নাম ব্যবস্থাপনা করে কোন প্রতিষ্ঠান?",
+    "options": [
+      "W3C",
+      "CERN",
+      "ICANN",
+      "NCSA"
+    ],
+    "secret": "6a35d5588638f6771d9efcc5af99d27ae4a25faaa9470e0436b7730e31392348d9246c884eb45d1bce48cc2cd4c2ba0cdea8610f1392c0ca5c820e4b893cc62bdcf865f2750e6b9fdb748fb72dea0db376741d0b74b428cdd42022d19ea3e528390690e6c5d8beaa3ec713633cd034ffe064cf2f286059bb5bce28bc9f86bb6cecb3a9180164ae384f5e6c72e698da1b9acf751013ad723b900e70be5da816f60bbd0ee88e31ffa7a7e90fc9a585c3f9265a69296bb610676db55b8582758664f3ee48cbd69f46329b5ffad9b9f81137dc01081fbd75ea9f05902ca89cc17f2deee8f1c18cfaae2838e417827b88cf5d0dc7fe10585abbda62da64914e392b5c670014d081dea94eaeee6dee"
+  },
+  {
+    "id": "adr-11",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "URL-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Union Resource Locator",
+      "Uniform Resource Locator",
+      "Uniform Research Locator",
+      "Uniform Resolve Locator"
+    ],
+    "secret": "2493b739ae2d75e97a69ac664218222ce43072ab9f7161c7ea3c2bd76955ab771f2191e6b38b65c3d8633d00385adf92bc8732569db706a48285e7e3ee50a5698bc1a96036e229d304b46cc7ec8d56e60e5c5810814b10b8517a562c86720d3521342a0cd6b02f09efe958f9d2c044834dfe3f2d56f12228cb690946299199268d79722f3d9a82e629efcf7f0dc35a91a1fe8f275da4bc6970ee4e3b462606790bec398173"
+  },
+  {
+    "id": "adr-12",
+    "topic": "address",
+    "difficulty": "easy",
+    "text": "ওয়েবসাইটের একক ঠিকানা কোনটি?",
+    "options": [
+      "HTTP",
+      "HTML",
+      "URL",
+      "ISP"
+    ],
+    "secret": "eb1b5a59d45d034a2938e5f0a65d87d257623bac0c5d2f6b9ad695e1751c42391aa748ba182d933e68bc29a6cc9fe4c42f75d845d86c06d8aa18c961ab4a445e27fecc0bcb5280a7f9704de1573b946a45d7d0066c1f4a1e66f9ccec73ff73ea97ae43a0aab624f160280b97f96b53748a37d9f99305c4258089a9ef1b9e93c1795598cabacb6dd8ff91ad7d65a25e421545c925f669132309e819ccf3d6f19f88f78e3e1706762d5fd59b3fea3395a0cac71ed454641defa3b51c1c714b8238a71ad9e52dac40d7fa558d6fd99a510e2a68737ff74b6f5a7d889d9de431e710362de445f897bb2d83dc20d1e28ce1154d4fb02b7d2d4ef362364de0642307168fcb508144e13a99c0df308e77e5be2dc0c9a9f9f347ad49c0"
+  },
+  {
+    "id": "adr-13",
+    "topic": "address",
+    "difficulty": "hard",
+    "setId": "ch4-adr-a",
+    "passage": "https://www.gyanghar.edu.bd/admission/form.html",
+    "text": "উদ্দীপকের ঠিকানায় কান্ট্রি কোড ডোমেইন কোনটি?",
+    "options": [
+      "edu",
+      "bd",
+      "www",
+      "gyanghar"
+    ],
+    "secret": "5fdcf2fd4a64b3349d26933748f06bc7a9c024c1601e2f228a09e72992582e50f56a9117186befebbc5def9cd0cd0e541adcd0f8610a60330214c31ea390b02bccfe23fd5b3a86d55fe49c715f9afd73d68650993c4b95a3c5819a48eb1df315dbef81675e4860dbc74b0540b6af0c7e8b541435fc5bfa05b7f30b31cceb36084f7009cc435dcf06ea6cafb0ffe1552c45ef1fe7acc03c645a7f5eaf196fc7de41cff6aeced1f0be7fbcd3fb9aa2ee5dca00b73794278eb9953e4ab4e5e33b241f7bc6c337f67019e570bc15e0fa76b770fdcae33749c1e15322e256bdad2684b43c7eed85ae7bf39f78b7eecacf6a955b5bb77619ecbdeaccb869ba465f6d626476b8"
+  },
+  {
+    "id": "adr-14",
+    "topic": "address",
+    "difficulty": "hard",
+    "setId": "ch4-adr-a",
+    "passage": "https://www.gyanghar.edu.bd/admission/form.html",
+    "text": "উদ্দীপকে /admission অংশটি কী নির্দেশ করে?",
+    "options": [
+      "প্রটোকল",
+      "ডোমেইন নেম",
+      "ডিরেক্টরি পাথ",
+      "ফাইলের নাম"
+    ],
+    "secret": "83c3acee2dda693bb5132987558fd8cddf0dc658b69b69e38b776d421566bafc2879e1d0d399e3246c1a07188286dc70651d747510bec762a2f8802d642ac1afde47b6cc888fd7fa4810a66c3613047af3e9983309378d822cdf78d08a0be20ec1d97da15d9f49bf7ee2444ab487bb99a09864d055928d2dc6e26ee2c578b2c016301a344d9edf382fdfe2012bc34e76126929e1b3914a621902414c1303e4b3671d59d15c2483dda648b92d1dc8468bc5c50652a9f3b8930dbc4313635eb9c06c791d7804eb94d60e992523c11aa7a3c706a48bb7ee5f0d5090971817b46da377fac3285759901ec8d9bbe566a34efbefc4f6b8243d34ccf02c95cae01ac155149b18e4db9b"
+  },
+  {
+    "id": "adr-15",
+    "topic": "address",
+    "difficulty": "hard",
+    "passage": "http://www.shikkhaloy.com/home/index.html",
+    "text": "উদ্দীপকের ঠিকানা সম্পর্কে সঠিক—",
+    "statements": [
+      "/home হলো ফাইলের নাম",
+      "http হলো প্রটোকল",
+      ".com হলো টপ লেভেল ডোমেইন"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "3ff6de9c0e491462addb0b6ea5b3d8cbf8481cc95d34e6d94b7e851f65c5344cc0e4ff032aa403ed884abd1aed2d53a96b595fc6458865717e7e5c4ec3f4192dfa559fe9294b74d22a50ab58ae1346d7dfbe45a50aad4f5944fde8546c29fe509d6d0dfeca21f859e7ae8abc3ebcaa744f80c9ad0072a828526d3a654506f3c37ccd9c527aa8ccc6288efa2cdeda2bf4bd59c0c1785cb685dfca31f77904eec0f8bd2b6cca964309750adf4658bea39969a0073c1a6967d90101d1885e370f81c033cb2ea3ef2f78cfad1590de86aeb8596b354845814b97bd88f2d96c074963cde260311b3fcf04dabcf9bbf539276763d1ee6f8c71ecd55508da4aa99c58"
+  },
+  {
+    "id": "adr-16",
+    "topic": "address",
+    "difficulty": "hard",
+    "passage": "http://www.bdtender.org/list/today",
+    "text": "উদ্দীপকে টপ লেভেল ডোমেইন কোনটি?",
+    "options": [
+      "www.bdtender.org",
+      "www",
+      "bdtender",
+      "org"
+    ],
+    "secret": "eccc2e7bd083fa22d968265a6b78af6c343791e7c8f098967b3696cbdfe86de217c55d23b3fd583c904c43c628886db48506b641b8f7b493f135d450f02882ef819ca892cfe739af84bfea215b68445d0ec5cd562bbde6b155807b6aae13ed34ac56dc15dc071f7a56af7bb98cdbe01eeb1dfa7754381ada1b397c21168527a8d820c01e2d092d811aafa89f769e4d54658bb86534198311a43d9e91be7e2e8cc44730b6ebac4a1515aa1c6d02978b956472745deb12ac815234ddfb5355113786bbac6fd4e2a9c806f580781b0d4f661ed33dbb519982930d4d967e3d9c2d2d33919d191186d7e7896a6af16204208456c53e3d3c5647abdf182a41ca7fc17b98235a75aadfa53e2e4e259415"
+  },
+  {
+    "id": "adr-17",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "ডোমেইন ও প্রতিষ্ঠানের ধরনের কোন জোড়াটি সঠিক?",
+    "options": [
+      ".mil — চিকিৎসা প্রতিষ্ঠান",
+      ".org — বাণিজ্যিক প্রতিষ্ঠান",
+      ".int — আন্তর্জাতিক সংস্থা",
+      ".net — শিক্ষা প্রতিষ্ঠান"
+    ],
+    "secret": "425b427ed17b2d2c74ee97044d6e84fe40d30bf4ff5c1151c37814288bbb1c1899e45152925c5c102c7e46f37d087f62e779a313a5299ab1def2e816ada26a6bf5e2092d778bbc931349bffa53b344bb0dc40d7e436559701db6e9ced94c90c6a5a6165b64d8cbd06e054b92d5bb6713f9f81203694b933504a5806b5815fac33d83f9990a43c540acdfc5efca43e88181d02abd6339dfd5b3ade66b560b7cd712622747b43230d65dedd6813e971bd1739d57b8cb8b06af3dc68045ae55129c984188215a0f0cade2dcb3d983f898855c8cab1eeddb5c72ccb8bbf5bf5feb07c62738e2a4385501e5839cfa485820965570aaa487a20f11ec15f3f1be9163b991f3ae19b07e80b47f9f1c196ea4f00dd829"
+  },
+  {
+    "id": "adr-18",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "ওয়েব ঠিকানার .ac ডোমেইন কোন ধরনের প্রতিষ্ঠান নির্দেশ করে?",
+    "options": [
+      "অ্যাকাউন্টিং প্রতিষ্ঠান",
+      "এয়ারক্রাফট প্রতিষ্ঠান",
+      "আর্মি কোর",
+      "শিক্ষা প্রতিষ্ঠান"
+    ],
+    "secret": "8dc878167a268fcd90b79b49dd61c3dd28429433f9dcd988b9375acd2ee834f4c703616db87690b34eb77371dadce5e4aa1d3599146ff01023bf11de844fd54287949bc64a0e39164e3cb86bbe1186356d6be56107f82741173b5643a2c747be6b0fe945ae378d9b9523bb3b197ef9476dcbdc2487975838241c301089632b48d177f9d697cb4bf65a426908169d7bda0c4a50642e21391b9f6e95e9e437904d082bbbd24f7d02594f41fd4185b860d699830ee7ec0663533eeaa9994a6cbde43ea243f79c1ed612aee72b509d19a4fc4f52e3f8f94fe5c329d6de13cf494449b5b13d24eb8e96842c0a48ef94531cb710e48631fa698a2817626231f92207bf954e781e04259cfa2901536175b55a6478142154a292ac0a581953502d72b8829026a9cd48ea7f9b9dac80aebe9f167b6567dc4aa3b1f0d66a2d4b3c71c3793d4ce8eb4628c5fd8e9de9"
+  },
+  {
+    "id": "adr-19",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "ডোমেইন সম্পর্কে সঠিক—",
+    "statements": [
+      ".com বাণিজ্যিক প্রতিষ্ঠান বোঝায়",
+      ".bd শিক্ষা প্রতিষ্ঠান বোঝায়",
+      ".gov সরকারি প্রতিষ্ঠান বোঝায়"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "0a66b404e25cede9d027cac09050f4e78cefac029c68e1449c0620b5fdd62116431b996ac38a606a05591942db3f59a1d4d3f27b4f62958b5dd6871bdd377b1d0fa3886412c4f6788f74d61577bdff66b2cb9d95c310fedc5a341b93cf2e5db43a96c95aac6d6088d442b9bbb6d6b6649a21bb51f1d99d41094031f481d096427ac7f76c89c4589fb87db4106ac488e165cd223beaa11695ef2162994c5b555595b2876bcbde5f77b54d25ed2bf9450ef8665767def51c75686064471cce3cdd03a9dbb1bd99488995575beaeccd58bf498e59d39a6ffa225079bc9d5d915a00684372d40d386705cf263433627e617052d538395514d8d76a47eead8893a6a514fc726399"
+  },
+  {
+    "id": "adr-20",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "ই-মেইল পাঠানোর জন্য কোন প্রটোকল ব্যবহৃত হয়?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTP",
+      "HTML"
+    ],
+    "secret": "597fcaafa4ae82d7acacaa22701a9aec8a9778a77c4ca8975acfc39d149b0559d8a313278c7fb87108112358ce11d8f7036e22a6e7b4463a35026487682fbbf151e0df1f10475ff2c84f11b6ac1688b5a5d8242c3a29dce28d2a45c4b53cc1a169b21d7585cd85db397b0f1065b69dc834111b503cb5bd2afebcf93ff470c3f4497d9d2c4514b8be3b1bc35fd95321cfa5a9531d6b520fb1a7ec931a0db2974504da4b77bad3173f270780522d33de923c83c50a2df43afd5d0f2ef07ac64323d22bee7c6b3a22b2d374aac52709a61c7b82601293d46d7f84201cfe827fe650ec597488c1ba127c76b74af23baf43f1f11d182763879020437e66fb65ed38a4a4a59a6d47181e660db415edce6258910ff3f77cfb4b84771b97370002a37a572e39fc51fea90cac309f79a976"
+  },
+  {
+    "id": "adr-21",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "ইন্টারনেটে ফাইল আদান-প্রদানের প্রটোকল কোনটি?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "URL",
+      "DNS"
+    ],
+    "secret": "412440076a9d7f01297abc97b0069c7751a65813d51c9fb9ea022bedfe28315018b3697ccd6243867985c374797b35f013cfd5812a347fd11e8211f5082d0f57d5a3208c5f107679705d996c7c158c1449bc37db01c30a23ab14f07ebe3fc530dc8449abfca4969ec9da35d9abb6cfa9d5083322b597eca2b0478df3da866e5f326d509f2c684e5a742eb8b77da6453f368e77a12ce965ec49c8fc0793708ae1314719a48d0116af058f87f12ec20e0267b555d3d3d7f471a881a53415cc25ffed61825897439697cc4b6f0e524c424ea7a5649cd76455a34d37e1"
+  },
+  {
+    "id": "adr-22",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "HTTPS-এর S দ্বারা কী বোঝায়?",
+    "options": [
+      "Server",
+      "Service",
+      "Secure",
+      "System"
+    ],
+    "secret": "162ce3368bbd40ab296bc9e8381b89b468260f9434c87e19fe5465493b707049145ab5ad4c8258c14b99beae98040c174c275a2a2aadfface469196c965eeb4bd36c105e9e743795d3417dc8a36839f77b9736ef79d961bed53baf2d602b8f67962c09505dfda14f3e0d1afe9d6738ab7492ee884846a06ec36e110de84a0e630b31af9ce416501009403db0ee3e629781cbcf2c91ee3831607307228bae1a185775ba5611a2570ad64106667a9753575080a972b80a2827ddb598dc94caebf55c4322e9d7af3acf4aabccde01550b01fd243f30e5a2836772d4d66919b06819eb993a36bde461636e31583d2cb96f3e62b721220c"
+  },
+  {
+    "id": "adr-23",
+    "topic": "address",
+    "difficulty": "medium",
+    "text": "HTTP-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "Hyper Text Transport Protocol",
+      "Hyper Text Transmission Protocol",
+      "Higher Text Transfer Protocol"
+    ],
+    "secret": "df2bc13580be776f4fbdaee27405090759e17353f9eee8c7cff609c2223468c3bb87e82e39d6b68608cd587ee5a897e3066afc9b5ff0ea32720b124d21c47fbec55be88ad1dc52619e13d63d488fbfb96a9af20df79160962e373a0ed1efce6dd3cc2edcfffd08680a6b069312656fa4d4d4b854e761fceb353648bebce41b974353590f1382edcf1aad4846986ac25c0ffcf4bd6ed7122741c8c89f74097e526c08c694c6c6a13b123e22a96b53a4b94ff43cfe5e2b69425395b2b7141b09b9a21411d939020faf15b7c199"
+  },
+  {
+    "id": "adr-24",
+    "topic": "address",
+    "difficulty": "hard",
+    "text": "নিচের কোনটি প্রটোকল নয়?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTML"
+    ],
+    "secret": "13fd1d6fd8713ec2c823a4fe1d41fcc3795ae30bbc2e41ef7fc5940b41e4a197b7c2b928a759aefe1dd0fafa98514cec9355a6d28c9185321c673dc2a22915a2bb076e5e731e083aa1466f7920506195d117cbda5947b33c21ba80b59ca2ce6eb73ba5056bd041cd488fd811c9b5e75ee3a3decdb5d8302a144a0f58d6a75478b0184aa11239bcad759cb7cd5fd1160c39e601d0a8c752c915a8a205de9eeebde322cf3dd09c4ca2f955bca1f2daa9624be89e65be090be9b5cacf1661993265c03292a65d50f936db66546b48105d355e086db2ee0352429553d43ca41c"
+  },
+  {
+    "id": "fmt-1",
+    "topic": "format",
+    "difficulty": "easy",
+    "text": "সবচেয়ে বড় হেডিং ট্যাগ কোনটি?",
+    "options": [
+      "<h1>",
+      "<h2>",
+      "<h3>",
+      "<h6>"
+    ],
+    "secret": "d4b13bbd23815003f11de213bcdb8cf4ff92e4cb1dd6e86e31f4f7376219ada1356e01cae50e71a849ec84f55d5ae1cb310d6fec0c23fb1c93be69b179444a7ee7f82b0f93aa6a0bd2b51b0ec9b5407959e0dc2404b7478fe0c80804d58a3854da01cf6862cd7710b17d7606801072e5021c9ddb06209e215bb9bcef97011668b8d1ee610a8d677c7ec8ce24102f95f06df880445f7cf024ae9940f9fec49ce4f4d76349bce17010f180af5f704468a1ee4d7beacb9ce1e18004897629040d27849df8b696650415539c2cf116229fea859810ce24d297b260f4"
+  },
+  {
+    "id": "fmt-2",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "নিচের কোনটি বৈধ হেডিং ট্যাগ নয়?",
+    "options": [
+      "<h1>",
+      "<h4>",
+      "<h6>",
+      "<h7>"
+    ],
+    "secret": "9dcf15f2e8e2e8a6ac7cd07400fb52548586df83d8ccf594ef3a978c8f78ca91a542a3f4f2d8582a9de87e32a9417402562949b37acbdf515170ed001721949b4df0fe50ac5fbcfa6ffe4f0cd968e7c4651f4addd56afca80d599cb2433c6ad8d0bd6eadd2bc0567491b3ffe76a362c928cce2b6dc3df46b83a3e48949623c8b0faf819ae0b4f1b9df432945020889479b5bbefa9e08a9f93ce72719c24db3368ae82ec90c5e01797bbb813a"
+  },
+  {
+    "id": "fmt-3",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p> a<sup>2</sup> + b<sub>2</sub> </p>",
+    "text": "উদ্দীপকের কোডের আউটপুট কোনটি?",
+    "options": [
+      "a² + b²",
+      "a₂ + b₂",
+      "a² + b₂",
+      "a₂ + b²"
+    ],
+    "secret": "adaa78bfd74ee142bc4664094c59f760505eea5542620ad5a2561ad21db51980a503a8763a637745b9b1446d62c4a005ac43078b20e7e23b23f2e477c29190d13218059dc5d77dc4220a8ca728b22e84d0193de6d8e0b944946516e9ee42e21732e4edd2a15e0f116f230b1ae1dc69bb98d755908889133b9927c9c64fc31e753851229d75ab33c23f1c58341e2b2664cb9b7cd4dd6f2b719fb38ce95fb68caddbb7dc1a7f95174a01205650868f77ca67c1559893ef042d423c697695a5ec48babf89a8a2e03e6467b1feb0ec14b59f271b877dcca4e36c3b601b55c12c92f08ee72e"
+  },
+  {
+    "id": "fmt-4",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "H₂SO₄ লিখতে কোন কোডটি সঠিক?",
+    "options": [
+      "H<sup>2</sup>SO<sup>4</sup>",
+      "H<sub>2</sub>SO<sub>4</sub>",
+      "H<sub>2</sub>SO<sup>4</sup>",
+      "<sub>H2SO4</sub>"
+    ],
+    "secret": "153731ce09a2ff93a241e6568bc7dc83aa698d4d117a00da436636610ecf77c2523e2e63b0f1aac354efe9418599af4e08e9ba1959f216a6d1978d8aa794712b0c01f17c7a9ef2435d184bc40341145dc806858ffc89ce123eba8a96c6881e1a46a630c0d8deae67c7f4ec441b3afdaf9319de0d07b275f2c1db3966321c172f953fe93bdae5d16d7ac75223c88edce4a02f595fe51d7c33ae3c83fc5fc7fb1155439cdeb702a3b4a9fdf2f06441587f0665fbdadc5b4c9a062ea7e117c91fb1b0b5a8e0b43ae4c4bee7c907240474e9c957b10fc4fb4c01f07f2e9cc6ed6d07bf5c6bed1989a2a9443703a67db5063e71a95e150fda37ae8e470217d62020e13bbe0d869ab9591380e9f3ccdc7d915a296fac1e26a34a"
+  },
+  {
+    "id": "fmt-5",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p> CH<sub>3</sub>OH </p>",
+    "text": "উদ্দীপকের কোডের ফলাফল কোনটি?",
+    "options": [
+      "CH3OH",
+      "CH₃OH",
+      "CH³OH",
+      "CH₃O"
+    ],
+    "secret": "be584cb69f26a819546f4c0cf2aa8cf300d14e9635e158f47b32cda91fcb394bee0c1b52c42ac52df2e1dda3a6a8ea4dee60f3f864a38bd621cbc1c61085817478338db7db0ad257017a10124b589440940c765efa314b25ff54b86e32f449562de0aa2fba20838a2c1f2d243da9fc370675059e1ee77b799176aa64eef532e2b9805b0efdd6f926aa53292bbe8152e34ba275f595a03a8ca2ecee7a49a03eedeb0cf7de5b9dcc78e71febf88c6cd0b94bb897c5a5a3be99866a8ddb2d17e6cdcde9e97806e31d684c027ea7b0101ae1ad2c81e9bd08d8d266b1792b22bb0b83009d86a97ce072f297d8d44ae1083e04b1367fb54ac4a838d7f1d71103829ad09345c5f4ccf8"
+  },
+  {
+    "id": "fmt-6",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "(a+b)² লিখতে কোন কোডটি সঠিক?",
+    "options": [
+      "(a+b)<sub>2</sub>",
+      "(a+b)<sup>2</sup>",
+      "<sup>(a+b)2</sup>",
+      "(a+b)<hr>2"
+    ],
+    "secret": "8ff114df158023e32920905bc75f9e9a53a17c9cbd8204ea54fd97f32971acb52c27c0d406f049a375e642d3a5f755b9eca83a95e7ee64816581b2b2bb59959a71750b82e56c6cfbc4dccaa1ba9ffab59993bf16616c4a54e0727d7ae0693afbb0ebccd8065cf5d72790f8d4deda11d35ab8d9f9ecbce63f9eab4f52591a85400d9c7d2f0a712b0b705b31d1567057de6fb716a0f32d415a8387af2e583cd06dce7d6fad61a5e16e5036d5b5f46c1659179fa4d1a19c4af487b547852272a2b4696c1c4c8911ab1f42d1bd8f92b8a9b17b8e7027b1d1dd3791cf519c484e07"
+  },
+  {
+    "id": "fmt-7",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p><u><del> HSC Exam </del></u></p>",
+    "text": "উদ্দীপকের কোডের আউটপুটে লেখাটিতে কী দেখা যাবে?",
+    "options": [
+      "শুধু নিচে দাগ",
+      "শুধু মাঝ বরাবর দাগ",
+      "নিচে দাগ এবং মাঝ বরাবর দাগ, দুটোই",
+      "কোনো দাগ নেই"
+    ],
+    "secret": "60ef76f483aa0fe9484fc7a004dcb226a26a8db9236374eb5ef269e467aa641d75c85d0cd0a2fd1f3b7a4d970df807eaa8a0a317524f67cd8fbd895a5cfc9c5a8ae403ba0a6f04e4baa3c964297092210a7c3c850434ea2d3e4c37583bd408143bf3aec972037710caf3fcaa36b8c508cdcc571a8aa1e98fef9eafd60b646e70e930df4c08d5fb21e51a3cb69388205a2816c54fd5c99b7b3109534f7e74045126e56aa0a188044cf8e6912893ccb760e55ca712b852e2eb7705b863b179e9326372efbdde63f0d46c32806ce7cd9c7fb191b249456901f5a35019ab01592f80057ec0ef892383725d5ed445b3939a3c011ee4921311660b06f4f447ea37688ad6f64a12dced6b7d865091282a43c813a52bbef1368f3827a22b71b0ab4c2097d30764e51f29f1da28da2e187cc603ca5a001b02"
+  },
+  {
+    "id": "fmt-8",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<b><i><u> ICT </u></i></b>",
+    "text": "উদ্দীপকের লেখাটি কেমন দেখাবে?",
+    "options": [
+      "শুধু মোটা",
+      "মোটা ও বাঁকা",
+      "মোটা, বাঁকা ও নিচে দাগযুক্ত",
+      "শুধু নিচে দাগযুক্ত"
+    ],
+    "secret": "8e62bdefc371427a6481c93af92ef9b4f1f2943038677b003044e2560f1db43aa08aca40ff13690a70e6d7f99cc8e19128fc195e718b7e938320a0c1261aecf3f21b16918204ca595e6bfd347e0a732bb8822cbc567a5dd49e5138565a46d102749a91bbb791825e48644cec9fc266bd5a0534f80dd95b1c014a45fc63f70a48c79cc1e011ea7aa559449faa050257e10b76f365d7bd7b25bb44a81869d34f5be8f7c0a1d629797e7c8ff8220160851c742cfb2e109eedcf0df8e445ccb4e7495cb59013bebecdfda8e970cc9392f84d50afa950123862bc05689e3768d66b52d473d0ac2826fbd4e2a048d68a8e"
+  },
+  {
+    "id": "fmt-9",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "লেখা ইটালিক করার ট্যাগ হলো—",
+    "statements": [
+      "<i>",
+      "<em>",
+      "<italic>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "58e786864e039ffdeb7d237ad9906a3c57692572c8a0d2384583f7c6f710f4f4903b9235a1a1c06c9e936517f27da96b93d3cb538ac264c47462a77e1dd527ddbed4a16299962c3e2b095c2b07c6f10b66ec1e27b5d5980d42c05ace9c2f14485c3e3e3e804624a2614083647019b0a262647bfea023676f805e8fb0b9324b11b85edda2c88de53cf9aca4ef5af4370e642e46159ca49648e18fbdda97dd2a1e62c002e290793858721b51414151422cb49c83c541874238cb1aa30ebe1e3008"
+  },
+  {
+    "id": "fmt-10",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "লেখার মাঝ বরাবর দাগ দিতে ব্যবহার করা যায়—",
+    "statements": [
+      "<del>",
+      "<s>",
+      "<strike>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "f3525bf4d3906a25f2052a9f9ce882baa6c6caf335efe4d0b704a8a541307ea9a57d9704222ac01d84a464abedc795d492126f37f0ba8b2f15d5bd1517efae44d45d236c4546a2e8408471f48ebd519d7d02a69684e34da7b9054732694ff1b58967ce174105737aba12bc30a504bc7d28bac4879d0ee668b8daa644267751563aee0ac502afae692776f1a3360eed24210f50144f1d2bf24d43b6a9de973d"
+  },
+  {
+    "id": "fmt-11",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "লেখার নিচে দাগ দিতে ব্যবহার করা যায়—",
+    "statements": [
+      "<mark>",
+      "<u>",
+      "<ins>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "f76d7dfee2853bf744084b05026efae43ca40e84c0179383bc63109bd8fb53de3a6b290f4f5e1d950be22fa6f6390c2842b5a923f279894387bb82ec2c5ead716eb8574bf1f803303bc74b3956df68744200ff49c1c4725a200bdac5ce6e88b929feb3e99f5c20fe48d1d1a790a989127e45f87e6516a8ec262c6053b2d519da588a203665e163125d9e83971a9e561902c5f374ed2f8b2df13b122abb2078c8ec65dd8187bee5a85c54a254576ec2f25745ebd3e3676636e27dba2894b7293ef25e8bb8e373839027b540d51f2ad8ccbdbdf99f80ba91444c04"
+  },
+  {
+    "id": "fmt-12",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "লেখাকে হলুদ রঙে হাইলাইট করার ট্যাগ কোনটি?",
+    "options": [
+      "<mark>",
+      "<small>",
+      "<big>",
+      "<strong>"
+    ],
+    "secret": "0e24bb2f97e3df3e6f660454ef666b81a0c484026e1b3c8ee62dbc4bd1dc40e505ba88b3ab845fab16ac5e16a9e17b6877afedc0685d467a88093cca7306512316eae22aae349f692c9920dff6f1750633ade3942b5bb8736b630cd659c5704d04224bbf5ccec401deca414dc686171dbb9ee38bc37854a357eee591ccdd85136acca09ae88edf80d73f02bab1618d73eac8fe7e1275c2927a4b3ee70d73d82b5fe1bb072ba74bac7f305a2327ef335899c9385625b680d1ebc323959d4c7a04d8b18a0aadce"
+  },
+  {
+    "id": "fmt-13",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p> Dhaka <br> Khulna </p>\n<hr>",
+    "text": "উদ্দীপকের আউটপুট সম্পর্কে সঠিক—",
+    "statements": [
+      "Dhaka ও Khulna আলাদা লাইনে আসবে",
+      "Khulna লেখাটি মোটা হবে",
+      "নিচে একটি আনুভূমিক দাগ আসবে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "3de40526fcb390838904cc12839dda5687df35fb5f4185fe4ef6887131aede6f3393223673dd5f0c827219738e6cbe8efaa2bf4cbd2b24f9680dede5c4557bd869a74baadb34a1b2865d038988cec731138ca1846815461835d3b88a7c3a6395cdd3efd3814f0bcd96e981ddb7df0bb256f510401c7fa73ceab1a4ff425a0736c8ee9d5ad76a83512c588119fc214077d5ff3a3c9476968c487a635bcf4597bf481e254e928e9c46ee7fe8fb29f809b41c4484059e7839580b1c0db7f0c36dd19a2fda9d6aa8dbbefceb969feb06cdb18a259bfb1a056b3e13548a6883cb7c31f4e3ff51ed41a0d6ee9a5ffdc7b976b009c52a7680114fbabd9cbc621bbd5d194a3f7c8ab606450af8997e431e"
+  },
+  {
+    "id": "fmt-14",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p> ICT       Book </p>",
+    "text": "কোডে দুই শব্দের মাঝে অনেকগুলো স্পেস আছে। ব্রাউজারে কেমন দেখাবে?",
+    "options": [
+      "সবগুলো স্পেস দেখাবে",
+      "দুই শব্দ একসঙ্গে লেগে যাবে",
+      "একটিমাত্র স্পেস দেখাবে",
+      "দুই শব্দ দুই লাইনে যাবে"
+    ],
+    "secret": "0bbdb95a92852386dc01a3f7bd07a1606e8b548024333fc49f5c7c6b1973c801b41b0834b26a00a5b4c12337aea763aa1e0c694d010d5f8b901e3def2ee540f63aab3b657e7b2a8a100ec1b31900f2303e060070db47338d5e7dc77efbb21f571af358bde7a3196e473d595a4b4096ae9ac1d28c51cb854a30eb7c9dccb95f3266db90278576723d0651eefaf94357925f814c9c98772aaec18189304dc35fd0516de41e9157d1dd29db91a53f15c5ffecdc7ae1f0252ab66a47fa9b05e16a26e127b3c2c3e7e6f1df0ae661022ff99df07c9e084c22c6b877582bbce91b36c170fd22a829dd3bba4b60ac50848fdb6654e213c37789c17c10834c806470a698902c5e56abb82d088298359647f5d3647a75d5f5ddb129deab18aeb054f3914c"
+  },
+  {
+    "id": "fmt-15",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "নিচের কোনটি ফরম্যাটিং ট্যাগ?",
+    "options": [
+      "<ol>",
+      "<big>",
+      "<hr>",
+      "<a>"
+    ],
+    "secret": "9e6439953d292b78bf19b41f7f56c970fd687b89a3c20c0b536673cf9f25d6a3b64cb4544741951918cc2fd8990f3f50e9125e8de0e605ac439112ab2045fb6f9619f59cbba5b31de21a6a74191cae21e269271d176e0111780816f7b2e84c78c10681fedced2b98613b2af56e7044185bbfdcb5439b5f763f34ad2e5eeb7149ae7afb291401fadd8e7a211922013917f60d2412aaac862ef43e7316e2eeb2879c0c6ac454d6f763a5dbc17f1b19c01d440156b53a091b601b88cf2c993a9b6427965b9ada05b735e859af65290936e37e308d292fdfb0d2367d3ec19c1bf61a053a228a7867a359ac16df39f879c948964b6692d264844253b59f890a68ec70174292"
+  },
+  {
+    "id": "fmt-16",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<p> <i> My page </i> </p>\n<a href=\"pic.html\"> picture </a>",
+    "text": "কোডে ব্যবহৃত ট্যাগের ধরন হলো—",
+    "statements": [
+      "টেবিল",
+      "হাইপারলিংক",
+      "ফরম্যাটিং"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "a01be65be27aec39bf47db78dab371201d074d2d945305e95cc1a196fd6688150f155d51fe26b19540f060f283375c3bb07673dc75260d43aedae7b3941caba74d0433561a5cc4385d9dca831f70355fb82215620d0db38592abc87ff15f27d292aeff0e7872015cf814e53295b3007c6fc1a438ca3f87f519b0a4f735f6f23e764368147ab42bb9e5f775deb38ab3bf0c30c8502c7d1d2426a59cf83dcd6054fed9b1426695942a63fc0cce9ebe7e26042bd32c08685de7d01a0af886079641c06165131b2d3b3cddd24dc883a339f3298e0238c20e773d6e7e3243579d05641094c489"
+  },
+  {
+    "id": "fmt-17",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "ফন্টের নাম পরিবর্তনের জন্য <font> ট্যাগের কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+    "options": [
+      "size",
+      "name",
+      "face",
+      "font"
+    ],
+    "secret": "59c51ca8f488798d68b4c9229b3ab16d37f398ceba30f478b61f9d27e0abba00fafb2c09f5929b673902caeadbdd955fef3787091a94cfbd8ef7c201ab45503ba56b63a0ccaca33b395c741d1b6c31b707ff0bc22d4dbdfa39352916eff54babea129ab12d20e9c7ba17c5c226c4ef6f34a57071843b400cb94d8a85e8636d2bbb97effbfb386a05a8f09bdfc4daeda97bb18e69aaad3c3cc69ce0e5ec0c6668d0337b800d406b0526386ab5cbe0553c620081d3f487c29793f45dbc7e84fe7b9f1f3f56104bd261fc611e6581d7107fe05b32665c11acfe02f743b4d7e47ed3f06c695655436878421f8e81579424b90de14106d5f8158865e2cc2659099a287ff1b8eefb0d466dd3e6b150f08654a1741a98f406c8e72f6f59d8a7fe81d9770499eb"
+  },
+  {
+    "id": "fmt-18",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "<font> ট্যাগের অ্যাট্রিবিউট হতে পারে—",
+    "statements": [
+      "href",
+      "face",
+      "size"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "465e93a696021215b7379f08fac0116f5b93e3f13a047eb02d37907d7eda2526f1d3b52946d572c735688667f4e8780c6511a8a6e6c6d37ba29b322640a0b1bf84f69ffde1d4e194ca5143817d4be23e77e231e2b05156caab2acd36b9082576c9d98e0025379f524d560152a1d4bd0488b512d122fd1142041481b1dcfe8f9af25d2dcc52c05b85bea1f05795afa5598b5e73babcad0207128af9c1"
+  },
+  {
+    "id": "fmt-19",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "<font> ট্যাগ দিয়ে করা যায়—",
+    "statements": [
+      "লেখার ফন্ট ঠিক করা",
+      "লেখাকে তালিকা আকারে সাজানো",
+      "লেখার রং ঠিক করা"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "df27c6d91e5faf7463de3a9c66579f216abff6b5357119493ed982ae6b0a7dd96bef893646e1a4a3d3102a8c22c82468e030cb240c50b523125b72259d9b89e6eaa1dee6edbd0bfa1ab7621a88ad9674ad6f75d32f187aa8fb10f5cc1db414eba0ef539fc8683eda7c36b9004238709ea8f8e399988a4eb8497b9a71a9d60f1395b6e11b3cf34afbd0abfc7883bbde913f5f422126779199c8e0acdcd7d62a8917dbdc80b4d290639da7b0164eccbf7f697b2dad4dc7bae5d6c41059ef5f99ac4d74b81f81e68c472f5a0481cf47709b6b42e03d97be1b75f8dd"
+  },
+  {
+    "id": "fmt-20",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "HTML5-এ <font> ট্যাগের বদলে লেখার রং ও ফন্ট বদলাতে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "style অ্যাট্রিবিউট",
+      "href অ্যাট্রিবিউট",
+      "<meta> ট্যাগ",
+      "alt অ্যাট্রিবিউট"
+    ],
+    "secret": "94fc69ffca9f4b506955ee328f30112e938f8b0b19b9f489c85163a1356cd82fe66cbf84de3ce3052ef11f635c322b759c18b9bbb0d0647a934131e25f2aea2b5fc9dee456765d7bfa64360645d15aaa5b1599e4db4e7d091a9729c7f85f4f785c7bb4d050ddacdb152f560a689628fb4f71fcdd8e94111d4ce7e5d8f29f6c8c23c0110a4d930669e723f0a662b7e882a78bbb28a3c37116ad6c2d80c21acc4c1579045015e785ad8c7353ee1b1afd73899b4c6572aad340b58423b1674e777d8447ff562714e69011f853ffeac379da4de41f84ba690f8c3d6981102135a01f452aa14e4d94f67244cbc933e2a4bcef1be3924e3fabeead12a3e8b5a72e0151cd0b"
+  },
+  {
+    "id": "fmt-21",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "RGB(255, 255, 255) দ্বারা কোন রং বোঝায়?",
+    "options": [
+      "লাল",
+      "সবুজ",
+      "সাদা",
+      "কালো"
+    ],
+    "secret": "1f975d237132d6c76820a4999fc9bea8097e2080cd1fb9a30e2d3af464093e19a54f4baa5784565be23c6321b07c92ad15f68dd348b459eab3708ae0d7a750bc676f3b4017e906ccb5c251f970c1411f6ae159229fbbf1b024aac12d321e2ddc99066802aefabcbbb63db172e996dcd37ff806d0c2501d5f4dfa64e1926f74eae8b896b79426678d50be8cb71e77a02a00f0a904f3b6f542431f66c23ab1154d3cf1a0b3c86d478d1426b7f20d55b5eee89c47256144938be898db98a7b99ed61e203e"
+  },
+  {
+    "id": "fmt-22",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "RGB(255, 255, 0) কোন রং নির্দেশ করে?",
+    "options": [
+      "সাদা",
+      "লাল",
+      "হলুদ",
+      "ম্যাজেন্টা"
+    ],
+    "secret": "acb8e1f3d088efce0ccac12d378db8f7d03b49b588583a8e3c27185c24fb2639301a237d52426f7d48f0696fbb25311504ff223dc1c7ee9c535101489c2e5094909ae4ab7bf7ef8d473e8eb8c63d11fd980ec88d4cced337317dada3dbb000e1632c3163d7807c2a0d85e756d337dbcd71f24b4fd64b1d276bde44ca20c6a0aa3c1136b3832e47d3f0e5303b91cb5d708d578b856f67d378ee55c9e42dcb859e317ebb177457fe01a68170944231664784692c1c74dea3e1345a53073140572d73d5195d16723461b026f30b5ec5a75efc682165da947d06f537775dbf16845a8354fc9abca332c3562f76e0da742e"
+  },
+  {
+    "id": "fmt-23",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "<font color=\"red\"> এর সমতুল্য হেক্সাডেসিমেল কোড কোনটি?",
+    "options": [
+      "#FF0000",
+      "#00FF00",
+      "#0000FF",
+      "#FFF000"
+    ],
+    "secret": "e4f9c2617a3dd90ddb28ae4cd514d453f42ead6fab0ffef1847a0038b66cdcaa38fba8adb0bf396b3ed70bc00b6f150b9cfff192ee01ff5d56f88ebc819d35708ff84a5c17c0fcf93c5ae8ba532236d73fceeff15bdc825cb979ddf27a9fb5fbb14f8c6825188879ecf943fbcd879db0483959f82c51e9a491a786274b7f0e0d10c7118c6d49c065fd76a978bca2626e80f325f9e228a9097dca9017bc214d4502f2956f4615f3ed8ebeb75aff5d8081fabdaa3130df5db7fd42c0209c527a"
+  },
+  {
+    "id": "fmt-24",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "#FFFF00 কোডটি কোন রঙের?",
+    "options": [
+      "সায়ান",
+      "হলুদ",
+      "ম্যাজেন্টা",
+      "সাদা"
+    ],
+    "secret": "353dcdfd1cec2851243f180b8de04d06dd9a0c4d6503f188c67311899d130837bb78dc8cb0950134bb043c68f3eb9a961502b2dbf99dcc2c6131038009b4c3866a9e0c50c60cefdb33629bf926ab2cfb2e0207b372e7be5b5dc25d0309c2cd46b45da44242fadf9067f915de8f0a7c6ee33c264a5e4cc8f40795da9e5eef8a38bb738233d38d86bc529a5dfc83ab1d02fd50c3a1bfbcf38c365b7ee4dc355070f9ca0c456e4c4f212ec0d5eb8e3849f9ca2a18a6e60c03bb310e630321fa838b2edb89b344e2b0bb0cd62c751fbdd80d1e24283d55d244b35487"
+  },
+  {
+    "id": "fmt-25",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "#000000 ও #FFFFFF কোড দুটি যথাক্রমে কোন রং?",
+    "options": [
+      "সাদা ও কালো",
+      "কালো ও সাদা",
+      "কালো ও সিলভার",
+      "ধূসর ও সাদা"
+    ],
+    "secret": "b999d664dde03e4793926cabce4f7fdc14852dc3a76bec28fc65c07b35c2c94a35b4e37c79f6c6d075c63cba322721c2422df71d1e78ddaa9e4a4c403a83e44f0ee3fcf27323e085e69eb35b21a2e17da9f5c00902d043d8fea1982a0a4150397112f9a6aa19496a341a0bcce4209e4fab6f306458e17e31790d54fbe39fe0da7e1d30df00301887968428c888bb2805b9ea9d1fdeedf1d2fba69f26a199a88967ee2eefff2ce12f63d89270b32239500536d17708596d3c3c17999c65b0bab4d6"
+  },
+  {
+    "id": "fmt-26",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "rgb(255, 165, 0) রংটির হেক্সাডেসিমেল কোড কোনটি?",
+    "options": [
+      "#FF6500",
+      "#FFA500",
+      "#FFA050",
+      "#A5FF00"
+    ],
+    "secret": "f999d546832f53bb38d73bdb5b24f4b15b4ac86b20e8f35db003b93df09b3223a6b88507eb2d840cc9ca6641399130557bba2e415f1dff1c51962f76b09ecbb4f4582422a1db6e6de1abf0984fca999418853e8edbffa88370511d35068ec4ca8c45c62e2bfe0a21991a9b783248aedb8a8a334f60f8ef4a9cebb87c7be1899356873f4d3a8562ec1dc22d815c09f1221b85a9a55b7a9584832428e618b8ad24a16c052dd108949b8b4b3044bd7ba8b1ee957553b745fcf14f2f28868a7d59b23699b949e18db099b3a7e17566403e9ac9001b"
+  },
+  {
+    "id": "fmt-27",
+    "topic": "format",
+    "difficulty": "hard",
+    "text": "RGB কোডে প্রতিটি রঙের মানের সীমা কত?",
+    "options": [
+      "0 থেকে 100",
+      "0 থেকে 255",
+      "1 থেকে 256",
+      "0 থেকে 16"
+    ],
+    "secret": "9828bd149fcf12d8a711d1a10de66ee5d3094cecae09a4f51d37a44e7e8ef5393963be7b8cb7e06fe3d40a73d5e40ea62bc01fc0d79a80d71a109c6bd07ac0ca00bb7c723af73c4768b72fbd405303eb216f2416055f7af29d29ec783a80d9029e58ffaebd9c86eb546d57327021c463ff18e59ce7d81115efe15f5ed4dd1739697192fc97e42e43ec28910eb0d1f2b5418802c981edf9df730f8ad5be548f40630d7b6422f1b9be2d8ed338629c7b6ca9246c07c93a1792162b5bdcef26a37d3aa1eb8a00473bfa41d7238bc15ba0f682aad0876a793f8f9c12dead2dca3b0471ab7c2cc7af392675211877"
+  },
+  {
+    "id": "fmt-28",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "লেখা মাঝখানে আনতে style অ্যাট্রিবিউটের কোন রূপটি সঠিক?",
+    "options": [
+      "style=\"text-align:center\"",
+      "style=\"align=center\"",
+      "style=\"center:text\"",
+      "style=\"font:center\""
+    ],
+    "secret": "6a364c8e6e26c1938a94db4e6acfee0f42a6a1da32e068baf36be3ded7656f20b66656435a63bd0329f90efa6911ecea97995f5f23b173c610ee2a084f21026d7d29431f5a05b2321091523d44f44d6913a968547f1b987f376b60fbc750354b07dd2cab25317e2c5916747d13071db16e89599e9eb0e6e6a271c26b140f2a437765b81e0ff5468ae480c78d0e0bdf3e418ce42700d7d18e2028a887bcbc0f9c1e56f9cdef8e716accd9d03c6b907a028b7f8a38051ec229b7ae608656b8381090"
+  },
+  {
+    "id": "fmt-29",
+    "topic": "format",
+    "difficulty": "hard",
+    "passage": "<span style=\"color:red\"> Text </span>",
+    "text": "উদ্দীপক সম্পর্কে সঠিক—",
+    "statements": [
+      "style একটি অ্যাট্রিবিউট",
+      "Text একটি অ্যাট্রিবিউট ভ্যালু",
+      "color একটি প্রোপার্টি"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "b2f229d69748aec7f17d22c4bb204e660a1e0ee6c0f8205253db74759213f09d4b8ccaea0566b628f01b0013534ae709df15f3e9ae9f1321ecdf5869581fe9e13d8f0c4e2facc76036064f785fff2f0c373e79bddda5b3762daa4b3ae99ff5734d1b4ffa44c869c766694591b9083dc56496caddb7afafe8c8702d63f8f689a74b663792b580ce9be997dee9bf91301c4b86e48e0f5f6d791554ff9c5103a8b0696edf0cb0c53cb2dc102c43e5e9802d77b938a815c1d0e568b9e5468f5277b8f2dd72af15e6bc31b03ee469cd58c0609afc9e1d7512b9d49e49d479f53ed0b72f1150"
+  },
+  {
+    "id": "fmt-30",
+    "topic": "format",
+    "difficulty": "medium",
+    "text": "পাতার মধ্যে চলমান লেখা তৈরির ট্যাগ কোনটি?",
+    "options": [
+      "<marquee>",
+      "<mark>",
+      "<move>",
+      "<span>"
+    ],
+    "secret": "ebcdd59ef9609ad3227ec1ed5f630eeb19b150fa1b084aa9a3cb79f92fd628276eacdcf4e8b94b3a79d72d25accdfdfb0dd9d13463336538ae324e2a4514bcc2af0a305c9b842ee08bd13617b8c029f49b295131c6b538b13214b91604240276ffde9e39959af7f43e0d14420950abe19ed4e048e30e96af70fd1bdfd02609b66e656b612a403996392a7b25f8e5eaf25cf279eb2ebbcc0f875814034427997681658ebd259a34d8cf26a46f5601a3bd1b05418666a63c00960d8219f383fd328ab15b42df46c3aaa22cd8ccfc12c08991c7a279f5b3245417f239868898cbcf120c195dab4dc87ffb62129024558f757cb5dfa5750fdf5a1118c7141503704ec7c7af63"
+  },
+  {
+    "id": "htm-1",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "HTML-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyper Tool Markup Language",
+      "Hyper Text Making Language"
+    ],
+    "secret": "33d615826deef3186155d96e9730b4031e7a821919bf0f7cf991a9af90429cddc34e46a3969fad7ac14457002ad5d6e508cd8178149c68d8baae690971fc7dcae330775d8ef1a22a10de93c4bfd1a06b81ca3a87e4971831ea0354129dc6d125f171ca5488504eddd1248a709f9bc8652493649b26d0f4f74fb9d2c3c21d27fd2efc923cca19ada7c9d4da27bc5e975d4eaaf16c01ca6301faa2e007d747e6c47c94af8ee1352b1ac58bc5637826ba7207b35e9fed888232e5f5fbf01b0cfd3b17e27d36f1461e93e51adc021e7d55931c2ec3c17f7726b1d3882c9e8dfa6d4bed3edd73f298babeb3fd38e2"
+  },
+  {
+    "id": "htm-2",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "HTML সম্পর্কে সঠিক—",
+    "statements": [
+      "এটি একটি মার্কআপ ভাষা",
+      "এটি কেস সেনসিটিভ",
+      "শেখা ও রক্ষণাবেক্ষণ করা সহজ"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "33acce54c551bf52f2721872c9e0199713dff353b0593135c2b189a992f30cb13f1b9f27e4196406c4bc09eb4c9336fcd41775b9643bf1fbbab3fe3e9df85d7212aa4caa54c7cbd82fd2398a84d29b5950d524dbac5866ff0418c3900e21ca3189d5f1c647fcc24b69e084ad79baec134bf5f4eec0e9494d10e5892d41a16bd45250a29d70d92a5d4ac61f2b93fae192e0073b716e2a47085a5e01a05fb3be4437f5315b90724371b906ce3111a1b0c12f2d79810602ed443cd6c3093f3993b80437871d7c5df9668bdba015e682"
+  },
+  {
+    "id": "htm-3",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "\"HTML প্রোগ্রামিং ভাষা নয়\"— এর কারণ কোনটি?",
+    "options": [
+      "এটি দিয়ে ওয়েবপেজ বানানো যায় না",
+      "এটি ট্যাগ দিয়ে শুধু পেজের গঠন বলে দেয়",
+      "এটি শুধু সার্ভারে চলে",
+      "এটি ইংরেজিতে লেখা হয় না"
+    ],
+    "secret": "a9d4bdbb4930a4b817f822f42daac9911878b824aa78db71f5c7da80eeb2d159bb9b8d8031b10ae29b093a46648d59a2436de24d477be51767a085567868c4a0feca96022b4e98d6cac5c15614067314cc9391b11465d3a07b6de2d456c444465fbd86bb281e0f3b18df4d218a72e868ecdb29826ecb541103c2dff956f0e9d4053ef6dc23a673ffd5da31f6853fb396ac086f5c4a9dd4d52daffc9fc6e51de5bc0da6f7cf21ef4552f8d2f581027e51661c1bd7130b5af3da7822593b2a83519c72092821d32c72bed28654b6fb169d4e688998b3672daf80f2b669185ebc161b4c8981f54e96a61c6d0e3ecc08ef751b361e3048bf44add4dd920369559e6d9e50e29cb46bac8ddccd33a67283c7be27b2e1ba9cb961a0369296d9a2f0db6606cb5901f769e77d300b49677e6f1ee9e5ed2648e9d50fb3801b229bab474174fa060bda1ac91e492c88c50c229110a0ca7b9156f9c6fd93d11d1f1998e99eae"
+  },
+  {
+    "id": "htm-4",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "<BODY> ও <body> লেখার মধ্যে পার্থক্য কী?",
+    "options": [
+      "<BODY> ভুল, পেজ খুলবে না",
+      "<body> শুধু HTML5-এ চলে",
+      "কোনো পার্থক্য নেই, ফল একই",
+      "<BODY> লেখা বড় অক্ষরে দেখায়"
+    ],
+    "secret": "fc502888c343cdc20cec5cebe1a38e338ee9f171bd559ae07105818fdde8dd8e9801da517973c85b5a51615882fd804f7499e29b3617d37f869c7048240d081741e7ff243b12d447685e6d87e08b168418b07adc96d3d3ace37a650f7744cdbcf2c235f2b9457b2024df29ce6f703241daae18b733111e05f23063ca8a14979afd5c578319ebc259280031ea6219a35363e5de8e47c006843499d41ee34b8a43ae2e31a84cf70b332310a0b33f93de263a6ebe35290eaefdecb3280da4448d71373148fe1e14d2271b10789f321ce3c740842b4dda88209e7cb880c9122aad47bda52758e9c8c802e65a03afd0ebb3cafaf9c0280f6bfa94"
+  },
+  {
+    "id": "htm-5",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "HTML ফাইলের এক্সটেনশন হতে পারে—",
+    "statements": [
+      ".htm",
+      ".txt",
+      ".html"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "e909637b757b0eb19ac0f3a70e238429d7230674c9c6f793f2d73ae11b132b8e53c6827a97eb65432a95d8296206908271d373bf22bad6f69250605a9321c6e0a46cbb4e59689a2fdc8fdb4eb8a60eefafbd11730e2444ebcfe05913829840a26561c07de8a98b86d8786b1a18283dd18709958f239cbb3cd3ed6e778d967b509a1e67d3835cbeacdc51238e5786bf13c3c4e802d3b7af79be621e68141d5bc20c31718e36c251add7b65dd1ab64d3b40ffcba4ff5516a0c5225f9c7e5b2cfef3fd0f2ffcace4bd1a35d38ed001c2aa1760cd25ec42130b6ae5cffa5580f231ab862f66aa386b794b46612c5295bd7d7907a1db1cc936c11231ecb560f1223fafed0b861e1782fd6e06c"
+  },
+  {
+    "id": "htm-6",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "HTML-এর মান নির্ধারণ ও ব্যবস্থাপনা করে কোন সংস্থা?",
+    "options": [
+      "ICANN",
+      "W3C",
+      "IANA",
+      "CERN"
+    ],
+    "secret": "ce7b60a88300f4fccda8cc38f08edfc80368aee1ff615ba7d8891db759b0b77672f209328ef097fa0cc8ff1b374f02b209338213f63406dbe8870544944413b01a4011e5ad06e78c61db001f6e5f6d7f9c323cc7e6d88a7d60f1eeec9d515c362b995e95268e2a2025e2e3ef0a7cb128e70511923ca8c524d0114b40a68606d575ba002fb2c89386c1a6fc9dde964bffb2bcf222bc2d4102a152b7eaed9dad89a8b9d3c55de7aae7e68d6d7b2936edc3c458fc2d9adf323e25cace98dea985a52a"
+  },
+  {
+    "id": "htm-7",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "HTML-এর শেষ ট্যাগ চেনা যায় কোন চিহ্নে?",
+    "options": [
+      "</ >",
+      "<\\ >",
+      "{/ }",
+      "[/ ]"
+    ],
+    "secret": "bbf1ac1458689d4855963e86cadf87d59956e8eb03a2a7a24fcda1b36f466c9700798823d5cc40664b3e0c64270432976fda457cdd6277d9057c26fc1abbfb9fa860a241d4b6257a7ae8d5af92e2c09ad7f8ccf3c4b8caf02a47d6dcfef4c4fbdc86741c2a84c541c25128f95ef80b2f9bacf69c90fa6620bf6f808886397c0dd9cb34ba5b228c9b8830424917207687b4ff7761cd0cf8ea3947c92a14bdada6936ccd7debd98cb85aee05f83ab67b829d03b2df83e6d880f8b4cf9dafc233b05ed6d2c78021f3a530b16acbfb0a54ef8071b00f2388dd9ca07065a914"
+  },
+  {
+    "id": "htm-8",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "অ্যাট্রিবিউট কোথায় লিখতে হয়?",
+    "options": [
+      "শুরুর ট্যাগে",
+      "শেষ ট্যাগে",
+      "দুই ট্যাগের মাঝে",
+      "উভয় ট্যাগে"
+    ],
+    "secret": "e50292d154838f4cbe6707491125e3bba07c5101bddf45acd0e7e9b6a7f545aeb2a26c0ffbe9fa44c4a3d89c26f7522afba7ae23107e623c3f60143106f60c153ffa04fa94dd1b311b200e340d89c926240fbe8d0dcb10922609eb730f57e8340d49b9a9b17e4be2dfdd1c5a68991977443f4df73eadb4b8bebace1dc00eb16c9731e6a22cd0faa0b6dabacf33a71a3054b9b4bde5075df64449812159ed64a3e4932f1fed249d0b62e6e3fbfbf04461ff87cd11913475a2cc7e604c4304618240c9522f66b391f69413fb67e17a33e3b8fa9bfd07e126870cfe8ff7195b6cc531b7448848fc214081d32a6295420d5afed04adafa45ad4e3fddf549337865bd16c11acb92b261e7"
+  },
+  {
+    "id": "htm-9",
+    "topic": "html",
+    "difficulty": "hard",
+    "setId": "ch4-htm-a",
+    "passage": "<p style=\"color:blue\"> ICT </p>",
+    "text": "উদ্দীপকে অ্যাট্রিবিউট কোনটি?",
+    "options": [
+      "p",
+      "style",
+      "color:blue",
+      "ICT"
+    ],
+    "secret": "259746d1ae2579c3edb09355261cb0d71396a123a54c58cf60f1393f50f9b298965b3fbb9251562eb6ad23d88a5d104213de798dbdfeb38129bcbdd01057a768c4513b3b4047163f8364837d7738431321103c70bff6f2d72076073aa4a79e531194d9c373b9d70e468895d356de111a05315594587934158a52efe48d10b28ae7a0acc519725224225ef362e22d7252473e3bbe0c2c76d6010ebe8b23faa3d4a904920765e447508c32c7bfa7b3acdf9933a30ba1adec0fe1d202a64ca80430dde9fd046ee23fd4d2db01cf2d8c5fd173992db23ccd9e64749e980fd440a3cc76"
+  },
+  {
+    "id": "htm-10",
+    "topic": "html",
+    "difficulty": "hard",
+    "setId": "ch4-htm-a",
+    "passage": "<p style=\"color:blue\"> ICT </p>",
+    "text": "উদ্দীপকে এলিমেন্ট কনটেন্ট কোনটি?",
+    "options": [
+      "style",
+      "color",
+      "blue",
+      "ICT"
+    ],
+    "secret": "208819fd79268bd9aa0b509e1d8f6303766ccec683144d68a606fb568a218caf364478e803c6e2f43d221a5bab9a31099dccdc6a819df0af77e251b34b69d954edb372be8d7c3c50a0902bb17ec7286570ea143be9e82dec4f6fbd861c6c829d504be70aa4fbc4738f020d78a0738df3a463fa48bab49b0aa2faa4865559055f6e012732835c82f41606defc60a6f41205a175dbb064c566a0e843062d837cfaf93fee710cacf6100b1c167657e17680cb3af5c21d062e1548a4d7a7508bf307903364c6bfdf9068eabd40d561b42a6b8d538ce5a275c9ec45a0caed8b8b1b18f5f85644ede065296cac37c6d365b069fe3baac3d655"
+  },
+  {
+    "id": "htm-11",
+    "topic": "html",
+    "difficulty": "hard",
+    "passage": "<font face=\"Arial\" size=\"5\"> Dhaka </font>",
+    "text": "উদ্দীপকে অ্যাট্রিবিউটের মান হলো—",
+    "statements": [
+      "face",
+      "Arial",
+      "5"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "8a1884bcef64574f4bca628bca05c6ccc14663ebe19ee782d041f1c53c8d595604255897eb8ff9c10084d0f0f7d46ca38e0d6f4fe25ac9214954f065913204dfcdfefb30f88fa0b1a5a8ce205be5bdfae95517c801f28a139d2b0f242078a4341e426a5d7abe0b29a3b066e66a4ce7a392b515f50d192a275994b5af69626743011e066a74ebb6762fec4d1284a510a6c3ae49d2c773bdf8bd7c16788de7e9c5d94ec6d8802e86d7832afca537756be10c88591b1267a4745972bfc1e91abe6095f8cfd4dda4bbbbdd4973dda13aff215a604a8fb4c82d894b732f07202a272792f62f219352e88949d9edac29012612"
+  },
+  {
+    "id": "htm-12",
+    "topic": "html",
+    "difficulty": "hard",
+    "setId": "ch4-htm-b",
+    "passage": "<h2 align=\"right\"> Notice </h2>",
+    "text": "উদ্দীপকে অ্যাট্রিবিউট ভ্যালু কোনটি?",
+    "options": [
+      "h2",
+      "align",
+      "right",
+      "Notice"
+    ],
+    "secret": "3da115ee779129fea7b93d9fa3fbf5c461110f60b464aea301e5da4957e1d2074e7d37c9b9218899a237a049a8c51cc8c58673f24e00e5fbe2e518aeed9587fbee9191ac4703f94b16bdc4c9cd239e220449d360282113083c9516e52c16d825eee637eeab89f3a921eec54a1f7829d5ceac00101d9ea4d1a8876655c1c13ae3673b2be43dba1cd9bbf2453a6d256aa360a9f63e8ce01844bc7064bbbc8e75694274e07bb76fc2d3210e2298057156312ca443b18930cebe64160d12e2a93d5253ec26bc620daa45937a1c0ef621c91e312cf0baa1eaaac2"
+  },
+  {
+    "id": "htm-13",
+    "topic": "html",
+    "difficulty": "hard",
+    "setId": "ch4-htm-b",
+    "passage": "<h2 align=\"right\"> Notice </h2>",
+    "text": "উদ্দীপকের লাইনটিতে নিচের কোনটি নেই?",
+    "options": [
+      "শুরুর ট্যাগ",
+      "শেষ ট্যাগ",
+      "কনটেন্ট",
+      "হাইপারলিংক"
+    ],
+    "secret": "4bf6c6bf7ebc00d6d00266dabc0008fa49efc0f4865617864854a265649f8ffabd1ab836e63d9c73abdf1bfc351f6ae7a555570b4ac5b6b8c88985e93ef40cc9d25479166928aba21ac7f62d23effc033096bf6705acd51bc8552e5abbcc81d24987a0e5981ca95e759cb033a82bd4f896590f1eb99372b22fbc5928318d30510d86c2523db6bf80df32915057b34eac4be776253414bcab7a4dad5000dc16d1ca7861a6e1c044de5a329d0a854b263cdc14561c4fbd798299751c37775540ad727e643e60ec05efa8c954a1249bcc1e1ed5b3dc3019"
+  },
+  {
+    "id": "htm-14",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "HTML-এর সম্পূর্ণ কনটেন্ট কোন ট্যাগের ভেতরে থাকে?",
+    "options": [
+      "<title>",
+      "<html>",
+      "<body>",
+      "<head>"
+    ],
+    "secret": "ab94e817fa8344aa40337f275ae001c0da76d017b36398ab21e4c3cc9812490dd7e5895f5f870ce4d13e06bb56f3443f279d2eb8ddd7645649f0d8aa870ef9bf6e91fc651a61fe3c2c944ce61e53d6ffef6d4bfa3c9a6ed0288e774e92d13351cbaa2b769fa7f77fb4887e8531f36a31595cd45a02c55438eacffa99e08ee0a0477480179c262e056e5b73ec6f6effd0810332e21e34859f59208989061139960620fd622b90f942ae44b424adb3efe1b748e579e762f57aa0156f45d604bb9497e50ea52c232b712f7274da6ea8cf87ad135b425fc9a8207fa77f916728cb300f4733"
+  },
+  {
+    "id": "htm-15",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "<title> ট্যাগের লেখা কোথায় দেখা যায়?",
+    "options": [
+      "ব্রাউজারের টাইটেল বার বা ট্যাবে",
+      "পেজের সবচেয়ে ওপরে বড় অক্ষরে",
+      "পেজের নিচে",
+      "ঠিকানা লেখার ঘরে"
+    ],
+    "secret": "0dbcb8a26534f1e276e4f88d0e329a524db680aced22bb1caf371ed50fbe0b3dd53e0d6ec058fae247cb33dbc2394ccfc487c559186234c285c7ce16d3e819b123e1666672e1ecd13e97ea4b9696c53b951d839c47e57a231c013b2c433d0a8421024842384b8a9436befea1386974db81d134ed0b40d7fe9aaf547d6b8655b172d960e1d993a7b9b4e090f0afae8b460112025dc75ced9d64f17beebaf50d046dcaf140243371a695bbbbd7e769b18119c49e9b88e28f745a2458b0d2e62da6e2d4d4232f5c6784c05a749533fab8b2d7fc7bf8f99f233e11a7b276a6ce2e895145987b918c7b5aa7865bc7dd1379171764b8d4c9e91583c486cdaf814dab"
+  },
+  {
+    "id": "htm-16",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "নিচের কোন ট্যাগ <body>-তে নয়, <head>-এ থাকে?",
+    "options": [
+      "<title>",
+      "<table>",
+      "<img>",
+      "<hr>"
+    ],
+    "secret": "487d3ce804382f99c319483c647eafb1c2f5d1714938bf780bc1a946b75d5ffb8b08c060ef698c5584951e9a64fe27a9fb525f0bb7f17c0b809145fe4bf2c4534146cd62fda55acd4b9a50b61603ed2a597528c02949e7bc15fb1651b82b617b7d37a4f8f0ae0709ccbd193c369fe216b54e8e46d2f1d9a197521576006a79f0863b5e5c791e785f3c4845092a89debc009a3910e03abf052ef4f161385b300fcf3aead46623f252ac525fbf5e0e83b483415b108384c7a85124474a95dabd1fa265f3293083bac2dabf4253fb3fdf61ed17349930d9aa6c5967927c17c88c0c6ec42872712acf"
+  },
+  {
+    "id": "htm-17",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "<head> অংশে থাকতে পারে—",
+    "statements": [
+      "<title>",
+      "<hr>",
+      "<meta>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "72be0bc66d15109728319cf00df820f8925eb45b9b72ff0de5738aca887d7b47d299d434bf10a9eafe71293fc0e2d20865a189ce2d91ae75212410ff8b504103b7a47afd2d24d651efdb58e6896198baf912aa9ee105416ea78630fd7fe37189e58725a49f1bf39ea3db2bf78e458dbd7efc8001f5b608292359cd26b99de95e70f6bd7ca74171e28ba9b63ae61511577b8c0632a5dec1addbe74b616054bc3d02812a22f877c7bd12890c54b209aeff87952840b2dc4c306f9f12a5857a0c495b839039ca6d8423604d04e103f37f08984fa0fe3471b14f58b00ccd6a62aa99d32b98b2cdde89bfa27419ed5e56ae556c7bea5ff8a788"
+  },
+  {
+    "id": "htm-18",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "এম্পটি ট্যাগ হলো—",
+    "statements": [
+      "<td>",
+      "<br>",
+      "<hr>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "ce0bf4a0706ea774ab3d352cfac9021b00237d6dae6e7d611772b92ed9e3fd75d9f10966708eef391f763b086c7538df476b9dd96f3219b00ccab185d1632e50faa4aa66e687556978921b71ce7a9b003977ac63e85f12b035cc7cd5c2207d5921a04224e6357a25ffe78f30fbd54290ec74e6bfcea8161255d43a25e00933275fac6e226101fc58039240b02ec6a1fe35326f045fe0e8082a120af924422b7b4b61f60c38b928216257ec3be5a89577e734c11efec2c782a55cef1dcd7e2bb192e9f16ba2461b"
+  },
+  {
+    "id": "htm-19",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "কোন জোড়ার দুটিই এম্পটি ট্যাগ?",
+    "options": [
+      "<img> ও <meta>",
+      "<br> ও <b>",
+      "<hr> ও <li>",
+      "<td> ও <a>"
+    ],
+    "secret": "4f196d45d3b98e47d62c4d5c5df96dd14284bfd8a1a9c649c38c058cd5df5ffc80d33ea4549e49a57e4feaf00d284f671e1cab149c145a0c896317ea2b12888db667f3a226ef6636690eb3d6290b2171399f60da69971ed8b14092cd99421149dfc4331e45567d87d5f54aad1908a744c1a3c86099795fc81eee6e0a9fdb5d280a235fce841ce5f1353cfbb5c6a6c33d18250e24141518c96ea3a211d679e8d75d3571b89005fdcaa9054ee40d7df39cc04822e5faf1fbdcb11c11241ca60488b1cbf2718d277f7f628c5a70277f449a3ceba70719df78ef0717786c5ab7f5aad0c969a60dfb70515103a5e04e13cf9bbbb91080d34528271726a4e79b98348c64798931b9db68eff450"
+  },
+  {
+    "id": "htm-20",
+    "topic": "html",
+    "difficulty": "medium",
+    "text": "নিচের কোনটি কন্টেইনার ট্যাগ?",
+    "options": [
+      "<br>",
+      "<ol>",
+      "<img>",
+      "<hr>"
+    ],
+    "secret": "0e25f1be385ab056b6a818f2020cce95610ffdf90f7126473f6ae24fcd29d15fe6e63a01295d63cefd9f5f077310ef3697dbb0a93210370dbe9f685ccd3c0e50fb438a7fa44b33870ec62e3ec140deb3a217859329d0657bc61cdeae69adbeb7c3effc9d5ace02222edebddff5b2ce2e4e6c2055213ed526dd5d12ad61b956eded9e7250b45efe56d21b541da80dfcaba0183435c8531b755a9fda4b3e3f1e189fa4cf5785e0a62de4b2627fec5627d74f08bf6d5be1bb87abc2923b1b7ed9f07645336e58949a8c85dc643f20230aa970d13fff7ac934d47eb3e6dcff57a498218adb571a1141ae786795282eddaecbbd37dc"
+  },
+  {
+    "id": "htm-21",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "<br> এলিমেন্টে থাকে না—",
+    "statements": [
+      "শুরুর ট্যাগ",
+      "শেষ ট্যাগ",
+      "কনটেন্ট"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "8ae5c3cb612db2ef25f45f7432023242b88a894bbaa125f1a1289bd3a2137a3c53fc5418ea47d8a8ff3c522e8921bc91ffd52bf0f94647787861be99ca1818ea7d990cef3fd2494fa88e4d7dd2d2b041e4140cd8976486175987a5ca40606864afeb7fbbb4941c84a2726cf1d945100325c39e2222ce7a7756567919553e4b686f0b0b64d6caba05968f227e5b2b1e12496be4fd72e975a48fc4b6e496f2f3b8b266ddd569c7a06dde4532033c94109b03292401ea904b9ae2f3be9d3765495d8bcafe819a7de64f1a89c00557a83490ec93e3c6dc391c23122c1cb0ef7e0971a7"
+  },
+  {
+    "id": "htm-22",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "একটি HTML ফাইলের ক্ষেত্রে সঠিক—",
+    "statements": [
+      "শুরুর ট্যাগ হিসেবে <html> থাকে",
+      "প্রতিটি ট্যাগের জোড়া শেষ ট্যাগ থাকে",
+      "অ্যাট্রিবিউট শুরুর ট্যাগে থাকে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "842eced439148e8cf84207ac3b44777ee90fa7eea009b8be4546cc661bb65bc44476e93e603ece5ae5a16f33497c7d91b9884ca2e6b34e4b02255588711413f4fe4829e7497838a5ffaf98eca5a7d282fa4fd00f31967db59586b784e2401c5b33412263f1378156b838d8ff3b92a7b2e82cc0c89c3669e3d0b745a4195b17765e9cfce3466f3fb1c168c124167bcd1b6cdc9c86b61bce6d334d008db11302115fda6b139e37640d6f560b7b2dff31c5003b916c12ac7e2465400ad6a31cb60be52d604ef48ea7ce9a7ea10b56d5afa23f6a61e35dd1f0d4d2549c0b5b8fc52994d23b2eb85192893b019dbad6fae0ab85ad0587c868387870835c95456e88f4e35b142a2a37c9ff4d52"
+  },
+  {
+    "id": "htm-23",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "ট্যাগ সাজানোর কোন নিয়মটি সঠিক?",
+    "options": [
+      "<b><i> ICT </b></i>",
+      "<b><i> ICT </i></b>",
+      "<b> ICT <i></b></i>",
+      "</b><i> ICT </i><b>"
+    ],
+    "secret": "20817295e61649db516476ea71506611f2177f34ec9cbf24938ead880126c36b3e25dbc1927304a0c8b75178ef996e54424e693be2e7c4c35744c4c88f755e8d0178c283f8dc0da617d626124d3b5dc9c587465f2aec265d5b6ab3aaa51ee9c50af538bb22c24b9fef7c8b840f1b15a265fee4bb6434bd2c31048a17a0d32aa5286d4e9ad49254025c4c4357e4ef70bd71d9474e3716fc055ff17a78184cadb29ae9a2006e1021e49036ed81d9baa3cca836e55517ccaaf4612434f92994c2f93ce38fad84"
+  },
+  {
+    "id": "htm-24",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "সঠিক HTML সিনট্যাক্স কোনটি?",
+    "options": [
+      "<del> Deleted Text </del>",
+      "<b> Bold Text <b>",
+      "<i> Italic Text <i/>",
+      "<small> Small Text <ltxtb>"
+    ],
+    "secret": "2169a906667a13729839c50c4f785634b73e4d783efac97686184689da0085eca22d4d28853b4df8119f316ab89b3f04b6e6a0cd89836740647ba5066b605a0b06f194e478911878fdfac468f067b20bba857649b5fb93cd32668728a3f1fe44d33d506cc587d573bd77217f715497315c6c4dea91bd657b5118d0ea5fdb93db882c302c4131ad59100cdb1cebcbd807121cf026e6a174855deaa55d59b50768d712fdbd732d8b2a6383fa4898b656b275f052e673e20ede5b5ee8b6abb55958f1b3f0a1dab49b38c9aaf7fcd7ffbef25ba8a63f575051fc56c85649a9252d9cef06869368c228f6529cd388733f37c10bab4b"
+  },
+  {
+    "id": "htm-25",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "HTML-এ মন্তব্য লেখার সঠিক নিয়ম কোনটি?",
+    "options": [
+      "<!-- মন্তব্য -->",
+      "# মন্তব্য",
+      "// মন্তব্য",
+      "/* মন্তব্য */"
+    ],
+    "secret": "b2453446ca7a7922994e4ed36879b32ffff2c22041c260c5190c1a1c22899c71c58fc5ee81225c343dd5f82d04ee8cc82f37dd224456ecbc4fc045bfa86f6c69a6137f48d0a095d75d79e3c2fedf1d8e878a9a11e34e76bb0383994a0c6d4b79a4654855273aee0d2d6bb4ba4cdd8dbe597fa9733c2529384a1db6d0c945ba5fa1430018b0c2dcc09ab51fc864f7d4e798013d1f0d7c1f7a2dfc6bc1cf21db0d111a4b8ca61a0d6cfbf1c61447a1e31a7565837dd4a7a0e3cf9dedd96bfce25ff8bad111e30cf6b52703e88fad4e132a0374a6a10f9c2f3da11f41c9f628"
+  },
+  {
+    "id": "htm-26",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "কোনটি ডকুমেন্টের অংশ নয়, তবু ফাইলের শুরুতে লেখা হয়?",
+    "options": [
+      "<!DOCTYPE html>",
+      "<title>",
+      "<meta>",
+      "<body>"
+    ],
+    "secret": "c6167ead93511f2afa2b9b90f1d365889aa42ec98eda228cf7745c7059db7a50a89a6f81ed072211453483b5342c2e64b48e824a6ba252e046af8c36f1e5c5d8b7aa4c1a316ca9508efe02f35da3dd7670d26cad1906f2870bc42bebc92201380dd348687e730d2b8704f11c14bb80ef65e9f1640d43e3f0b20ea69fadeb7a57d628960f6042aec65287f1f472b1463f1fb8bf3f0804fc6558c8fed4d425183524092b8cf14e035c784d63f12384d6db9fe44f043b045f2be65cc37a87f978fff3343a7dae9702ec1416562b79a188aa5d236bc0d62ac6c6fd8bf50627c126a8bd6e02d57c2729f2dc463bb7b8cb12d04a62e05e98b3447e762de96c59912789f7433f882a5fe20c92e411be6a7796c0de4d0f56"
+  },
+  {
+    "id": "htm-27",
+    "topic": "html",
+    "difficulty": "easy",
+    "text": "HTML লেখার জন্য ব্যবহার করা যায়—",
+    "statements": [
+      "নোটপ্যাড",
+      "সাবলাইম টেক্সট",
+      "নোটপ্যাড++"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "aa51b45eab9600c3bd1382d628f3cb9e83c4d946d81fc8cc2df79e37e9df6c3cc1f277698dd582a7c14ec6159ec8a21aa1b9437443c341b138c6f2533e56be82e75347acba0d3c29830df88d16d242977a3f7e8be64145d78f59acd40a7120489b7765d466229d02a63eabdff08655a9ea8f862ef30ac18f5c11aeb47cfd137cdab0ab59289544201295df6bcec9db10ec9c3f9ee03bd81d47030d2e7a9b450d753290a398f6410cb477d7335aa8f8b30cf334a4316ff20870db1f1de82a97bdd5ea3d1088c3ad9f4398a7afb2"
+  },
+  {
+    "id": "htm-28",
+    "topic": "html",
+    "difficulty": "hard",
+    "passage": "<html>\n<head>\n<title> Notice </title>\n<body>\n<h1> Result </h1>\n</body>\n</html>",
+    "text": "উদ্দীপকের কোডে কোন ট্যাগটি বাদ পড়েছে?",
+    "options": [
+      "</title>",
+      "</head>",
+      "</h1>",
+      "</body>"
+    ],
+    "secret": "2bd93c37eeec9450e5022b6236649ef7334269ed84a8214514e65f7108dae3e8ccc87aeaadcbf80e40374211f0a519836ca0d96cdf4bf25f6ae3b3f936f59a8c42deffcff672b4e89b516cedd0b775fbaff033c70d0c3020348fb518d29bde857dcf770f911b53993170e1a11e7119d6218cc84d5103bf818f6ba74738d83e20b7a7995c51b70b4d4992c19b0fb393eb94af9282b5f99ae30500120a8f8f962fe0f0d43c69fb6f29037d891fa55a60fdf515ff0eba5ec765b32fd4fd44f4a81ee3577e1ca45f858f3c61334763362a703790b9cc658f23c7496816c43c69d102c3d039beab5f0ef463951f234c66da1232f09ff96173f7eab1f2b1a2"
+  },
+  {
+    "id": "htm-29",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "কোনো লাইনের নির্দিষ্ট অংশের রং ও ফন্ট style অ্যাট্রিবিউট দিয়ে বদলানোকে কী বলে?",
+    "options": [
+      "Inline Styling",
+      "Internal Styling",
+      "External Styling",
+      "Linked Styling"
+    ],
+    "secret": "46c26a60d70027754e6f29830a89c1b4ffa4dec4ad5138f5cdce422bb6a28b9b99e78bf8cbde38318bec6b7af98987d0d422e9e54b4e479ed6b2bf55c451db3f9096c2eff9427daf398d1dfb1b12156aabfff19d2e060190afd49045d4b4ca1683a228f31643efcf30f93a69cf601a1280da7949351d9792ffe53cfeb845e1e01f23c2ee12216bcf3494cca9d3c3216bb92b1acf973544e907f29a298d4f49d472ac8767c671d52c16ae2f3326e919ac26edd903c3a7f9e35002761026ed5ca0d5f460b7a95cf1db417073dca1e607b15588d08b7aa0cbeca70f55f14782182c2efc395aaf122b928ba075c72592fe81415776eb57b72c152537e7c8102e67c5fea92d3975e8d06a559243e5"
+  },
+  {
+    "id": "htm-30",
+    "topic": "html",
+    "difficulty": "hard",
+    "text": "style অ্যাট্রিবিউটের সঠিক ব্যবহার কোনটি?",
+    "options": [
+      "<div style=\"color: red, float: left\">",
+      "<div style=\"color = red; float = left\">",
+      "<div style=\"color: red; float: left;\">",
+      "<div style=\"color: red\" \"float: left\">"
+    ],
+    "secret": "811f5096f34e581276b4f0cd4a80dde5e058078afe891dcd228ca99bd86fa38285fb4d8835777f6c7578d034421b94c9605ac1dbd8e2affa32e4d5fa0501a5fbac5cfd148ff56c4af5bbc5a3477bfc577e87ffdf0cc4d1f1d6150d6e1961eb621879c9c249e6e23b3c7d3ffb89dbc502cb292809de5faa4b4d4af9689b2e9f098b9c408f534c5339a8aaf4867f2c40ba76003480b4835989faccf93c70d05e4fc688de626c39c6dcc54f6df72358c9c65757e402a6284dcd7ac0dcbee07eedf05ebe21c82c6cf64b25d813ffaa4d096418bcb58d07dc6222801cbcbb8411857aeadaacf00c9e729c48e5816a71f166020485330ae668a266f1e2eae99a7c65c512b5b4fcfb07d8968af20597f335b38860f629971e108c8db166825dfb5fbe766bfb43f4e0a94ca119518d35950622e90f6bff76a232cebbabf4ee53bb2da1c7a68c30c52364e9227e93de781e0731100db2dae1"
+  },
+  {
+    "id": "med-1",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "এক পেজ থেকে অন্য পেজে যাওয়ার জন্য কোন ট্যাগ ব্যবহৃত হয়?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<li>",
+      "<href>"
+    ],
+    "secret": "97acb1dc464cdfe7b03dc834c426921438e908d8836e9d6d3b30ac98f18b566f56879b55db2396726c9927a59eef250ee5dbc3270b49a006cd15b708101a382e41868de319628608b9391b31feef80df6376db7249656e9f7fe049ff8a54311875cd06b66b9c859e0ce8c1546e9e448175651fa179accb25dd2bffbb9846f219cc91a4cfe755d8b12eb8dff4548c7f7bc7e3cdf74794b62ef39cc545583c245cd388e9ceab86693cbb6a9f94679eea48c1483646a6099b3898f28191fc6cfa8ceda95081b2b3065606c22d0ab9344877eab43285e724d71e736962f9ec3374975f27b2eb47591247dad50816aa4f8b2a076cb61dbcb569de05656414ab426ca566542bdd5d0a69c3ba55169ae994183d3935fefb752fed29d9353a26f457c1d67dd63acbf15550a71991e31a7ad42770151f571f46899a32fe4cfc61b424578d760a2f31de4c1c761ced54c308231c95a8a84828"
+  },
+  {
+    "id": "med-2",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "href-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Hyper Reference",
+      "Hypertext Reference",
+      "Home Reference",
+      "Hyperlink Referral"
+    ],
+    "secret": "9a230c040e82af2f5efee9a12f65824e20d7dd084d0ec19bce9b75afbc9ed6d74fee6a3c054c3ef92e6cb87c167fb9c5b88dadebe92de28fe768528b3fa132e2bc1ace0d63a415976e4bef320af8f332cea111bd1decfdfe0b8a1382ced35dc0198ded31c6494e72c86909e0655380347ba1d37fd50ccf8e8eaa70f4fdaba18e09cc830488c059036670be85a53885ac756f3a951ca5a2c50daa699803001c66a2ffc4ab347939a741ebb8dae5c0105d5f37d0e992826557c77f2914f363e3c68860c29714fedb60b10f1b70359e236d8a6decaf09da904c81db58f8622bce379bb199f1eaf15a8cc146acf5f19ccd1fbd716ad99d67c8"
+  },
+  {
+    "id": "med-3",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "সঠিক HTML কোড কোনটি?",
+    "options": [
+      "<a href=\"result.html\"> Result </a>",
+      "<a src=\"result.html\"> Result </a>",
+      "<href a=\"result.html\"> Result </href>",
+      "<link href=\"result.html\"> Result </link>"
+    ],
+    "secret": "3fa322f4ee9b3906d8af09c3f792a91060d28feb5e9c4c46d8dc8f5a9f57be5b23f3c19526d67bffe798c9dc03115564ee79ae7ea3e17a5ce5941288a42d57b69b4a32c0ca372d0a3b78850b471883c6104b2ad5e7db57062a2a83372edc89ecec636c9fd7c13fe845211313550fd5bea24a266fb8f487fca86370eacbc2ec2ed6e8db70096aed033d7df056596e6bc256ade1573ba15eab521137f19a9d92622fdbf9d4a7839e9478e71ec554eaeb5d884dc582773274f2b7b48cb5ebe7d0ec0ba8b590b95ed7c9bc2f1689db"
+  },
+  {
+    "id": "med-4",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "<a> ট্যাগের সঙ্গে ব্যবহৃত অ্যাট্রিবিউট হলো—",
+    "statements": [
+      "href",
+      "blank",
+      "target"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "17666f9dcfcc68d30ff367b43aeedaad2d2661c74bb7821bda838a4f84e2098b24a47e5a404a23d15f47fadabcc0b8dca9c54b60e91532c0ab8e42ab613a11ffff7410b9b0d4f1825886caed89c81defc2051d47ae2acf0358a2f5eac0dc537b058d530685eb32488967d64c3c80efd2c40cbcb0859e14f3c1b4a6836a70c5a5abda1c49fbaf0d725c277250f31d3a8a7cb64c806c754623f3f6a20677efab755ad1eda6f0bd02ced63f4b7834a666b5fa2622c97ea77508994bdf125db57689b94bca9fe4d527e4c120b842ec57889a3fd48b6f592fce"
+  },
+  {
+    "id": "med-5",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "লিংকে ক্লিক করলে পেজটি নতুন ট্যাবে খুলতে কোন কোড লাগবে?",
+    "options": [
+      "<a href=\"x.html\" target=\"_blank\">",
+      "<a href=\"x.html\" target=\"_self\">",
+      "<a href=\"x.html\" src=\"_blank\">",
+      "<a target=\"x.html\" href=\"_blank\">"
+    ],
+    "secret": "ac31373bb7142ebc0bb1d5d4d01dacc4653603bf2954e9c217d90eae4ccd61997181fc14d72800d82af2e896c59818eccf3411ca67a813b584039ca91666718d26a337d2753a916e08901d59ff3c69dbbedfa33a18fd0c6e53fcf06838e34b693f3074bbdb6c402c7ee49bf84189bae7bc3e44931eb13f3e8edd03c8358ec69ca20204836a22f11e701724e92496fc493f188cdbb38ea1c055e87f12ad67f85f9938c7b8ca75abb1caaa8e26d142a1f6a02a4c8bdef1f6d2f5e8efce9c19fd0587219d6d648806e5af83963c43ecb3a782ab50fe1488842eb6ccd29eaa"
+  },
+  {
+    "id": "med-6",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "কোনো লেখার বদলে Pen.jpg ছবিটিকে লিংক হিসেবে দেখাতে কোন কোডটি সঠিক?",
+    "options": [
+      "<a href=\"pen.html\"> Pen.jpg </a>",
+      "<a href=\"pen.html\"> img src=\"Pen.jpg\" </a>",
+      "<a href=\"pen.html\"><img src=\"Pen.jpg\"></a>",
+      "<img href=\"pen.html\"><a src=\"Pen.jpg\"></img>"
+    ],
+    "secret": "9ee89cbce767a7fb2d060b76d218502ac7e7e179560ee1b45d7b71961f340662ce21f5166824f4c849cf1e2c5b3e2405b79a7b37c626773dd3166bd8f9ae45e06017c6e9ef51e4c561f2464abf384408f6ecb94eb1d1b5a5d1c6be1d4e82f9c4853a866878cbbac26c11cd9565f19c5cf7599fa18f176d85a1f1edbd94901f5dbdbfe5df4159556cc0eb4c1986b084c5714817a6f30bda05e8103d0759be1ce40fde3887a4e95c8ed51f53f600b0b9923806d5164da3a50b0e0f206799112ab7069f374469c196bd502d889fd4920781f864dc29016b0561d91ed5ea072e966aae6a6289e1e40b7c4c68d82b1c04c8adc0927ff7a2344c7e2c9f2db5d58705e42fa7b6a443a02f58aa5affc839281c8b3af44adf3e9e5398421446362dda12a112674d86abd9713b4a3b91fce80af46f4f10b23cbb81846e0965500045100f019e627cdcac821ca95abac6a00a64594e1f4727d6c29559db8a8bd8114b1a"
+  },
+  {
+    "id": "med-7",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "হাইপারলিংক ব্যবহারে সুবিধা হলো—",
+    "statements": [
+      "ভিন্ন অবস্থানের পেজে যাওয়া যায়",
+      "সম্পর্কিত তথ্য দ্রুত পাওয়া যায়",
+      "ব্যবহারকারীর সময় কম লাগে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "8b4d80497783e5fa6cc66a552179bfe814b2357b445d303aff67b9df2d43ef8be7326640d89b4f0e5cfc17c8b16931e1ad5d79c95c7ebacfe0f1e2924651170fbdc8a9a365017e56cddd01130383626fe9c5e06d2c1080d45eb1e9fdeec3e4b9baa96880df7711993590cefaf5e1ab75ee45dc76f1cf23ede16ec955c55a1ab58ed1e6c6766c47e92cafc4dc9364a8b78a57d2bf4a57aa00c5cc91a2c760451ad5182549be9c3a8307a751243c89f0fb5e2ba1059ffe22bab36049d10b8e2831dbeecff424b87729ac15229761d6d9f97335813412d0d4280c7ba15b5079746f8114f27d62078c4ade895c8efa377d0af42a37e04eb59e7d801e7865c8c28319ba236bf5ef87a29f0385902f357c97"
+  },
+  {
+    "id": "med-8",
+    "topic": "media",
+    "difficulty": "easy",
+    "text": "দুটি HTML ডকুমেন্টের সংযোগকে কী বলে?",
+    "options": [
+      "হাইপারলিংক",
+      "অ্যাট্রিবিউট",
+      "ইমেজিং",
+      "হোস্টিং"
+    ],
+    "secret": "030ae025b0ea2828022b564897db71b3b8351bb019441bfeddae8c5d7424e989b3bb1d20cd18d3a0a2391985b3beb917f2a2549810c7c20811821b49d1150958ba3ccefdd8209e31d0a0ea3c3512d0ca66892624ebdfd8896e8c7bf9204bac24d976dbefd0631aef87e6ae79633ef624a3537ff03587f474b58aa35f6e8637a9b710ea51af553fb1b7386d7534ece4690eb78dea8f246623c3ba11f5aa18c388ca57439b06de30d1ccf98d23c332ee50001e06a175825b00629316699bc3e29dab2c602921a79a0bcebc07d15635bc"
+  },
+  {
+    "id": "med-9",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "লিংকে ক্লিক করলে ই-মেইল লেখার জানালা খুলতে href-এ কী লিখতে হবে?",
+    "options": [
+      "mailto:ঠিকানা",
+      "http:ঠিকানা",
+      "smtp:ঠিকানা",
+      "email:ঠিকানা"
+    ],
+    "secret": "ef14fb036f427b4246241b61b69b3ce00084910af97516d77b38c6d0815f0dd351545bcb9dc55319311d6292ceb94c1c258482fa545dfcc3c00d89a92fd7b1ad5f3739551a725f27f3271351f05b475a7eb59cf10544bfdc3b48f1e45b6b565f7365e5dcba4bf867d8655ca047646edba96ec95619e331136706871d1bc0493835787e1791ce1a8405ca0dfb8870c75d9ce97b51919536ec7a330d285e772877de7a1207b19258ee2d9892571f1b81b2a1eeb66bb502fdce7a"
+  },
+  {
+    "id": "med-10",
+    "topic": "media",
+    "difficulty": "hard",
+    "passage": "<a href=\"#part2\"> দ্বিতীয় অংশ </a>",
+    "text": "উদ্দীপকের লিংকে ক্লিক করলে কী হবে?",
+    "options": [
+      "একই পেজের নির্দিষ্ট অংশে যাবে",
+      "নতুন ওয়েবসাইট খুলবে",
+      "ফাইল ডাউনলোড হবে",
+      "পেজ বন্ধ হবে"
+    ],
+    "secret": "f01d87520ea67cbb383ae073cebb01ecf0e35f43207af9cb2d43c2e89c88bbc6acea29fccb03cb01812f686882bea07744b49d30414d3c0cd8d96c50645c371037e39970472a281e94681a3cf9e8d32627741def60c32f41745201441d33d21c54b7a3d3b356d35c866bf29a31931133955a0139eae328a59c9520f38c6abd80fa4dbc891e7927f1e5b7254e31fa4b34906480e3c8d3ed9a9a04d61957d9ec615f0fe3a99064101e6a7a0d2291e49503363f0f3e7f64349e5ee7070bed416f9b"
+  },
+  {
+    "id": "med-11",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "ছবি দেখানোর সঠিক কোড কোনটি?",
+    "options": [
+      "<img src=\"rose.jpg\">",
+      "<img> src=\"rose.jpg\" </img>",
+      "<img src=rose.jpg </img>",
+      "<src img=\"rose.jpg\">"
+    ],
+    "secret": "2dc02328f584fae163ebc006f565ae668e7774b523cdbf3e6c7cec4c13c96d639c39fa6d788321b301639808b92c90a9617b59aeb130e005d25a4d63ade740128790efaaf1999ec2244c348ede52151b9f6e38d55cdc10792618a9d877eb507f0ab234d4aefa3535f9dad45ef1623cc0f0d3ddb0f1e909c33cf2479ae2da04f74f243c34d95e50c94fdaa75012649219f92a7eac2ea97eeccf7938666b33d7f075a1684a67339cada91ef4bc79ed5fc64f0d397098dc0fa6b61fa7d44125e5014fce598bdccc82507ef7f5d08efd1d1d"
+  },
+  {
+    "id": "med-12",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "700×500 সাইজের nature.jpg ছবি যুক্ত করার সঠিক কোড কোনটি?",
+    "options": [
+      "<img src=\"nature.jpg\" width=\"700\" height=\"500\">",
+      "<img src=\"nature.jpg, width=700, height=500\">",
+      "<img> nature.jpg, width=700, height=500",
+      "<img src=\"nature.jpg\" W=\"700\" H=\"500\">"
+    ],
+    "secret": "048fb2c31bf90c8d081b288e7f56abf47087e7194130f1e24080d0a3727b192386e1ed6211ef636dcddbeb3a4a2005d8d43e01d2c724b3ff6bb5dd3e4d98a7e9b8ecb0b1d1f2795b8930960d179a73aa47b6a4c92357a5fb19f60416f681a6796d0240899c1274a0cc593d90b3449d2c31e60f4b45ea1f4f42f3f5f1c21d0e20e4a36439cc3724d3cefdfd5ec759011ceec75e54ad34fd4ca22a7eb3b7feb0985ee5b929b48523a8b39b277e2580ecabf9abf71edfac45ac52e795a36e1fe2f511b08fab3af7af58e557ecd572d780d6ddf2e0a729dfb0e92b01f9203d688365d7da3d5de4bbaafb99469f51333a63f4fd4d4cf561147fd34d99e9390678ad185d8e076e6531475b7bcb237b53924b6d01699c2811d6e5886e1ea9ea0704d532d3adb30be8a04c62353e2bb91d5d7f490f2115422c6c50b2c1d64fd8502b568b5f0e8f56420dfbe5c927f6a5853a8e7fb19d2feecca0404b1c3df7"
+  },
+  {
+    "id": "med-13",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "src অ্যাট্রিবিউট কোন ট্যাগে ব্যবহৃত হয়?",
+    "options": [
+      "<div>",
+      "<a>",
+      "<img>",
+      "<span>"
+    ],
+    "secret": "7a8752714c160ef3fea7a95f86cc523bfdf29dfbd308fe0165bd34ec6539d505152aec8bcfdc22729706367782d454e6240fd2cf7cb5a53b455bc2ac4e0519d49ea64115856317c351c56409471b35cedf037c2e174e58ebf79c61ce45be85bdf5fe720b1a3b5eef8d44857600fa953ba6a04ed1397558517b0e7e7d45e441ff997fad38b419e582bbb4f930dea362b4355dc25f6d7757d5810031fca87b7b225201827b04fea68f3869c07484fbed9143a26b3c6b381e2b600861a09a35b10b8fff83f66200bd956cb59b8d4b8a9c78e6be1f9f463a"
+  },
+  {
+    "id": "med-14",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "ছবি লোড না হলে তার জায়গায় লেখা দেখাতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+    "options": [
+      "src",
+      "title",
+      "alt",
+      "align"
+    ],
+    "secret": "d0e839d04ab5dc78407703794ead30744ed779d4e7f117f43abdf96bc1207a42d8d81aa9f0556ad7a4f0e8b7ca62a66470c9cdf8fcd5be677850cf2c43fb41f100bcf9fe45d5cd1123370aa28ed00324e0aa574cfa6f3e6d1ed890b8a88fe27497903811618b6945257bbf8adf4376f0e3094f7c2e06db8c34b37cdb18e8f5504f1f616f84e10fc9e4a41dfee2edab025aa938c75c86fe98d8e82c5fdc97b020b0d7b53af07142f7c0f18a40f6f68a6d6731c446621cead4c96e0cb65b991b8c581516ccbf3865ab6474641c3dde01fe0bf562edc8f50c951dc383da862ffe8159caaa8f8e9f3507"
+  },
+  {
+    "id": "med-15",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "ছবির ওপর মাউস রাখলে ছোট করে একটি লেখা দেখাতে কোন অ্যাট্রিবিউট লাগে?",
+    "options": [
+      "alt",
+      "title",
+      "src",
+      "href"
+    ],
+    "secret": "08ac6ef7d3d0bc7e529ee3ab67fb3b59ce7a8bfbe4575f0c0668e3cfc6396cfb0c10dde9a4ae06c6910a8c60f38cb8ed54c34a20f9b506c9424edd56bcb906ee2eda08feee7a682a4eae244c256226e02513773277cf893c19be028de2ba7383143a2142b34d41c5fdf7e903b4b9b89420e56c9a8f0fc89c24d3d0c189fb22a5892d12e0365c2bd399dda57a77ac24692e7e624731425bc73d79e34eade32afcc9575ad02831b3e87f2de92e5a188c46cb113ed4fd472ab234a6b3836f7376a005404b995bfe5531ff79cf5ea8fea11785b918c61213e6a896cd45f9b7247370d34bb837d3122e05c8b11c653f457d8f869dbd39b6009e2b9894be9f3a928ce9bfd32a3f85fd4909733180d1d0df6036bceb3d9eb0"
+  },
+  {
+    "id": "med-16",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "HTML-এ ব্যবহৃত ইমেজ ফরম্যাট হলো—",
+    "statements": [
+      ".psd",
+      ".gif",
+      ".png"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "4d44aac0659aacb07a4da1b3097d34f02efd3b52e04ad4f5706786686bfbc770037d4aa76f3d1b3b0bdc35dafa5a422f78a1c18012d1435486e1af8531a74aeace21a29b54ac9b979ed6abee1bbdf61d32bca3792dc0160f7ae7459536ae08e92e1642c06b60469f07b8ebb7b415f0fbef62f2387379f600f8c14e89220fb8955814f3a89a133670b714ed0ce88c2e56b46957681a413fe2441b356ad59faa7134da3e600998e266a8ac3a0c9f4c0b2fd3c1da61df922e6fb940bc9c8d17a0437ca5b8dfdd41f8f3a41f5420d2e7f748ecaebaebd6e09bc2d26a"
+  },
+  {
+    "id": "med-17",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "ওয়েবসাইটে ছবি যুক্ত করার উপযুক্ত ফরম্যাট হলো—",
+    "statements": [
+      ".jpg",
+      ".img",
+      ".png"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "fd43f7fdaa28e721dab63ea99a5f2b2448c1ec22c507bb9b959457ff5ee6dfb693aa12ba7efa602f74fdda8aedfce0ac5cc7062eb5e857e0ebfbcec0643fa8df50bc6328b7d55b6f5f58dff65b3a49429d08a0dee83853204ee8651279f15a23ababcdefa341a8a63facc271c63428a606e1c98214b0fbc1531d75df0cb9ebd9ed299cdf49bf9d1aad23681d032bfc7e3b987a83c4db3489efb09af2618c907f3e4f1c3bf528c29a5889af7d49795e537d5824104930c671fbbaf5baebab8113df47dc09372e3ffcbcb59aa2f326b8045e30643838ffb04759f1ecd0995493ae700254d8a8dce1afd992218b7168eba2b0ac2dd2b517346a8fc760965954"
+  },
+  {
+    "id": "med-18",
+    "topic": "media",
+    "difficulty": "hard",
+    "passage": "তিশা তার পেজে <img src=\"school.jpg\"> লিখল। কিন্তু ব্রাউজারে ছবিটি আসছে না।",
+    "text": "ছবি না আসার সম্ভাব্য কারণ—",
+    "statements": [
+      "ফাইলের নাম ভুল লেখা",
+      "ছবির ফোল্ডারের পথ ভুল",
+      "ফাইলের ফরম্যাট ব্রাউজার সমর্থন করে না"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "5c584b0a4b475ab593a0ecdc88cdac747c2dd632c0925981a71c1c215581b33f78e1dba631d6bd8af7ec7f078dd62a537dc27b0b6bb66e8aba470dd6f37def6a51e178f0de9a227edd2e2a9a2e33af24d567f846ce0ee63a7b6589e0bae11cd846246110e5403c57763fafac3479bf7bf10ca0dede9b0f3a66eaa2b1776f1e790be3cc1653afcd3d1d3b02f31a69491a1841f5db9d3a638cfaa0c97f846d917c2a6acd11f03eef11f57ba8e46d7c2666b20dba0c796b1eb6a68bea945a7ddb729a7d1e86d571abde04a2a5b5807daf783619900b2b5c152a04ce3df489a37ba1d41a31b5bae673d461b484eee03162f01e6d83cca4ef4d16830210488573fabd413e408cefc80848f53d614055434fc7252c0c97e21b722f431cfdb7a200ad30258407b5820ea45c578ccdd8c2e79a23888c39eb23331cf8389c13798980"
+  },
+  {
+    "id": "med-19",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "ওয়েবপেজে ছবি যুক্ত করলে—",
+    "statements": [
+      "লেখার পরিমাণ কমানো যায়",
+      "পেজ আগের চেয়ে দ্রুত ডাউনলোড হয়",
+      "পেজটি দৃষ্টিনন্দন হয়"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "1012fae8289eae530ca191368bd1a8353cb11415747861b24e7307ce4b099d13daa081fc8ab00c6f42ea0c5aa980925582622bfa71492f7caf30622c0af4d48d96c6d79aa7e11c6f4faad0ba1d0f0c4ccf007904e19308889500a86b6c71f6d9a3845a22af1dd2f02151183b5afb8c0e8004d3bd0d20684c0394a468c00aaa1de81b99987b8b494bf6d9665cd86145507bd20884b23aa12840130cdbb578387a9094833248bbb4d5629b90cc14939ae6c68aba575b83bda4c63c96211f85f8e7f28309f42c7aa5c0a31abec9f11e61e439ec7ddb485b03995100f5d1114cff381c9c571fc7977f3a7ce6f22f6667d1160fce26b78b07d47e2f5d5184a5212c8783a40e1ad88627a77e4552bce68acd860f38"
+  },
+  {
+    "id": "med-20",
+    "topic": "media",
+    "difficulty": "hard",
+    "text": "পুরো পেজের পেছনে ছবি বসানোর কোড কোনটি?",
+    "options": [
+      "<body background=\"bg.jpg\">",
+      "<head background=\"bg.jpg\">",
+      "<img background=\"bg.jpg\">",
+      "<title background=\"bg.jpg\">"
+    ],
+    "secret": "cce698fb29e30562bfcd0d37c9637cf30a3a2ab7621f6ea7408f8d2643da402be578bdf2648399d5ef1594eefbef050f69e9b640bfa9b10757db3a20fb44e5b20a70475ba6ce0b6c747ca9011fbd55a51451cf531c11a1aaf280389a04dbb6314405ebe4e6d65ffeba343e3928ae50209a59ddcd24bf575e16ca690d6a69a0c939435eefdb85da0bf4babf771b0529bd991215cee1639a5e9ea589b9b894bfdc9aceae774734badf8e07ed319edad95c10d7ff53a77fc30f67d823c147fb3ca19870e4195bb6362ba2777ce1ef57fb0493cf4f4a54000e3d90383e111bed4a"
+  },
+  {
+    "id": "med-21",
+    "topic": "media",
+    "difficulty": "hard",
+    "passage": "<p> <img src=\"Picture.jpg\" width=\"300\" height=\"200\"> </p>",
+    "text": "উদ্দীপকে অ্যাট্রিবিউট হলো—",
+    "statements": [
+      "p",
+      "src",
+      "width"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "290ba6a13d95246accf08bfac8e199145fae60d51ba87f8b57430788f855dd31e799747bdc6f3f2e21bc11fa70fa834531ac78032288be6f23a8b3d3f0495842982b12f9c6983a4d385b4917e850d2929bc936ce8d57b8b3aee4246cbb7326925528ae1176cbb110434a943ee83668134ccb3cbec09824e0a481467531dab3df2cdccc8fe4128899f6a36bf830c6585af908776ae92b4385bf408f84ae44"
+  },
+  {
+    "id": "med-22",
+    "topic": "media",
+    "difficulty": "hard",
+    "setId": "ch4-med-a",
+    "passage": "<a href=\"shop.html\"><img src=\"bag.jpg\" alt=\"Bag\"></a>",
+    "text": "উদ্দীপকের আউটপুটে কী হবে?",
+    "options": [
+      "bag.jpg ছবিতে ক্লিক করলে shop.html খুলবে",
+      "shop.html লেখায় ক্লিক করলে ছবি খুলবে",
+      "Bag লেখায় ক্লিক করলে ছবি বড় হবে",
+      "ছবি ও লিংক আলাদা জায়গায় দেখাবে"
+    ],
+    "secret": "63f4f7fc4112c2a7eed86c1b521e88ccbfdb0f41749a8412073a9a19fd3772eb22f1715c4cb3cf267a3d9621bd92ecd7afa4231213720b9dc24d2d1db40b920b5f922d19875bcd5e1f508278cd733efcae4a7c366d1e808de05bb1f38736680df5bd7274b823d3ab617755873b2392143b7502f8e62205684b4ebefd70eff2ffc2ae2f110032ad7cf81d44606d4748b587460df98d7cb36120d702a0cfb19b8804757ed27dbe262e09f55cafbcc888a964bf22fd7b0243ab5976b9c77c1041633e01e20a3c093aefdac60f31e7889d6a21d1cd71f2eae08ee905a990b034441f0ed001946b504a5bea8bdc5b4aabaca1d4be66ed0ec124e3a00b9e9975"
+  },
+  {
+    "id": "med-23",
+    "topic": "media",
+    "difficulty": "hard",
+    "setId": "ch4-med-a",
+    "passage": "<a href=\"shop.html\"><img src=\"bag.jpg\" alt=\"Bag\"></a>",
+    "text": "উদ্দীপকে কোন ট্যাগটি এম্পটি?",
+    "options": [
+      "<a>",
+      "<img>",
+      "দুটিই",
+      "কোনোটিই নয়"
+    ],
+    "secret": "01a848036eb1a8ef99b99db242f623b4bb4f4106270a084e1e792f7be28f72b354653a9c3b20b322d8d3f4181dcb0725f9a766619339673b0603cdb8ff15eb8e3b41fd54ed1da4e871350aadecd64175fe072b11facda6033360697af70251457228f39e92e7c9b595b74bbea6de07e3e7089a37ae602230c976698208baac8855334f3df6ba51cb5dfd534536ba9675cad2d834d5784ff03f0edb1d4efa13d2082ee9404b9c2ce957d6be43aa90365ad228211ff7132c51e831351bfc42143718caf9f454434a01999b38dcd8dc0eabd0bdb6870e"
+  },
+  {
+    "id": "med-24",
+    "topic": "media",
+    "difficulty": "medium",
+    "text": "ওয়েবপেজে ভিডিও যুক্ত করার ট্যাগ কোনটি?",
+    "options": [
+      "<video>",
+      "<movie>",
+      "<img>",
+      "<media>"
+    ],
+    "secret": "82505690f599f819b437d2010ffdb55164d27c00eac5c2462f08c5eba3b16d902bedaceb5d46161141a84fd372d4f048bdf454aeaf3198f2b8fe7bffcc2c3dddf2bc341381ce5981bc5cd340f10dd473081591d7a4017d81ccec52e347391a20a05054ebe17af4a173cac1466b132132c8d8e3a28aff4f7079a39f4badcc6640c3d3d80046e505ecb94417be25b0df7d554959454246cf8a18860c3ae6b25d2d8459d3d4b0af72fa642b0f7e99"
+  },
+  {
+    "id": "str-1",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "নিচের কোনটি ওয়েবসাইটের কাঠামোর ধরন নয়?",
+    "options": [
+      "লিনিয়ার",
+      "হায়ারার্কিক্যাল",
+      "নেটওয়ার্ক",
+      "বাস"
+    ],
+    "secret": "38c8a43fe636d5a1842335c86aa6f106ec1a051cb54861f1ef233d2e20ff3ccab3ff46fbfdbe1a65e9222ef5b85a37f35c19a3aade2bfec2615241cf0a1b049dc1cbf6ea3445d69353cf5f11b4e9ec93a1c2b6783eb5bbad9fc50fb795dd0712c70dc3476679c59576213c6a6b00cd0e95a4473dad8a88fed063eab33dad8bdbe9d0598ee3f1daa03539aea97bea4c978df4f0ebfd59f87338bc4d71e97888f438bfab14e145751cb0b5882b64405cb4b69bc35b3524c046202a6dfb07befc6304e75879962da3a31f3ffd42b755e294999c4c53dd369064e4b0467f83a392f2325af71c6853be9bd6eb93a75d1dff37039b104e2465348775775fe98404407265d056d61d58263b7743bf68b5b6c5049829f4d8b0a1e9ddd599a763a4d1261fef12e417f8fdfd06c969980dd9f71a842208b2bc52ddf48448497a882fd09e53d8371faa8cf628dce01b09e5aacbee360a46a6022882a46171af7d1a42204c5f4b1faaa2176702c3052d1a7a70a208f7eef0162ce680685d9f"
+  },
+  {
+    "id": "str-2",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "কোন কাঠামোয় যেকোনো পেজ থেকে সরাসরি হোমপেজ ও অন্য পেজে যাওয়া যায়?",
+    "options": [
+      "Hierarchical",
+      "Network",
+      "Linear",
+      "Tree"
+    ],
+    "secret": "5c4521129ec9019bb96994ef6d522e00d1c10b847ee21c58043437b06324341a862b69a553ea601f49bad0a3269910a88a73ba20b9c988a0adab55b9ebcc6d23fdbd8a70d0bc05cd2f2bb21525254579d247565e66049c058a352410c1c2591a7af3df60a7d625143712ab40cf0706e277d9cbc214f6bb948741e1f7a609bb05964993ca3322b04526da75f3836b1756bea47208ce59a76761fc5c50a36d590d9a527d965347fa6351c155ff06d70f0cad4dae7010a25a8586a1418bf08c708b3a2917ba145a1a37cbe2449e7094ecdfe045789085fe5720c8f4251013aa57d39a540863e3605e9fff26706dd7fe21b8c272e4cdd636110973d4ee6ccb605f2f1b26f79ac92a9917accdf8a7474e64f140e5258eee77d61db626c90c2a312629e3dc47a00b788ec1fee016ba9cda5abf39f524f0b03f4ba726bfaca779352a5f9ab2"
+  },
+  {
+    "id": "str-3",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "পেজগুলো বহু স্তরে সাজানো থাকলে সাইটটি কোন কাঠামোর?",
+    "options": [
+      "লিনিয়ার",
+      "হায়ারার্কিক্যাল",
+      "নেটওয়ার্ক",
+      "ওয়েব লিংকড"
+    ],
+    "secret": "b29979b2836dc0925eeea55149bfcfce10abab974cce7a475b81caa5099d61bb9a0cc3eeb39299eb695d56989381c298c803c7c5c3e1f39c90d2afee1ab770d7b22bd50fdd839c2a439f832da7a09057e06fa4a9357de04f6397eaafccfe6466f713f19f0c8fbee78c31ea95a01e1946921e098a8e0de489012e54c96c026b27b00a7161cf31071b13af885e63f95ecf3415553bf2585569eb0cb7c877a208f1b86ef18f901bf9d7eadfccca3786122494688df82124a19125d3c76770b66a54ce19b054d21d5361aa758f0c07dbdd777a5012a601572b978d126e9f339a3e3cda4e9ca11caedd720978dde9d181039fc21a3b5fee29c4bab84df8c9e43f53c878f725be680a3de2664a6c1450147312902b51b0c7e698d38a6151e817069ffe75f86ad3bdfb0534be4ff1bd33cc6b5c7f18ef2ba5e920c9d297a55f38feda7dc0bf85f23ed8de68e5abd07444"
+  },
+  {
+    "id": "str-4",
+    "topic": "structure",
+    "difficulty": "hard",
+    "setId": "ch4-str-a",
+    "passage": "Page-1 → Page-2 → Page-3 → Page-4 → Page-5",
+    "text": "উদ্দীপকের সাইটের কাঠামো কোনটি?",
+    "options": [
+      "ট্রি",
+      "নেটওয়ার্ক",
+      "লিনিয়ার",
+      "হাইব্রিড"
+    ],
+    "secret": "348935d2d3acb4b706c683cd9878ee8fa589ed5a4169d87abe0b6363e788674715116ea8d472fe0836b62daf56955ab9a667b319b90432234f801a88671ca2536a1490d4d53fb524d5f60cf5c1b0f03f3231f640a7a0f43d1d5344df01ad2be71fb57cd17c6883a8a2e551850707004eda97fdb79601add1e78c3aa2251b6b138bbf38a0e5f04fe785f2a9be93a441e8972715a6da5c961b1aca8c94772b897973bdd616d3a0920261d50486e1cb7c7d7169dd9b879bb3e9499c15c4b0aacfbad13b7b0e177bb814ef2fae922fd9be7ac6aa0da3a41f665abb15e44763cf369bf9ae97d7d6f9fda09dc7715699dfcba42d61"
+  },
+  {
+    "id": "str-5",
+    "topic": "structure",
+    "difficulty": "hard",
+    "setId": "ch4-str-a",
+    "passage": "Page-1 → Page-2 → Page-3 → Page-4 → Page-5",
+    "text": "উদ্দীপকের কাঠামো কোন ক্ষেত্রে সবচেয়ে মানানসই?",
+    "options": [
+      "বড় বিশ্ববিদ্যালয়ের সাইট",
+      "ধাপে ধাপে শেখার টিউটোরিয়াল",
+      "সংবাদপত্রের সাইট",
+      "ই-কমার্স সাইট"
+    ],
+    "secret": "b1e515863a1a2e241d4f9cc3d324991c16d2108631930d10aab1fd5967bdecf0b26558962a65d95f7481df85fa4b305cb9f36484ba23174f8f74b25cf141dc035b84ba04e140f98dd8e59a46f035b413ef1ff0f034d99de8bb7e229f8c3b1ad7e6f8b0bb8e282c51d62a32daa19d5ccb318fd77cdb3c8a590d9d5e139ffcd5b9076850972927158c424f950967e7ce88e382e6d02174932c53e238199e80c0561c9aa336844310b0be91698dceb71a950caec1070d6f045323599861aa38763381410b70a1a77e1b1e3e8f06ca3bfae072d108854a4f17ec24b53abbdfba26bf6ac682177e2c3de5cc885d62ca3284d5c1495f2643267703528aecdd6d15b2f1102f6ac2d1827f89b4cba507f2cd824be5d7698362dc18b898e7befda6223dc95ddfdc80f619d8aae773cb3424c61f268ab04ee8fdec6eacbf5ab327bf0d57479a8b8edc46bc598a26e6a9354c0983d707ca9d3a0c8d01b2864d694b58a2dd70a44ab15e60eab9cb0d5bfa6e1410ce6fa0c2b2aa89dae54f"
+  },
+  {
+    "id": "str-6",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "একটি বড় কলেজের ওয়েবসাইটের জন্য সঠিক বিবেচনা—",
+    "statements": [
+      "হায়ারার্কিক্যাল কাঠামোয় বিভাগগুলো গুছিয়ে রাখা যায়",
+      "লিনিয়ার কাঠামোয় শেষের পেজে যেতে অনেক ধাপ পার হতে হয়",
+      "লিনিয়ার কাঠামোই এর জন্য সবচেয়ে ভালো"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "a54f54535fe46c9fd09aebec32bf896d0dff1e68e8f73d03b5d73dacea19dd274c10ce335ddd81bd2ad66fdac1d213745fb8cb2e7d7207d9b486981023df2b669d29a6e04b80513bc9f8d4848cc7e3886dacb00c2859c81bfbda511e8f98248a4d3cc1eed6a23024ab3854e5ea40d0a374cf46c1740ec5f8b345fd44dfcfa2768b47d09f5eddf6f75beebe509e7e5afbbeea34e4fc7b7e3503005ab088f4bbe21ca3c8d6b1a8abb8e433440a5c88064fcbf421c995e9bdf34c55f4cbb2a255aed6da71be81d4486b5fba56511e81060c6be5f2f9a8baf8f58122de4a371e30c51c45931553220ce7f0f4a5bdb671642343534499fffda03f52ab3d1a94bb6a4a23fdbd661cca22a0bed838e9e846ee260e7f4fc021732b8bd4717cc384521a439e26580f2f1f589440e94822fef310032bc0ca2c304f9353468026f4dead41f34c721cd016773683646e1b396f5aa2f8614219dbcd0608fa197edb2bb82d9880773026dc5525fbec852912d757694a35b69894fd01f93246019056cea9d1abc96d29239c33fdc7800e"
+  },
+  {
+    "id": "str-7",
+    "topic": "structure",
+    "difficulty": "hard",
+    "passage": "একটি সাইটের প্রথম তিনটি পেজ Next বোতাম দিয়ে পরপর যুক্ত। তৃতীয় পেজ থেকে দুটি শাখা বের হয়েছে, আর একটি শাখায় আরও একটি পেজ আছে।",
+    "text": "সাইটটির কাঠামো কোনটি?",
+    "options": [
+      "লিনিয়ার",
+      "ট্রি",
+      "নেটওয়ার্ক",
+      "হাইব্রিড"
+    ],
+    "secret": "7113586b5d5fb7514b21c3bf087ebe31151a92e9da10384217b2c283e789f15daf92721df2a35d00b17f87a0f8dd4279b95d130d72619bac83d2c0968f5bd7efa275acbf79f5cf5d040414122794685d4b3d4350920e81422ae864b1e9715f365eb1eda1028f8fb0f827ea2601c5bd3a5f235aa38902467775dee455b5b118ed4b44de46fd82e3cff37f9e6bdbdf9b34f4679a84371a0928aaf1da042da370fc654d0a2f2040e1adc2c5cddbb484fad8ff6c0ee801021f16deb65a03b98131fc3069b3b2c0b4e5db36f480328cc4d6b1f2ff8fba9ee8655c5f1476e4799e5c7cf0de2ba8b312771bf2c5405e32d40b81df1227e361582be550d94ce644bc18e5d1fdcc71743eafd290e663ac0fa0bc692673d818053ebc77966d9fbdb5617ac61f92df4a1157bc8553506bed8f6684c6"
+  },
+  {
+    "id": "str-8",
+    "topic": "structure",
+    "difficulty": "hard",
+    "passage": "একটি সাইটের ছবিতে মাঝখানে Home Page, চারপাশে Page-1 থেকে Page-4। Home Page থেকে প্রতিটি পেজে লিংক আছে, কিন্তু Page-1 থেকে Page-2-এ সরাসরি যাওয়ার লিংক নেই।",
+    "text": "সাইটটির কাঠামো কোনটি?",
+    "options": [
+      "নেটওয়ার্ক",
+      "ট্রি",
+      "লিনিয়ার",
+      "হাইব্রিড"
+    ],
+    "secret": "9e70f1ba57f62d30790ec5d6ce4dfa258738e81372818575b0d4d03f7fe202cf85000df127e62f42ec35c13e1bb459ea15de76271350c83dd748acf72aa62cbb92de0b5847e2653e6f4b7ec52fffd5267d092767f003cd7c68a54bdde688ef23b66db0f1a155165b15931d087d961e025be4a8f9a010f7360b5878dad0c76a375dde3fccf34f069ae2275e45d871323ef315624cc3221bb0c58db99c13de9f9d6e7709b45b1863fe2f46bc4a953b9ae5073fb9cd4d743c7e412c5c176e9589ad49424f23718d18c44cf197796f0e8c8322bc4d2d0c4da9dc93d4bb623704ade2488a194918b987e76ecb53a44dea945baaec4e3b5856cc70b9da31d4ad8dc7f07e1147c329172494e54142ceda746b7c5201993c30f7867d262561a0b8f8194252b9aed97b0234b57f3e44a61e8c730037c293d22546c142e72c784e3951dc850c848bb5b862eb14b12555cddd8548494021e0c50c2c28600b4e315dca9ee2ff6d2c692840bfd17c0641a4ebd0fad9dcaa55d613f90ffbc5b00db5b54b3213b58972bde14e89e5c82d23"
+  },
+  {
+    "id": "str-9",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "হায়ারার্কিক্যাল কাঠামোর সবচেয়ে ওপরের স্তরে কোনটি থাকে?",
+    "options": [
+      "সাব সেকশন",
+      "মেইন সেকশন",
+      "হোমপেজ",
+      "শেষ পেজ"
+    ],
+    "secret": "db42a45f085fb67f9af90db68a4ff3a425e1aaef6482e9e542b46f62d5210f82ed5664ef7340d23ed665a6cb7b20ebeb2f47a9aa61b89993f1a6341ef37aa88093c6342dcc39d5095901285da2524e17a2afbfe4c883eb5879e1b81770d9944843e9ed3d6f5e07bd5f88019423f9ad416d64b942ced9be59970c0bee107924859e9e45afdf226b076c765f44b9393a4d4510f2054a13d04e19ba75033753718c9ada220a921d5114c71368356eb23a3a7a8d235f886aefaf48b32ae5b92a233f7c8bb53afa58b687386dde742dd312cfb83e1d5bbca6e60463a28e83a3c2864955eba0bf5ea9c01c3cde9c313817ddc8bab187ac3998f009317d6ba8b9037917a232746baf511d85b4268638cffcfc7b7ade22720a39e084d40aac52a157eaeef18bb05a5f70b83a4f8aa592f8b2844ac02d7619b6"
+  },
+  {
+    "id": "str-10",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "ওয়েবসাইট পাবলিশের সঠিক ক্রম কোনটি?",
+    "options": [
+      "হোস্টিং → ডিজাইন → ডোমেইন → SEO",
+      "ডিজাইন → ডোমেইন রেজিস্ট্রেশন → হোস্টিং → SEO",
+      "SEO → ডিজাইন → হোস্টিং → ডোমেইন",
+      "ডোমেইন → SEO → ডিজাইন → হোস্টিং"
+    ],
+    "secret": "15d94667fa25546b1b499fe4f6bcdaec3e7933e53436b9d344494ead4e3421c322e992610e0e8f0da3bb1a160d63d621a52578d78d7ed686c5ba95a5841faae606bea8e60905358b98965f45d4bd070088ec163083cdfbc451d422204ad88d1734a37076cc66b788e39f5c0d7cea95f9fe5d1f19f4fb9e0d5829f2b22414914de0f9f5563607207b34f4f945753892812ec5a1897470db6a2994b153d57c83ed1a13b94fbab0c2b1a6f2bdfcb1fb36186d820f3c7ef85860bd5ff6d5283f6ba2ed376ea17593e19fa699100a4ad3f56b58b62ece9e5641d6f0bd69b66ad7913a93e09ec37e9e62ce52a717205584faedbf76ed7b96f3086fa35d9cc1021dbdb428cfbc83013b514326cb10103f5a830987242fb4591e6fe5959be0c00ef09540c27b874187c4635462821b2c71d6cb62f1e8653f07750bbf4b1c30cb02a358cffe6d4aec686602053f9cff5ad2390a27fe3168434f7f875878e143ab5142b8fb470c"
+  },
+  {
+    "id": "str-11",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "ওয়েবসাইটকে পাবলিশের জন্য ওয়েব সার্ভারে আপলোড করার পদ্ধতিকে কী বলে?",
+    "options": [
+      "ডোমেইন",
+      "হোস্টিং",
+      "ব্রাউজিং",
+      "ক্রলিং"
+    ],
+    "secret": "9edc9e0bc5312d878630072263b52a3544761938a78ebdc7bf6cae96bb2a18c7916f753e25291f3b7e305ef3e786b0fa7b38a91587954c0d92fff961f5db557553d9783e2a0d7a03c0c116af55b3563cf940856786d8cacc728608ff1657cde9a46188999ffc952b362daf9ec9d5ff5fd965e5cb7f189eea0508df4bcaf488a25c396fe52cb0db442ba3639f4ce3c8c90ab5e62d32791c18545d65928589be86930b3701667c3f7cc43f3f54096d8245eca9a6d6d3faf09ce9c55990c70229ff92bdf158a86ccfc4eaf385205604ed8571853d202c2408da853da6cf3e33fb40f35d0953c8c632d8"
+  },
+  {
+    "id": "str-12",
+    "topic": "structure",
+    "difficulty": "easy",
+    "text": "ওয়েবসাইট হোস্টিং করে কোথায় রাখা হয়?",
+    "options": [
+      "র‍্যামে",
+      "হোমপেজে",
+      "ব্রাউজারে",
+      "সার্ভারে"
+    ],
+    "secret": "a4f2b705a377c7588029a5111aa866f87056046538c7b3904c39c35f757fb871ca8ed17782a5c54ef737048d9422331f2841ee284d832f5a6d742a814fd5d91fbe377deacd60f4116e0fad23b27409d218b85ae42ab39c2c48d344db4983654fa384574bc9dff1423fda2b29436670c185357b62c45e931fe0662f90ed2734f325d16a997eefe03fdbc459893d6a89c3104ae888534b7cdbda43da317ae58c7aedb3a2224835e61d508b44c06ec9d2aacd822b2bc28c015a7d7bb0bb2f40aeeb19b13473cc74726062288089d9c71038c6d9008ee404b0cad89568e0436ee7d424d589c048bf3f09164085e597d0aaf86f1984c281b3918721c812734a021aae93"
+  },
+  {
+    "id": "str-13",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "ওয়েবসাইট রাখার সার্ভার কম্পিউটারকে হতে হয়—",
+    "statements": [
+      "সর্বক্ষণ সচল",
+      "সার্বক্ষণিক ইন্টারনেটে যুক্ত",
+      "পাবলিক IP ঠিকানাযুক্ত"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "7625ed7b1c55acb9e1d0a5dcad36757222dd7c16542452274889af26b77cb050bcede4fd47807a45b62b2297dd7b97d641b3ff1e020a41ee293ecd09d3806ac744d61365726ab48deacae02e4a87db900a16891a7912dc9bd842e78ed8b1653ccd69210fc27be0d21faa495d00278690565bf1973d93349db9cbd2dfcdc211019bb9a268c389f3e2d72493e1920cd7dd92cc239f2618684dc175849a89ce7fe3fa95b130c4d930f414a83c6f04e4618f79a186c1c0015092a0dacb5d5f2b12db79958bbdb072245cdae643968d218e49a8c90f2dc9d202a5b51210903bf4a633532584c05b5ffa9dee0ff0cf26635a9182e3fc407ccab30b8206beb1b462d0b472db90b80c56598be60f94f9c5a31299325a38537135620902c878c23a0b3f4b689f994f46d1539880fad64de24aa3ae54a5c22f66a5768b0df04121ed6a020ab8adb90dc0868c10429c293f3432c58b44460624c5d65d825590b8e12838d55f1c06f973b2b06c15db99679eaa46fd134ffe52dd46467c2aa22c9cb3687bb66045758002bc13fb6440f8a2d52b38cd043cfe5127559128c7d9a2b77d4ccaf296ba597c2ba55fa2d24be8b6f4d83212796126e583f3f723"
+  },
+  {
+    "id": "str-14",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "ব্যক্তিগত কম্পিউটারে সাধারণত ওয়েবসাইট রাখা হয় না কেন?",
+    "options": [
+      "এতে HTML ফাইল খোলা যায় না",
+      "এটি সব সময় চালু থাকে না এবং এর নির্দিষ্ট পাবলিক IP নেই",
+      "এতে ব্রাউজার চলে না",
+      "এতে ডোমেইন নাম লেখা যায় না"
+    ],
+    "secret": "b69c4e0f7eca44f6fc5eb1a566aaf4b23140a06b43d34e70b31ef8134fda9d564d785f2f368b053b37fd6cae28accdff89b1ee0a0510995ee215163e83045c85d551987ace2b9fb8a3294619e07759e6699d52c33d36124dd4a4c022a61ecb8bbc293a32b4581b1f9399213276e5357e2c87e8b577567792c14b5769928e82a25ed45c20753d6ecb6b47615bacbb49b62bd0bce3102417f83ab7fcdcaa8bc07ef9e81f4d938341c43d0539a7e236207d837dcf8ead464cee5f1b7bd91f559f216899dca6434929f86051a96163f55cc4b51a2c7fbc43febe70211938322fd8b6498d1a86e941e2156418f158d31ccfbf13f4e34a71938e5b5dbc61657d90a65d92e337cc412353e60f456c711a8bc68c8ec3b016dc743c993d60e06a3653da686f6da453a3096d1116593fb107c376c6be5e4be6be7cf76619bb7e5026edcfb4067248665852a4da06571a828190160a5aa49d5b3fdfa4bbaedd718651453de4dadd1201c15118a8462a4c81ba44ba12f96a1832062a53102909c2855bdffec9bb63cde576e050a7db4e127e3e740054b034ced50fa4191c5f"
+  },
+  {
+    "id": "str-15",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "ওয়েবসাইট পাবলিশ করতে যা করতে হয়—",
+    "statements": [
+      "ডোমেইন নাম রেজিস্ট্রেশন",
+      "সব পেজের আকার সমান করা",
+      "ওয়েবসাইট হোস্টিং"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "db4175c223f898bd51b1e8d549470299d157cc1ab0daade58271ac4e69c6b51dcd10eec5a34192a3db744b595b05c929f75899a05cc0d2a8bbb639d625e46b294528d303f002ab7f551077381c5f300fff48c3b588b48b0940bcc50f1a3ffb6a423d3685dd88c1d07bdba01444f30a18138dd4de1e787b59793fb1719931ca6096b882ec65c1b72389c86184be06bcbb85674170854269300446ff3bcef84ebafc69e401491510113919db4b1eb11755c80e4e1a61acf9fbc2d60042750f326ff3fa9130274f399d856f8c3eb50ff3f3fa1f6d275cf5ac481b6934627a0cbbb61f994dcfe8749c9961699bd4931bc5500173f0a45f5ecf18750d82abe0"
+  },
+  {
+    "id": "str-16",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "ওয়েবসাইট পাবলিশিংয়ে গৃহীত পদক্ষেপ হলো—",
+    "statements": [
+      "ডোমেইন নাম নেওয়া",
+      "ওয়েবপেজ ডিজাইন করা",
+      "ওয়েবসাইট হোস্টিং করা"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "8eb49d96e63e35ad8b15d5eb860b7b849d4dbdcec1a8c18a97696805ee219c93b533f61d15fa423e07b957d3e0b6dc8c2c973ecabcc3081085beb04fd5f5e9e4d969004f02a35940837f1f68a11de5b28cd46ca3a32d2b4f1b0c12a7996ed80a7638d9d7989633eb8e4d3f819f38f2461930034b08ec190e6edccdc39b39609cf2a210820bc1d4e8046d4bbcd5be6112d36f6e544fc55ecbcc0031961f5cfa03a69e7c590f047fba4ef5f173fd8cf4d79625fefdc06582d9de6fa51ef62e94fadcab60f4a391dcee58a13dfa168c7e0090e7dcd226062e3c3f72867f1cc846d8e615627accc1fb02909a6c121b9366ee78fa216322deb5942768f7b1ffa0a37df3552e5a1b7acda70b34297cef7bd9ad"
+  },
+  {
+    "id": "str-17",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "নিচের কোনটি ওয়েব হোস্টিংয়ের ধরন নয়?",
+    "options": [
+      "বিনামূল্যে হোস্টিং",
+      "শেয়ারড হোস্টিং",
+      "ডেডিকেটেড হোস্টিং",
+      "ইনডেক্সড হোস্টিং"
+    ],
+    "secret": "9154c37554f5b64a2c83b0386e307ee8605a5fa76f96af96c84de806529d74758cf3cfeb19010a1715a1ddf3683b2b1b1d77e73158610ebc473e7160f970130da55a98e8573e3a13b2e50727b76362cda4a74a22e4f814e25567d03e40a776fb78277d241e58c723e2e7d7f2929809472bb9b83010601ab9bc2c9979d851052ab8c6ffbc341bf525db7ad1579eabe4d4ed76d15150d0326fc3bb9746289688cd37868f56203a703a0d24a848e5b3a6f33f2e61ea18558bf3b757f844fbc5216db4665921fc2e4b8dc60e4ee1d3765a0bd7d0165d7b64009a11d7ee18fddcc1214a0644747884d67cb52685de9465f79e26a8814553fd2271e78f20e53f0bf72d4576a22661ea51ecc76cabcec1a72279eccae47a82f61cb23f621055c38298a10900955cd6d72ca4fda3b4464a8c728f2673fac0a93cca858fc3f1d3e2e4d77f2c4c1fa90b918d8aae28e7ad8001e3b0e5eabdc3"
+  },
+  {
+    "id": "str-18",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "একটি সার্ভারের জায়গা অনেকগুলো ওয়েবসাইট ভাগ করে ব্যবহার করলে তাকে কী বলে?",
+    "options": [
+      "ডেডিকেটেড হোস্টিং",
+      "শেয়ারড হোস্টিং",
+      "ডোমেইন রেজিস্ট্রেশন",
+      "ওয়েব পোর্টাল"
+    ],
+    "secret": "45ad67e7ec588e075831162801884821a9d2021f4bda724ead4a4a337b682337f98266cffec55a9aba77a6c8e3e2d714537dc62c1752042d8ee499305523c7e7c4eeb39f6814d8cc5a9f6871c5d8892e862f8ee75d052d4bb154d80d0115e43f131b4ccb14f087ffa18599a1e39d85e9c5632b40a959cc82b512e631dc115cc497ce7ec28f99dc91e842b52ed9f7b6f8f8c45187101bc17c18a20fe3f57869f4397b2377fb4473dd5caf73566daec7aa1b10d213164ab29d76613de1304afa681fe4c8d5d4e71bfa3f40721f779330cc56e43606aebcbf3c96e22f67335184aadcce48ac7a370004a6eea4fd1a8277247a6747f2a3f326b0f004ec5d9ddeaa9ef222bba37e24c56e6cb26317fc8c0d4518f511fe71779b83978999de0133434f5923589b8bd84ecafe8f5be6173f7527d1d3fd6473cf50f17fedb1450c27673bd7c9ff8d02d870f265e2889e940c8660d0b50465f2f54ca9b3a446"
+  },
+  {
+    "id": "str-19",
+    "topic": "structure",
+    "difficulty": "hard",
+    "text": "ওয়েবসাইটের কাজ শুরুর আগে কাগজে আঁকা খসড়া নকশাকে কী বলে?",
+    "options": [
+      "হোমপেজ",
+      "ওয়্যারফ্রেম",
+      "ডোমেইন",
+      "কন্ট্রোল প্যানেল"
+    ],
+    "secret": "e07d91eb2223e61d0e57185007dd90a1d791c134aed44fa9cb72aed65ec959ed0621b1be72972c5e7efba2e38880d490c71b625c0722305fdb8501a3032e90e85d901d714ecd2482c9d286dce5c3b45729311719d7dccef72cd06b4f60c9f19a4e87593d07500ef3e3593d9a2549a28dd0b1c5f70e83a2d5594665cd91c51253c798de8114e23642c5288976993d6f932afa48516cefd45a3833ce248aa1b4d17d9e28ab6be172d09d1a2eac6aa3c5cb4b5aed029c7c74a21176559b7d4cf91ad033a58b61a34c79b31d4cab059a663d2c3fb4041117c7953ab194f984"
+  },
+  {
+    "id": "str-20",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "সার্চের ফলাফলে সাইটকে ওপরের দিকে আনার কাজকে কী বলে?",
+    "options": [
+      "SEO",
+      "FTP",
+      "DNS",
+      "CSS"
+    ],
+    "secret": "cbb928a2297e1b609351825f271689ed7263dcf7542408cd9a4d2c107b2cd8aeebcc7b28ac654a6b1572fdbde860f5a97787f209aee81d0fce87bfbf58c1679e8829100631fe3d655272676974126bc1f3bf9736f6e2ab1406e390e9f7e68f54506bceea144fb08607d849cad7ae2e80464184ae41d858de32f2e9ce4120ffb7e41fbea9861c6e4c33f2474ba13ace4eaaf626d4df0328"
+  },
+  {
+    "id": "str-21",
+    "topic": "structure",
+    "difficulty": "hard",
+    "setId": "ch4-str-b",
+    "passage": "নাদিয়া নিজের ল্যাপটপে HTML দিয়ে একটি সাইট বানিয়েছে। ল্যাপটপে সাইটটি ঠিকমতো খোলে, কিন্তু তার বন্ধুরা নিজেদের ফোন থেকে এটি দেখতে পাচ্ছে না।",
+    "text": "বন্ধুরা সাইটটি দেখতে না পাওয়ার কারণ কোনটি?",
+    "options": [
+      "সাইটটি এখনো পাবলিশ করা হয়নি",
+      "HTML ফাইল ফোনে খোলে না",
+      "বন্ধুদের ফোনে ব্রাউজার নেই",
+      "সাইটে CSS নেই"
+    ],
+    "secret": "73ab354571294f31493d3e23a524cf6ee20bea0febe82ade95407f4dd7c7d1847e499904a29cc079738d677127ee2be44464f7ad3e901c26069d5490447b07ceedddf52171e82ba216e0a409711cd1042d572fe4a10064e7499145898c265386e84d9f8b5e50f9630f2f1fd6a845c432e598cfe49de5a77d4fc7e2d31c84ed9846596b4dab1d84b9d5556ea26a8563ca6fe6f353613088b82651c9a3dcdb4219628e995dc7ecac11b087b3074f2a1537c8c5a759544909a3b32551cd21cdf7c0894c5b0bc9f82ad842a87b5b2894f3d6d0506faadcbc16291c39cabbefd67155b9ced3ce0e9c5c7ed2ae3a9ed11417e40ccb859034724d4ff4077bf5f2e4d751f2d9eb470c6cd5e3e793750aeda6e87d4d8f5f6b"
+  },
+  {
+    "id": "str-22",
+    "topic": "structure",
+    "difficulty": "hard",
+    "setId": "ch4-str-b",
+    "passage": "নাদিয়া নিজের ল্যাপটপে HTML দিয়ে একটি সাইট বানিয়েছে। ল্যাপটপে সাইটটি ঠিকমতো খোলে, কিন্তু তার বন্ধুরা নিজেদের ফোন থেকে এটি দেখতে পাচ্ছে না।",
+    "text": "সমস্যা মেটাতে নাদিয়াকে এখন করতে হবে—",
+    "statements": [
+      "ডোমেইন নাম রেজিস্ট্রেশন",
+      "ওয়েব সার্ভারে সাইট আপলোড",
+      "ল্যাপটপের ব্রাউজার পরিবর্তন"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "4317427be71b926ad29b4d472021f10175abe4b2201076b173b988f62ef20cf3719dbcd1aa72eee9ee9b3253f0ea9f3724394b1283ab41a1fbfa3fc49d507537fbe6f853b479aa8bb269af925a28afe4753eb14c52d28d9e575eb814c02bede0eaa229c4572401870080adbc71c3dc70b5f811278136ab5ea75d611389a3cde3afc2200d58ecd4d6a984ab2642244c3c0424914c904a443d276c3c5e3d32ea33fe1194d8d89663aef4adcdbc4165efa9cfed8e59d4db5e400874edc167f5b9c4c7a08459a76afa3302dbdb6af9b35859ba38ac1f1e3fc627e8af4424e516ac8e0e594a4a2b1a2d4b3aa55b2cf189b5544c6ebec7833522efb704c7943a6d8d2a0a2f248bed3bcf2add9b39f6599869671c244a2476b6fc2ff4242b3a20f9b822c85a142c09f3217a4d677ed0040e"
+  },
+  {
+    "id": "str-23",
+    "topic": "structure",
+    "difficulty": "medium",
+    "text": "কোনো ওয়েবসাইটের হোমপেজ দেখতে প্রয়োজন—",
+    "statements": [
+      "ওয়েব ব্রাউজার",
+      "ইন্টারনেট সংযোগ",
+      "নিজের ডোমেইন নাম"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "643902ba02642cb48bcb1cceb6735254cfdb62212dbe1a8e4242c897892ae3869ec7f30283f54857fee21e0bec59244e39aa96110dbb2890a4c5a862eab0a5c6e63471b8cbe373ef435f6d7d44b410c58755abae19eb527703f6d0c48c407e4e693eb86c7be5b36086c3969b84fe7df14341198a8b414c64591b0f995c3890c64c7aa28ac1f143849dae280db501bafbaca7cee6001fe5370dc3531e7ab0e5f8f85f40f79a2a9434153575893c4c26150bd962babf46fd909cdb42a57d075519c251cfd0aca713b09a2308f2208b06fd7e25c63e572c7e6644ced3a4d252cb236683236412587b5f271418fa7083abadd7ca23f8fb1b1892da1df527f93b2a38f76c67cf7892afcf7ac0bb910d5b6d2477c7d0997f652713348c"
+  },
+  {
+    "id": "tbl-1",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "HTML-এ তালিকার ধরন কয়টি এবং কী কী?",
+    "options": [
+      "২টি: ol, ul",
+      "৩টি: ol, ul, dl",
+      "৩টি: ol, ul, li",
+      "৪টি: ol, ul, dl, li"
+    ],
+    "secret": "d7d2b0b2737f23f615173e554c96b237c578660c7554793ed3fab6e1ef8e31bda302711efc8a0a14a4020c8e1782337cab4b2decffac1cbd45725ea7faa544a2177169f70d56dc073b63c0626ea435636ca695446d4762ab72627310cc7315223ab8489adb74293059ca6ac00bf374042e397b9eae4965c07f0387169aee7142685ea3a85a1437b8be0e35f511e908ab7229f382969951f7d9ec3f26d962810a7bf13df1983379bd247600384c90864bd076a3a00248e08bc6d0095c891d25ae9687b38e1159ad1f4e12be0e917d78b666c0489aa26ec926bf1251f424609b722450b22f0c60740703fa42ccc7e0a7447a"
+  },
+  {
+    "id": "tbl-2",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "তালিকার প্রতিটি আইটেম যুক্ত করার ট্যাগ কোনটি?",
+    "options": [
+      "<ol>",
+      "<li>",
+      "<ul>",
+      "<dl>"
+    ],
+    "secret": "7ff3e13734ae798b6d07cfd54e7992bb54bbf11a93cc068b708749156da9e7e7a5d03bf11b0d2e3e903fccec56733d1ab2551b166cc658b1e608a514e918698edd937aa5e8e8cdf5ea8b56dcbe0e7599476e15b9ccbdc0cad4caec2519bdc5cb43893a836d5dc341b3395d95435db880d1e109769c453364125a761c0cb89170140cbb2e258055b966661930dec2b4b40af0984b146adb5838f7da2ea537a5e50283d41a505da0db21c7dd33e3fcbb6d6be8ac9bb3f4a2ab2e54dec9059738c94cc141fb"
+  },
+  {
+    "id": "tbl-3",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<ol type=\"A\" start=\"3\">\n<li>Rice</li>\n<li>Fish</li>\n</ol>",
+    "text": "উদ্দীপকের আউটপুটে আইটেম দুটির আগে কী থাকবে?",
+    "options": [
+      "A, B",
+      "3, 4",
+      "C, D",
+      "c, d"
+    ],
+    "secret": "8863a73ed8e94f7a05520004039bf8394a2d8dba0b6bcb2e83e32dc1cd16bf6c555fec1e38ce810636178e959466590e0d75ea6332d0eb275d528c6f55d26e91d9fca812e170cf4e7041dd2a1f1c024bbccdf43d5c89d85245219b575a602e9f5c48c85df720adb9b6cfb0d9c62ab1208a5613f25baef591f31a19c96c13449428325f5249d66cbfb86d0e178713ace058c9c02f6f6f2504fc0559813705bfad5c0b12975ddc3b2edbb36dc5a4f57152e905ac46bf2b4d24b2ddf725982e86fe6b603fb8136d9df6d340c55dac37ed839074b4cb4f6cd54b82b97d649e70bc276d83237d303504"
+  },
+  {
+    "id": "tbl-4",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<ol type=\"a\" start=\"4\">\n<li>X</li>\n<li>Y</li>\n<li>Z</li>\n</ol>",
+    "text": "উদ্দীপকের আউটপুট কোনটি?",
+    "options": [
+      "1. 2. 3.",
+      "4. 5. 6.",
+      "a. b. c.",
+      "d. e. f."
+    ],
+    "secret": "7a63913cf8539bc623a9c0b410d6340f88c0d744d7e9c8eee25296dff05792dfd716357426ad78e3cb8674c8c184a6e52662b37397f3bcd617e015adfe636e042945ee1af92321dc4c6e4e64d670880786e23b967949b0aca05595fa63a6a299ae828b7b3114010492c936c614cec322a17f8b4133980a546eaef14eb592c13b4b1ce83441757e89522d617c1db1370af37723a04923bb9226bc51ae9e84bf8b333e7a1dd6324cadf46a5349225c45451630dda681757839513fc71d5f8be3a975f2a3e3fad776212811aba694225f91e58b09a5b403006dd5bc3bcee9e06b40c0612142bbce3d33399a198f7e6a0f652492d66c7cc9128bbaa71318df43fe6230aa38e24dc20441f59ec406c5063829c958f32f793c287395b8bc4010f3ed6b5967d076b693ff181a77257dfd3addd5a8a9996b414dc5f00d1dcc1b540c9c193e51f3732d2d4b5c06a37c0153e4f7db53a624118a3334d94029c5"
+  },
+  {
+    "id": "tbl-5",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<ol type=\"I\" start=\"4\">\n<li>Math</li>\n<li>ICT</li>\n</ol>",
+    "text": "উদ্দীপকের আউটপুটে কোন চিহ্ন দুটি থাকবে?",
+    "options": [
+      "I, II",
+      "IV, V",
+      "iv, v",
+      "4, 5"
+    ],
+    "secret": "cb2b53e3ff3f710a9294907921faa6b9c6170158f29fae681167b6d64511ba240053d58ddca2abcf4d76839a07991aa2b9c0b4a4b6bec148326eed768ebce9eac59d6a3b6f1ae3ce74ae90a44ccf453133c326cd7ed98dda61efbbdcbcdac999801660a135bca32042ac2ae1dca1b1ac5f349105437cb0e6012c9319dc6c817189e00c21aa47e4f2452cdd1226874ccb85144c5e8a55b4d6944bc57c6701dea3480ea241c7c10ea451eed08dd22ea877f60ddb610e4e9f7789c2dd773acb9b26537007d3d121e70783c8ddf0c0135c05"
+  },
+  {
+    "id": "tbl-6",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "<ol type=\"i\" start=\"9\"> তালিকার প্রথম দুটি চিহ্ন কী হবে?",
+    "options": [
+      "ix, x",
+      "IX, X",
+      "i, ii",
+      "9, 10"
+    ],
+    "secret": "f10ea2c2fb0510239d624c19a870303fdfe955621be57cc93fb3e6905ce26a9712c1a560f0c173b8c88512857d5001c91379bee132183aae85bb6c74362aba21773c92c6fa6e10e140c6f02c186f044463841f4a72342ce395c32e5e40d420229f1644dd4dcff88e95ea3bcabde4ae9d8e15f9a985f5dd9b99e5369f6f0704d4c71e5e01a3d0c8edbc31d7dcf68033719869cab0921cf02e4e4326a0921a92fc4893aadf757ef14e938fb93710eac2ee4f"
+  },
+  {
+    "id": "tbl-7",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "<ol type=\"A\" start=\"27\"> তালিকার প্রথম চিহ্ন কী হবে?",
+    "options": [
+      "Z",
+      "AA",
+      "AB",
+      "A"
+    ],
+    "secret": "0a83d99a6d5928f2667bc3e04104ba4b3d0ea7ac6e1c7bd916c12011b59e5890039c1e51db7259e709976f7e48f9093a1923134ef63d0f67258dd4a5dbcdf27cb806082da2690b9993951818780943a916ae37791a80815a9f0f68f01326ca8066465564851a194f67c1f8187adf7cfbdd3865cbc7b61ba1ffa180f605af0a8ca139a3d04b37d30324c55592dbab51eadbf3644b5b9f059fe963c627c72efbf229c2f7a2eab33afee80e9fabb4facf50b128e3d9dad34c0e85d81129230f5d2bd672b544c2b23e"
+  },
+  {
+    "id": "tbl-8",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<ol>\n<li>A</li>\n<li value=\"10\">B</li>\n<li>C</li>\n</ol>",
+    "text": "উদ্দীপকের আউটপুটে A, B, C-এর আগের সংখ্যা তিনটি কী?",
+    "options": [
+      "1, 2, 3",
+      "1, 10, 3",
+      "1, 10, 11",
+      "10, 11, 12"
+    ],
+    "secret": "5db770381dee10493754c10db037d3c1bef6d91615d13db85eb290a89d8a8abd4c31deb7de1e2bc19eb98b5200cfda1feb50c6e63712a875505725c5d6561431cc143a02f45b528bd5d711c25f3fbda7c1faaa880f8f4505b0b32c19876c169661694ca1a9370a2c7556c724cf3e01100f464ef7de2b1a3b0f03cc0b5faecbeeca3f34b53e5a6efe27b9107e0aeea775860d7a3b8ca8200c456358f5a09aa754b5eacf84eeac5564eb51ffb61a5358978bb2f78702bec8e9e25804343366810dae15cff7d86b2bfa3e3200b7e77de51ebf66a8226c0f9fdeff399f3a80e1284130a3c70b1c0f537ffb90452bb1a084617d01a405b2b6ba40962a29b29c83d92f97fcc41ae81298f6a6cebd8bc6bf86401fcab362d5b69d2de08a"
+  },
+  {
+    "id": "tbl-9",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "<ul> ট্যাগের ডিফল্ট চিহ্ন কোনটি?",
+    "options": [
+      "disc (ভরাট গোল)",
+      "circle (ফাঁকা গোল)",
+      "square (ভরাট বর্গ)",
+      "none (চিহ্ন নেই)"
+    ],
+    "secret": "213ce41b758755a627b966b78f2bab1803d719f61461fd1957906a9f06fd96ec25adf22b0b94345e3444c91a8c14f68cbc04a8b05241ba7a589b55a31deb32e4763914a0dfb5e9eb118ba7d5d4f50aa892cc2b24568692fec8626cffbb050aeb09fd8be98c348e7059d0f0f46015f7906e015eb1ccfbb2529f7b24618185a71302b3c0"
+  },
+  {
+    "id": "tbl-10",
+    "topic": "tables",
+    "difficulty": "medium",
+    "passage": "<ul type=\"circle\">\n<li>ict</li>\n</ul>",
+    "text": "উদ্দীপকের আউটপুটে কেমন চিহ্ন আসবে?",
+    "options": [
+      "ভরাট গোল",
+      "ফাঁকা গোল",
+      "ভরাট বর্গ",
+      "ফাঁকা বর্গ"
+    ],
+    "secret": "fdbef7e4946304bcc6f2cfb0c3b97571b82c687bb1cd3c2aee204b9b20385b306733c779d5af8a1ff14b3ad2aa93bb64f5525ab00122f57238b151ca7f481dd368bf88192d827f86259fe0d14c7ef0c42f341e3901d30e82421501821c4519cb6e3c79b99e4217ecb76db7cff6a1f08e666e1db3920f2d95fd7c9fbeef70c7d06ce41ad21665b88bcb57126db2de9585a9451cf4266684118e801d86912827dc38968d9627bcb2ea518a6e"
+  },
+  {
+    "id": "tbl-11",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "ul-এর ভেতরে আরেকটি ul লিখলে type না দিলেও ভেতরের তালিকায় কোন চিহ্ন আসে?",
+    "options": [
+      "disc",
+      "circle",
+      "square",
+      "কোনো চিহ্ন নয়"
+    ],
+    "secret": "1d7c2b0134229241a7606ba42b4d7a154f2328e60f511c4d2be70a35e1a3a1d1bf99f044cca6077854c80e89e4a7a5979e5546677e174285cad1418d6deb9443de08a1aa8dd637b5eba996211451ebfd644d535f2d30b75add8e69d22e8f0e961f8822d9f6f3d15c5c45a0fc850055213d7cdee4d8615085d161e3584283420fdd1fc06ea7268ab24d3dd17a8e4761daf4e52d11c1f5cc52a56ef31b97668fa052b8d9643f0f962a8df1e701f6413d01a34a14133d93889956fb18ac8b1d92bb4e64dfb5ab82741f7cbcb0febe9af72c6b6375e37d2c248f80aafa0ae8c2f13829f86ebb"
+  },
+  {
+    "id": "tbl-12",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "ডেসক্রিপশন লিস্ট তৈরিতে ব্যবহৃত হয়—",
+    "statements": [
+      "<dl>",
+      "<dt>",
+      "<dd>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "2d856c1fc43959b4e5b815be9a63127d48d2ee3e103e5c8ac8fda16a6c4e43a6c6a08f3b02afc603228e5fc3a9e415c5654e32ab14e737335b87c29e9e01f1a63c32abc931e33c6a73ad62108bb9f55c9ccd88a356ac0c30b5ac54de0689cfca73032a7e647467dad98bcb01459f92761ae6f4eac0380e5789fcf330aefca7f6984291a59a5f0eaf18be07662e1b78dde1b5d5d52b80ca0f916f1ddc4cbf770694da3a50015bff335d3095d75771a5119676b80520e8f9813a814df88563733343"
+  },
+  {
+    "id": "tbl-13",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "নাম্বার তালিকার ভেতরে বুলেট তালিকা রাখার সঠিক কোড কোনটি?",
+    "options": [
+      "<ol><li>Food<ul><li>Rice</li></ul></li></ol>",
+      "<ol><ul><li>Rice</li></ol></ul>",
+      "<li><ol>Food</li></ol>",
+      "<ol><li>Food</li></ul><li>Rice</ul>"
+    ],
+    "secret": "78cc220b9f981303789b570e3b82d4f61a038c07f05c8a5d7016961624d17b279f74335c09ce8f8b484006ad0eb8c681f37bfe7510ade60c6630e7a59f7c6e541bfd0be3e6997d0f6b9ca6ec8983c0424a5d68b166ba952356a0a296b0d3c9cabcab558c2d83339ad9d00d502c4b6f04ef3deb4d3153bb63d3a1bb372f96777e405ac8018fe36a50ea47ad2884d880a92c277f13449a60c70e7095e5679d8b92ebb640a7aa9eacdd214e4394503c77cb255b842e35f2ee37226c07f29faf67ea2fd4374392d9829c46005395ff1435784c078c22f76f9bb864bc7d9e01ba8b70695ea3b7add551863de2b7a582bac2ae3da67487789058ea2775bd03af3cb0b272b2b345ffabc38a874b7cd7d4ab6cb36cce05eea7b5889b34ac8a4d57e9"
+  },
+  {
+    "id": "tbl-14",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "টেবিল তৈরিতে প্রয়োজনীয় ট্যাগ—",
+    "statements": [
+      "<th>",
+      "<tr>",
+      "<td>"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "f0c75320e3605e6a875f774f1a4f31194d27159ca021d5eb8c97f28a449315d0d9aa8c7dbc3b81d35fdbe8610eb0a56d4bd26edd98acb949137519d7d0773f30230e243a9b00517d4742b4da6e5747f3e47f0710e858ebbf3d7c459eaaf1fcb07a06cd42bf3b3078590a0a53514e4f1d12cd806b0ec949d6ff609c3d859c882ab9cf9a9194e6ca398c4ccc7dc330ec9ff9ebafb3a93d4ceb67ebcde39ee23dd59bcfc7751faa3d58f5d6c80aa5c3002ca1ad5267ea2eedf2fce5d8c07e03fdae09498daf25f13b"
+  },
+  {
+    "id": "tbl-15",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "HTML টেবিলে আলাদা করে কলাম তৈরির কোন ট্যাগ লেখা হয়?",
+    "options": [
+      "<tc>",
+      "<column>",
+      "<tr>",
+      "কলামের জন্য আলাদা ট্যাগ লাগে না, প্রতি সারিতে td গুনে কলাম হয়"
+    ],
+    "secret": "9717886481757bcbdc6ef027cf8beb4fa60a979d7d6e09c16e413435393fd7605e273596eae7afcb6b5bbab334b6bbfdd20c81869a91d5954cb07fa1ff3f2cede756b81047f3193d686b9bf34ed799ce5bb253f98dad32abca63f41e0984154e5a2627b812202937daf7c19eb0b9f01883c6c313f3c01e568acea6c4deb03b93fdc1613f155629295853c1ba589b75f73335cbe1e56bb300146b0a610e9112d3acc6baa9e03648d6e607fdc253ea955feac74fc44dc6d821abb8b2c90869a2e77c03fbb4caf97c3d0e5629abb534bc0b1ab70eb6f5445fccd623432c4909f9392b125987384f41b119c647"
+  },
+  {
+    "id": "tbl-16",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "<th> ও <td>-এর পার্থক্য কোনটি?",
+    "options": [
+      "th-এর লেখা মোটা ও মাঝখানে থাকে",
+      "td-এর লেখা মোটা ও মাঝখানে থাকে",
+      "th সারি তৈরি করে",
+      "td টেবিলের নাম দেয়"
+    ],
+    "secret": "72558a90bcdb01f7994eca1ac07103803b45a15a4e39af7289761fbccb6aa43b27064381bc2b58bff2ec61cd472b81a500964d9264fe5e9de1347b4ae87168107608315c3f70230004f2fc343458a1557976af9d64b112332337b2049a34a03ab9f3fd2fb6a74dba8af25144baf6aa8ff78758ceaefad58df95056bcd84179d55217a6925a1b741c5e7564481580dad46f4bd152cddca8f939b369d0ca6e97b0059f6880f81fea58903be79e951e76881fe45906a130d3502b487fd57a55a6447837819e7e4e43889e7d512e142b6b86e5cf0f35f316607d63010178aa744fded4cfb5ad3f460c92ac20341a89e99c8e91bbcbe9a3f2034f604c5fe032d0c14d1fcf744468dc8b7e43bab44196eedac4c0f8ba045cf36b7cab8d8b970e50a8977d178f320213007d7f"
+  },
+  {
+    "id": "tbl-17",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<table>\n<tr><td>A</td><td>B</td></tr>\n<tr><td>C</td><td>D</td></tr>\n</table>",
+    "text": "উদ্দীপকের কোডের আউটপুট কেমন হবে?",
+    "options": [
+      "দাগসহ ঘরে ওপরে A B, নিচে C D",
+      "দাগ ছাড়া ওপরে A B, নিচে C D",
+      "দাগ ছাড়া ওপরে A C, নিচে B D",
+      "দাগসহ ঘরে ওপরে A C, নিচে B D"
+    ],
+    "secret": "5dc5770e77c8fb707134c1a5be189ae415255a858162b421eabeab0cd39894c5688c7fcb77c920a4080d2b07834680433ce9790325de9f5ffb10c9b3b95ce59daf98b1fb669d3ae2e9baa7887df786d3981d689188f12f1244774b72a8aec6af089dfc355babcc8c5101b54fdc1b4542233af1033b4c5d6134f6670ca384790b822650add6c18f94c6e31dc03b0e7f51a4a79715224194e0bb334a4d2c8447817c3b5a70658bd24db8c105f066eecf478dbb8e1b53a82bb18033f09b5ca1115d1bacde0873742f7fcbff38eca0bf18408423127d226be38854f766955ebb5dd5fbb7fa83162ca8590b2187fa95585f4b38b9254a13187106d2e29af2f8ed7b8f6725b4f0b76c61bda1f182d4754d14843158611e9dfaef2306d66c422da5cb87a53b8ea04085b518a3a9e565e6877d33e51b4d8fc0773747be37a99a8ea0019fb6824d5e6f0b3acb6a9a74803db10c4a1db79838c3f15d6c463236e6d6d1efe4f6488b689901b97296049fed6d954aed855b3555cfa09fc0fe9260065524a515426f13fce6f45a"
+  },
+  {
+    "id": "tbl-18",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "<td> ট্যাগের সঙ্গে ব্যবহৃত অ্যাট্রিবিউট—",
+    "statements": [
+      "align",
+      "face",
+      "colspan"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "d74bd5281c9bff0270f6bde8898ec04a0139d7f757d3e642414382d3a2f1b3d1cdf83630eb7b1db1ef9b3a116e55997fe0f2d72682052396bd9569a8a420a131b4304c0461415f9f60ded0feffa414265e34f28f93f2e0ccb350e5878f9c997c8fb419ace88c22fc7c7b7893b49f0dc6ce217f25819df40a3b84984bb86e422a80179b7ca63aeaa16a9f87afc896095e7689f32508c17c66c8600ff5694f953fe5f6baff8c88801d728e8cf0370cc03d94d69df17000b79d51bc2cea50da234db6ba5a7931dec0f709f1"
+  },
+  {
+    "id": "tbl-19",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "<table> ট্যাগের অ্যাট্রিবিউট কোনটি?",
+    "options": [
+      "src",
+      "face",
+      "alt",
+      "border"
+    ],
+    "secret": "615b51fae581f6f00cf7284f73f5db2969dbbf929eef99463284c9cd87fd11570d3c3eefe42af52246109bf46338f0df98dd9456f72daf5f50e65ed426c5413870a6297092d865fddc8357ae5dfb9566486888a9f3686a9d61d006ca676f086053ed7e838412cec64d33f988644fae5b2b2909691ff1c83c7d950c6f7dd73dc1022465462a2ecde0bc71540b71bf0d6848bc2de516a1f4d5617d3f097d03ff7b9c0c6d8267060dac27c48ed0cad3295590e8cccc43d68f86a36331f73a2f493786666bf5948800d34ea0e18970956135"
+  },
+  {
+    "id": "tbl-20",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "শুধু একটি ঘরের পটভূমি সবুজ করবে কোন কোড?",
+    "options": [
+      "<table bgcolor=\"green\">",
+      "<tr bgcolor=\"green\">",
+      "<td bgcolor=\"green\">",
+      "<body bgcolor=\"green\">"
+    ],
+    "secret": "63e4ff21d75d573dd38a18d875424f56feede4a16f2a5466bdb1555653b5393ee12ae73feb3c6ae8d997c0f7abd00ecc1aae57c36d371023c6f3cffd4d63a9621a9157758461eff4a69a11d12882bc300042a57e040a72c39720f5a385fc8a7b3cfd3425e073a0ef798f4827f5658baa1fb32d2bef603645bf41926b07527e1f10413e83d463a091df8b9a892896e11d4098c5261bc9470c77f03c40b0fed274383aa0e80c6395223ff651c6e0febb2e3426d01219c1e3f09a4dcf3551738c8742f4c3489911d40968dbcc2abd22dd6915b3a3622598b8a5b5339e074cf5d81a644a07325c09ce6511ab07474ef329a380b4"
+  },
+  {
+    "id": "tbl-21",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "ঘরের বর্ডার থেকে ভেতরের লেখা 50px দূরে রাখতে কোন কোড লাগবে?",
+    "options": [
+      "<table border=\"1\" cellpadding=\"50\">",
+      "<table border=\"1\" cellspacing=\"50\">",
+      "<table border=\"0\" cellspacing=\"50\">",
+      "<table border=1 padding=50>"
+    ],
+    "secret": "92d90f6acbff860aca6daf28e22bc6298cc6540bec97086bd5bedeaa0cac746a8601d21d3123345ac42e28e7eee87088c89e3e25900659da9dc21e9d58af4e0c4088ad0c4f4ec0342f0755f86a2377e0b1b4860a0912e3fec9559d9676b27c491d373c1a279dc125cfcd6527d6f49a3a7c9a5e07c9f36913565f77f0a2bd66d1f96efc30c16189132be8dc5d5b03e8c1c1e83d326b693746a71c6aad9ab853cccc7b9f9d6590ab566bb90b5938fc608c53e054409bd0cc595361d01d605e6b675db622edf1199493ac73f248bc2d2f54ad63eee534926fe61625665eab1e359fa807e9f0efdf6b3a6c66efc386cc7057d65685745dd56bd7be394ff1e2e520d046a13916014abbf4d48a63a7725bc70d8f1b579c7960c6bba74cafa9e607404c0504cc877ef8d226801134e84b01fb8a48fa991dbd60d293b1e42bad1d8e2a7ab7887d44e7f1f8dbf6c4bfb8"
+  },
+  {
+    "id": "tbl-22",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "একাধিক সারিকে একত্র করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+    "options": [
+      "colspan",
+      "rowspan",
+      "cellpadding",
+      "cellspacing"
+    ],
+    "secret": "e89445af6d402c76acc093e6002fdfb6c1480b836ba8eda274686d7246eb530ed2b220769082464e9047ff8bc7ae68ba281d4938e454a736447a0d22b06b1e2092da2eecce3b3acd7f1e8fc909c2659ac188579b3b90558cdb8bc50f06dd161706844b5b39de4be534c3162b041e33ae691a113a37b4c915dce83f7318756ea0f196944a82cb50f117965a8d135fcf08b390497bb17d2103f5696475f6922f50a48e41f989207be24d37f660c99dce5633c39d68b64339646cbe3d23b89542400bb5546afe51304349af98cc"
+  },
+  {
+    "id": "tbl-23",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "3 সারি ও 4 কলামের একটি টেবিলের প্রথম সারিতে একটিমাত্র ঘর পুরো 4 কলাম জুড়ে আছে। কোডে মোট কয়টি <td> লিখতে হবে?",
+    "options": [
+      "12",
+      "9",
+      "8",
+      "10"
+    ],
+    "secret": "08d581905602104e4bef50f2809a3204ce6567c99dfb923133a3ad384f79ffbc8f952dba7ebd2da66a1a664a90b6c884994557a0b5926c0b1f9e719730fd4b8a734e2a8f7a85fb0c1b326cd476979fe57021c7bac50a5dc9aabc0115ac2518613d9dc6f782526bd01151bcff270c62c285db9a5ff6bfd1d002123878cc7ebfe4b90ac90515af4a7bc90fa5ac299c8ea5c68a75369541c80e62bb0f4dd6fe4923e7dccc22790fc0f4c89807c822ea633f412fae1edb97d58f2fe91f7aacd02b42e48b7542624334c94ae388f6f833f4a6f58ea44128af8c5c48de6528a2"
+  },
+  {
+    "id": "tbl-24",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "2 সারি ও 3 কলামের টেবিলের প্রথম কলামের ঘরটিতে rowspan=\"2\" আছে। দ্বিতীয় সারিতে কয়টি <td> লিখতে হবে?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "secret": "9a09ebac93425eaf7fdc020e88c44db69310472aaf3741c9bbab25ed7abe574bfcf1d50f5079e9519aa3dd08c8ee07586c1ff1691c054b6b5931fe058e0228da8122acad121fe803e1e2cb05641bd1da626c78838ef95733d73bfb2f0bddcea2d1a7567bb7675198358dcccab507fa8495a1c48e3f733c5392bc20a124fe3c07decc20ea99cc0521720daa103eafa8fc55d94e66db96350f3d0ff8fe9ed22f6fca36bcd5c14601348939eecfc4a228dee0e31877108eb78a8d0bf6b290493be7a0d76d23bb37f5aab5aa23dd78d57fc011511f14cae7e38a91915bdab277839c904bc1b08d701f7ae7037f517523d615298837de45afef216bcc95ce33a3c5818643721a3b0c0c7782e0aa0909bb35e39688a85f861b6474eb8246428ac9780d5d2d2716664772da5f4475754d"
+  },
+  {
+    "id": "tbl-25",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "3×3 টেবিলের একটি ঘরে colspan=\"2\" ও rowspan=\"2\" দুটিই আছে। কোডে মোট কয়টি <td> থাকবে?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "secret": "7e4d0cd35c2fd5dbf4293a5bffd35be7dd6216ce17763052ff672dbec5226f04c34dd9c47c96e0c2766a297dadee1d9ce89b6bf33528317029ee73a23bdad81232a96bac4e52296de46ea00e2493240a1f911f8b74f7c7821f68055c9ca557f1a80ed1cb8827facfbf679b1cb9686a3ba7ad1d579a17535961e633b12aae8e9e1223efe07e66ee55be3060790eb89cdbf525d3e5cca814f0903df0c69e1d7b8bbd80c296657bb334c0b26910b499f719a5b16fcac76b66ee5816066bc1b0bd5f65cd96794e45c4f0c9a80a8be69062bf13284c35a8e28fe08a70d1a96d0f827ef2d6e7bcbca832a4435303779bc765c1b8e19889fba0266ff309"
+  },
+  {
+    "id": "tbl-26",
+    "topic": "tables",
+    "difficulty": "hard",
+    "passage": "<table border=\"1\">\n<tr><td rowspan=\"2\">Name</td><td>Math</td></tr>\n<tr><td>ICT</td></tr>\n</table>",
+    "text": "উদ্দীপকের টেবিল সম্পর্কে সঠিক—",
+    "statements": [
+      "Name ঘরটি দুই সারি জুড়ে থাকবে",
+      "ICT ঘরটি দ্বিতীয় কলামে থাকবে",
+      "টেবিলটি তিন কলামের"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "c7275eae0fbc22a8899a79703d7c8ebd38b3b03fb15c8292446695fe99c6e05f2b0c0dd063cf796c3c28c449194c255f05932a271a3d44bcad6141455db89080a4a8e80fddf8e6796d4634922839246e490e8bd6fb80db41c909d08ec164cd270a71efd259400240fdeea83a2651ddbc25a421989aa238b3685aa02c838c9958ae94635c96557120723f7f07ed0e7d2f0e91cc9de047b639beced21bd285b6e9ab09f089607e48667a1fafe3cb8523123cbea5a03f8bae6938a06cc64e9356c48f73708817e7da85e9449a341ab16fdc81e9829abf9ff6de67f014fd78f0f80de6285ca4b78ce535faf5306faf97a3a64c63ac647b40e88608de47c263ec67ce5077c6b5f549131ca362570f9279"
+  },
+  {
+    "id": "tbl-27",
+    "topic": "tables",
+    "difficulty": "medium",
+    "text": "টেবিলের শিরোনাম লেখার ট্যাগ কোনটি?",
+    "options": [
+      "<caption>",
+      "<title>",
+      "<head>",
+      "<label>"
+    ],
+    "secret": "8ba61e8788ecb099edb76b26683f47ab6903c69b337958ee7f62ecfa68d882f514730f603946247d6c5acfd9b7c5ec48e2edf5736070c4e6d1a3529e1da13f9a356fcd030f6c9315a53531634503f16b5bf347de808386dd6d17d9edb5f0e65d611299a777d2c73bfaee8b0aac7d091b3c776c53898f941f5acabbfba4ef526728be4d03b33d3a0f3ca7f2d7b78e83aa4b1904654db6cbd7b014cec550783443fe786f979cc2c432857724514f59e69a3bbc7db262e2a6d665663ccfc92d81a3d878fd93d7ce8225b7992034cd937f97f2812102c5fd7ca27fdcd5a0a43a98080e8233604692b149e0f2590c35e1e3ae7789fbef1009aa3036fb88c80532"
+  },
+  {
+    "id": "tbl-28",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "নিচের কোন কোডটি সঠিক?",
+    "options": [
+      "<td colspan=\"2\"> ICT </td>",
+      "<table rowspan=\"2\"> ICT </table>",
+      "<p size=\"5\"> ICT </p>",
+      "<width=200, height=100>"
+    ],
+    "secret": "2a61783a5bce4fd146f440621481454d808f671fd11d1b67cfef3e4389607bcdbcfde40df154f1f63964cd08c588adb06471220984f0e2ef6b2bb5775ce00a00d58ba1c17548b7a084ed4d68679930d481e6aae5f4e5c9ceedf3e64b5f476992f2817e41654d7258336f3966c736dcfe082523c3d524a58d0448f0f18410a8bf21de9db3b4592c3119db7bc7efe01201afee20efb300d9838c5e2d696ba2aee02db09958f28384ec52f46a472f2dd00af9b1e9ec035a10bb914670f0ff229a3eca611c7e644b135bd04a005e9fb01f24179998a8dd25cc5c48ad13c218503ee3653ce1da6f88a28ba9513f4a6ff15e0f18081b4004539ef6119eca82c64c24a6601c8fc7e38f4794c7710c35f464e1b77a0fb9778ef498b7fe7be50426474594b29e3b52"
+  },
+  {
+    "id": "tbl-29",
+    "topic": "tables",
+    "difficulty": "hard",
+    "text": "টেবিলের দাগ সম্পূর্ণ না দেখাতে কোনটি লিখতে হবে?",
+    "options": [
+      "<table border=\"0\">",
+      "<table border=\"1\">",
+      "<table cellpadding=\"0\">",
+      "<table width=\"0\">"
+    ],
+    "secret": "941f377627fde2bd0bd1765f9ea38f329d7b235a73ecae13a04820c28f28d30010af8f715e4081fa8da045b9df91c4e371cd0e504f7854adad01d83ac98a15690c5222a4d6bb888336159fd364c48054b958a90ab708e875a990b98038b510bbf54284997e1acf41c16cb52fa28bc73c9063a244995e7a5735b0e48f24089e8fda5ab36366b3f9c776f4cc5118cbeb3388e42356f7d8207604b49a11af731fea90f54bc3d3a5b0f9d9c2f6e76841e3bc5044469d716c05ceb0796cf9f2ec9965ba6c11247c86276e615791a29d9d36c0ff8de5a97411d0ebda96c1fd55b0ce745b2c385887f9c2"
+  },
+  {
+    "id": "web-1",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "টিম বার্নার্স-লি সম্পর্কে কোন বক্তব্যগুলো সঠিক?",
+    "statements": [
+      "তিনি WWW-এর উদ্ভাবক এবং MIT-এর অধ্যাপক",
+      "তিনি Google-এর প্রতিষ্ঠাতা",
+      "তিনি HTML-এর প্রাথমিক রূপ দেন এবং CERN-এ কাজ করতেন"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "afeef28f3fb3a8bbc3def5fc12bec2af765236c3a4968bccc540c108768da3f1c5e6b1cf44ad67a8f4ba7b9922fe56f1e96d7b4300a54c1ccff4e64df7cd395fad6ed77c0c9556c6f1614b5f1e4571d06c46ea53f24acf566a4b0845eada44aee3b6aa9c6b83e3aed86db4fb9f305e3778bc985acdfca6d1207b9d88663a5a24174c6e6525b9224c731568f37b0a7b3569e015095079d0c7b2304c524468b073289d2fd5712572a82043cd93ab2355062f87cd4cd6ad269c05d5d88a0855edb32e4952800397d69d33f1862d35f0ddc041a935420995ef10a00203cb8e8e1452f7f89ae8f142bb131e08300fcea9d642069baf9ee512b49acb0d5015ed7fd69f5f62268ed9317c75f170be179ea88bab699b4d3932865fcac121e293793e5fbec4ecee5913cd5c30edbd9bd0c70d6d1daa3a63f14713bf0dd00b0fc397632e7260c12bd30f9062a7bd7374a22b1256c7c6d0c224b90cc559d1859629afab3ba55c53adcef7294dcd3c2f50de4d41f6a369dec70362a24d7e1e934cef269d08a2a7a1bc05664bb61b5a19c3f8baa86f28cdc6523a75f06688e908cd9cc8c808627e985e7c7ed41be6dcfb7a621fdba649c1a01b9d27724e7429c8240e109b9838d740885795"
+  },
+  {
+    "id": "web-2",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "WWW-এর প্রস্তাব কোন সালে এবং কোথায় দেওয়া হয়?",
+    "options": [
+      "১৯৬৯, ARPA",
+      "১৯৮৯, CERN",
+      "১৯৯১, MIT",
+      "১৯৯৩, NCSA"
+    ],
+    "secret": "535180a964af7faf01cd0ac65270e3a49e9e380703621e6b82119889b314659d6f25a1f762fb6e124581df52d3268ce0bfe8a8141b160314be829ac104b84e29f8267a024303cd0a1d04d4f966b3f2872492e374f53e75607ba725719b39192df8d78bc2454bddf0af36d1fbe86d4a594fe39bbcc56dd211d936e78c52f09659e718aa5500ece06ec1cd0a96e67faf7624940c69c172b7d447cd81895c69c6d59489a8d202dd1a41a29e7c7b1cd579d132b74ec38524a0a50d6b72361041cd77c8fffc248e55412315c4af3b9734fecd68952452a475dd3761e69c29ede9a10bb9bbb5d27637640bbe311d3b6edfcce67ee6b2f01321a5c407c357bab2a72c09fa3fb75cc39d"
+  },
+  {
+    "id": "web-3",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "ক্রম অনুসারে কোনটি সঠিক?",
+    "options": [
+      "WWW-এর প্রস্তাব → HTML-এর প্রাথমিক রূপ → প্রথম ওয়েবসাইট",
+      "HTML-এর প্রাথমিক রূপ → প্রথম ওয়েবসাইট → WWW-এর প্রস্তাব",
+      "প্রথম ওয়েবসাইট → WWW-এর প্রস্তাব → HTML-এর প্রাথমিক রূপ",
+      "WWW-এর প্রস্তাব → প্রথম ওয়েবসাইট → HTML-এর প্রাথমিক রূপ"
+    ],
+    "secret": "1e982f08b657c5c866f69a1523a2dbda09fb0bd685287c1ded8e915bbd19163a2f3c2623da178d9f657627502909e232e9a5470ff331e2f45a00e689a4a455394e332bff3cce81b6df0f6b465795b9bc89c648b60ca2bf3546eddcf90d20f529ed1946c8faf916204263ed61ff9f0614f880e59f3aa312b8f6fed313720ef5ed2a09d1fa7c686f7650b6866fbcac5f7551bd389f0200cbf853e05e2aeaa14a9b2c4bb7f224c53037aec5b0cde25ece75e90beabed6588be70f6d1fda72c5077850c368275bab851855165e6e7cbe068cb31e78f1f36642ad65a881e75373a2748def57b79f3b2515f0108811d4aba4401e78936d0ba5030ea2e88b9f23da3e4f790510d90620612b91bc5b6bed44cee05183e154355aa943c95282001543d36366"
+  },
+  {
+    "id": "web-4",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "ইন্টারনেট ও ওয়েব সম্পর্কে কোনটি সঠিক?",
+    "statements": [
+      "ইন্টারনেট হলো নেটওয়ার্কের নেটওয়ার্ক",
+      "ওয়েব ইন্টারনেটের ওপর চলা একটি সেবা",
+      "ইন্টারনেট ও ওয়েব একই জিনিসের দুটি নাম"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "313f2b5510c212d3bad72e768fe5fe791df46190debcea5638ecb428970349e424bb4d810b43d3ce9e35b528bc27d16c2280a8143273b4f312bdf33c5b6e15582f5007f37ae7fe444974f532caf31395ab35a766de3f303eeba80838ac1bb28f9cc8afaf4e6399f2816c8bb214e59fcf46223be6d28c77697d2625c678f236616a66648fc6e6c8e210a5c035ffa8ad90d4dd23bf78cfa748e86cfddba790aa167c342412601712c616b1634eab573ebe06f8525981772c794db388672d474137c98cbbe479811c357e2f14c198f251a33a1b75ed8a6c687fe1cfbc4efccf5080d96fe2304852001de118a90076768fdd96dbd5e7bd9a326aade0efd631076b031aa3d326907117bef3ed777d9f555befa24856ebb063650ac4fad764f0916e06d72db5133866814c103e5fdbec27d6065b0155f771270c3775ef936769462026ce0d36af5566bc3b0caea67c46bcf5c9643662d8a80d5a7759c1"
+  },
+  {
+    "id": "web-5",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "কোন সারির সবগুলোই ওয়েব ব্রাউজার?",
+    "options": [
+      "Chrome, Google, Opera",
+      "Firefox, Outlook, Safari",
+      "Chrome, Safari, Opera",
+      "Edge, Pipilika, Firefox"
+    ],
+    "secret": "b8759131a398134e1efecbf0a74a508b8644ecb4c509dda82a6f1725f5745d3a6d381b6f4555e49fa873ba821696dccb3291f3cc7d495e58ce14d277a4b13a7375bae4d92de607f5c28fa8a12681fbb732d23bb7f24119dca3bfd562a2f15ec6476b932e4fbad825309ea8b61fb580fd531f91bb66d05a559e35c68b3bff9e69572f09fc4a72bd7c584a24e4f83220d21211b39b50646ff75f3e320903c641755f7b7eb5f405fe4ed986842f0d4c50c15caa2c4fd4a667e186e8b92b5bcb2900786d30a383bb864741c37ce5cf4559be79589438064b5e35debe577ea534caa17520d8624b0075985d48a070c84040d3108c3faa8e3daa07551917c98200c4ecbd70c30ee56e38b433de71dae1abf21193"
+  },
+  {
+    "id": "web-6",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "নিচের কোনগুলো ওয়েব ব্রাউজার?",
+    "statements": [
+      "মাইক্রোসফট এজ",
+      "অপেরা",
+      "ইউটিউব"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "e4b8d3aa1dea8cc01dfe395166f9646968d43016816255ebff618274f191effd7b18c2393e277eb9d8bbc60ef6f3125b771d865be93e3f06784889956fe33e21b42ce2393c3a29942efbe1c8d7d7b29ffe969d7476d3d5a3fbb73489780e8467fa79ff87a0d24f22ab8df53a67a001e738635332931224ee10002ec748f62b0252ebe9cd4fa3825289d44fcee201d7997b41aa409e85af1011a63b886e491be8bb693362b58571a5fc680550fe8e3c9fa015215703c782eec53248fde6e5531b90e5658f8e1d1d5fefcff587a401ae62798cf9e627118e9f53d4ed4d239e9e94f362206a83c7201ee3ee1503eb541ea25b5a02b56adce5d35372"
+  },
+  {
+    "id": "web-7",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "সার্চ ইঞ্জিন হলো—",
+    "statements": [
+      "Bing",
+      "Mozilla Firefox",
+      "Yahoo"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "3c08d7396e5fe6219a11bf949cac7557b729a737cdc0aa57c1ad875a1eb91f673750cb09c64efe2ac22e936c7aee3e21c6c2c16de8b210479ddef5b58b600607cd4147cd5afaab69eb4904ac4b72b87dc960a20f27fce153e775530349ed556540784c75578841ad3ad697f746eb7696d7268d0c51427e2586303febf36ed7d700572b7e42eb7ceca70548666dd38618678c94b69282323e6b1296557f82b66b572ab8b3c5c8d9efd5b03286d8ee5331c476fde92f7a62098377540094b9d3f606635ecb0f75ae3c377ce84817b2c571c29b74c26258d61f8d4fab87"
+  },
+  {
+    "id": "web-8",
+    "topic": "website",
+    "difficulty": "easy",
+    "text": "বাংলা ভাষার সার্চ ইঞ্জিন কোনটি?",
+    "options": [
+      "পিপীলিকা",
+      "উইকিপিডিয়া",
+      "ইউটিউব",
+      "টুইটার"
+    ],
+    "secret": "2adbcdd72fb07a24d10006b7066207146e00d28a547a3549b29e8cd668103695f4407786dbe015bb193be819eae015edc11b60c291f490170a62a25210f43599fc49e4754f140782f5c78a210860a03ab65e1f9f05e87b1fdafa4dd941896a9e3d62bbc9f2c08de62116d9af5df761d546458e2ebd6b988eb4b88521d97ecbfa77b3fc804f84f367bebc7c10bd675d486fdd6a3e3c708f45365b6276487b9852a76eb87439b7b5de541f81f5aef6017a86b05d31dd783ed0546c5f66a02f361f0c305d07f45518f7b5bc89d605d370540dde9cca67493a61757993ff57437e125b1905e1bb6dbf7c9105df094afe2efd88d47522e50e51ebfdeb9ac3bd0fd55fadb56af2116d4c6cff1d810974d8631adad28388dae1eb"
+  },
+  {
+    "id": "web-9",
+    "topic": "website",
+    "difficulty": "hard",
+    "passage": "নিলয় মোবাইলে Chrome খুলে Google-এ লিখল \"HSC routine\"। ফলাফলের তালিকা থেকে বোর্ডের সাইটে ঢুকে সে রুটিন দেখল।",
+    "text": "উদ্দীপকে Chrome ও Google যথাক্রমে কী?",
+    "options": [
+      "সার্চ ইঞ্জিন ও ব্রাউজার",
+      "ব্রাউজার ও সার্চ ইঞ্জিন",
+      "দুটিই ব্রাউজার",
+      "দুটিই সার্চ ইঞ্জিন"
+    ],
+    "secret": "62923dc02c5858114899bac2df3d7820b7de92ed1f1bd95e684eaa478ccb0252a7b5e76b6a271ab18b8427b6314298dafdb29692f3dfca98851c0a908b8dc24ba04545306fe34606fe8a4cbdf6d04120d42c26c6b860f3af85756864f83261e3fedd9b87bb3e77bf79f84b2d5aa9312ca2e0cdbf60ee6807a4682ccd4ca8865b6f058abad2d594eba895174101e50a66e23edc192e60e7a46153e40948b39dc7f80c9d00a3cce29c322976ac6a03e3efda1f5f049d5790528d93d5dcf4798446951697cd6eefb37982407aaf417a72f903f82773f5908df56dda7cd0fe996a35476048267cf86f98efce1438c94e91318f2a7147a910b88382dc15556516b5fd14bd6a0646dfbafe16359b2aea71cc28e2da9aff3f1f691df5d1d133f24aa007a42665ca2e0edc35c5a4ef33d2ff032ce97d15b791d22e753bd6f1828d1d74b77cba234dc0a46ca90a830325e7222c0e516e3a553840ff84d7125a0e1825bb84d44c02da2160c974743966d3de88bce336296584428621"
+  },
+  {
+    "id": "web-10",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "সার্চ ইঞ্জিনের কাজে নিচের কোনটি ব্যবহৃত হয় না?",
+    "options": [
+      "ওয়েব ক্রলার",
+      "ইনডেক্স সফটওয়্যার",
+      "কুয়েরি সফটওয়্যার",
+      "কম্পাইলার"
+    ],
+    "secret": "58ee4a3871477179a0005d295fdfb171416b5a9e57156b1e3964e739c5891a092029a1018cd266ece3bd3158727b9fe9943d73f0d3d0c327f766cb23c20c86fb7a2a9972cab75cb826361a959ceaf7989a5a0df4657b07afad0f18159aa706d0078ebe501aa0537d8a78b07cf00fa25bd9308e65ef3f0cdaf1191793ceb270e6ef2fee9f1f7486e66324713c6f206dd49146376f649fcc93e2881ab07bab898df77fadb3860c09953dd6a0b25b2a18564ab10f71914d0520a1af22fb5132456034a344aba045d9208a35d71516ef200eb33076292bdba45c6308550fcc4ea26147c7398f2b54235d7e850f7e5438dd6e6232b3e28b09525f28046b2a3b981c5cb404ff0b5f127dc733d4ceca35479161517f4462d064440eef7f3b90c6ae39b3eed2767343daf0732137887c5dc0c685d142172a6967c46a5a3ee35d3ba5784b9d600d5b5d54b3ada74bf790ea0040a11025ae22fc46c9ed3c6c3df53e6a5b6540e3c9438f48e5c8d7710c5a6d808b2f7f9475ff313318feb32dd5997483cb393e483a939705df866216532b7b663aceacf5ea12bfec393152e538c6ac49e23e636e460d2b443815a0ccb8453b836ab27af65345b5be2652151b2b"
+  },
+  {
+    "id": "web-11",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "স্ট্যাটিক ওয়েবসাইটের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "রান টাইমে কনটেন্ট বদলে যায়",
+      "ব্রাউজারে দ্রুত লোড হয়",
+      "ডেটাবেজ থেকে তথ্য আনে",
+      "ব্যবহারকারীর ইনপুট নেয়"
+    ],
+    "secret": "c476bfef5b4d9dfcce2663e3b1a5ce13dd46f3e9b376427bcb4fa3aacd6f57cdbdb413bca9945ba8c4d6fac015efb985eff4b78d1ed0d7501101f0d87a93255dac8e10fb19232c15c71e9b4d42465e0fc1dbd3ec71993afbfc4d141417eff3ed3a9a7e807e11b1c14e758de1789ea00b7cc9373f0d86a9b48ec059e2b0830ec72db9a573010d9559e45de3211332bbd8849070191f13a436cb46b34be95cdd0aab5e24467c52d397264fa6c878ee91120a9b9861d13e41d551d91178d594fb1107c2786464b7848031505df83cd7b9067bfc01ec590a613e5282bf68399cbabe654d6941a6254eae7c047c0a581b2255c176ee49b680a7952a2306dc1a8c1cfe9bbbd8e8a1f0526567dfd1b3893e71b39f063392531d670640fb4766836b2bee3710df85fb05aa61577118e49607639c29aaaba857714873ea4760283cff75aaf491aee865c506ff871baf074946aaa1fce025007698d8db060517e00663f17e57b0a41ff6bebccf5ffec88e21d6d974c28896b9b4641a360464edb073c37a030f17f0bd40b28c68ae01b6dd15588f99a966aa041a34"
+  },
+  {
+    "id": "web-12",
+    "topic": "website",
+    "difficulty": "hard",
+    "setId": "ch4-web-a",
+    "passage": "রাফির কলেজের সাইটে শুধু পরিচিতি লেখা আছে, যা বছরে একবার কেউ হাতে বদলে দেয়। নীলার অনলাইন দোকানে ক্রেতা লগইন করে অর্ডার দেয় আর পণ্যের সংখ্যা নিজে থেকে বদলে যায়।",
+    "text": "দুই সাইটের ধরন কোনটি?",
+    "options": [
+      "রাফি: ডাইনামিক, নীলা: স্ট্যাটিক",
+      "দুটিই ডাইনামিক",
+      "রাফি: স্ট্যাটিক, নীলা: ডাইনামিক",
+      "দুটিই স্ট্যাটিক"
+    ],
+    "secret": "b04cf2bbfe52adb6b9181167620294ecf098c31251ae5df5da1c84647e14c6bd8f746e1ca7b72dfc1bd8a91745bf0d51556fcdff9b5e9d48756711222d48fb37068ed1421b6513b347f4f9c3eb4038dd603ee2bf660f76957b2a97323d2a943b6dc864180cd076fe651e11605c20994dd524aa378f566d96a7d6112d91f0ec9f97d2771af32753772f24aa11fc01b83288c395c0d24f4cbaf40d907e1fb024a9feeea935666da96b96934e992eef4a66b6b875f55a00943a9e3cb0cc4e742974176e4f8633244e520c8e02b23f0d5aab39d9e09384720a6432d3d78e57c5650c4f171431fcfadaa77caa7ffc3a919a2018f1eb82212872abca843dae53b0477c924529cf1912caba67d92ab5fd9690add5e61ebf12a65bace97760084e82440f3ababb262e759460d93d3eb14194ecd944f03e5fb50790b9763c2f107cbb8aed919f35b47802c17916024ece4120374707dd4dd766759c91087e3107876bc04e40781c525dee8c03f4e7a7c8601ad63c6b51d89e2a656645d71fa32aa86f2b4e592a6f9939"
+  },
+  {
+    "id": "web-13",
+    "topic": "website",
+    "difficulty": "hard",
+    "setId": "ch4-web-a",
+    "passage": "রাফির কলেজের সাইটে শুধু পরিচিতি লেখা আছে, যা বছরে একবার কেউ হাতে বদলে দেয়। নীলার অনলাইন দোকানে ক্রেতা লগইন করে অর্ডার দেয় আর পণ্যের সংখ্যা নিজে থেকে বদলে যায়।",
+    "text": "নীলার সাইট চালাতে প্রয়োজন—",
+    "statements": [
+      "ডেটাবেজ",
+      "PHP-এর মতো সার্ভারের ভাষা",
+      "ব্যবহারকারীর ইনপুট নেওয়ার ব্যবস্থা"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "d02a84d01fd7677b5d31cfd617d4766de999b2eab6ea8af5906dde8234f9416b09ce8be30e006766da735999ac935abff42b0ee5d436b2cc43345c9a61979bc142818c6274dc22f2da82699b0d74af56da4f9f1c93386dffadcd0a88163308dc8f4e2cb6e9393a3fe4beae2ea687f51f1165abcb5cf008eef1d8429dfa85837d4e06b739023ca10801d30b8a043222abb489d23141a0402c9af6aa5347e75eaadb8d656badf5abfdc979b3acce44f497f55536b0f0026d0986120ef5e6ac9427b28197484f6a7eb894323a14e54a12a34d7ae8f31d16f00840d15678884075b771b0cd3a31b9967e936e49b4c1d28793cd7a8d6ae174af5421769bb93e50be6f79686442ad1e37eab697c52fd070b8f0dc5206eb195e3aaedfa0bbc5667df86fa36fdcaaaff4c1460e712768a3595325cf99e1e3c5c13c3d393962f13a617d7cb27eb94e30636a99f2b5e4a8c347225cc192e2b29582f2101ffd9068ae5c348bfda035ca33de95aadf429c3891bb5b516fca67cc8a52799ac43cfe4d624e7c0db0f0b4b69d34c16beb7dac816e01186fa0"
+  },
+  {
+    "id": "web-14",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "স্ট্যাটিক ওয়েবসাইটের ক্ষেত্রে প্রযোজ্য—",
+    "statements": [
+      "HTML ও CSS দিয়ে তৈরি করা যায়",
+      "PHP ও MySQL আবশ্যক",
+      "পেজের কনটেন্ট নির্দিষ্ট থাকে"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "db4657cc79abc2298100a5304361ccd08ec78267572c9a039e4f8d98411e30454a532b1b4682aa8627221c954b56645645ad46f69331b2392662ee459b038ed9ec1451b3ef35a4e7735d35ca30420c4cbd7633812109753cd6d08e3c4086196940c5d39bda18c1397880077d1aa5cd141030848a05013946e722aff149bca2e666ec3047ee994fcda520227d83f74a8129c84c5d7cf3d4d7d5954ad95fc7dadcfc437c38055ee003010a853a7a2843ef848712ca3fefe60c52c642645d8d929000841ee17cd996ff0694d867ceb32fa9eefd27305a70af56db5582dd80e329dca265c0b9743d94fab3c01d743c6d"
+  },
+  {
+    "id": "web-15",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "স্ট্যাটিক ও ডাইনামিক ওয়েবসাইটের তুলনায় কোনটি সঠিক?",
+    "options": [
+      "ডাইনামিক সাইট বেশি নিরাপদ, কারণ তাতে যোগাযোগ একমুখী",
+      "স্ট্যাটিক সাইট বেশি নিরাপদ, কারণ তাতে যোগাযোগ একমুখী",
+      "স্ট্যাটিক সাইট তৈরিতে খরচ বেশি",
+      "ডাইনামিক সাইট ব্রাউজারে বেশি দ্রুত লোড হয়"
+    ],
+    "secret": "e20fbe86ae5c432210009f0ae7cf010f5ba8e2e2e73e71438018eaa3efd938fc098cf2c42c9c39490ade9ff30ec7a502c948509278d0128c75c069713533d2fba9df23683d9efef02f34a0a8e638792a4e8c95373cbc2355ee3473ea832feb7117161216389de6afb1af99d42b3d0b97e528f3cad22957f0c1bf769fe2c7f0e439fed72dcaf0ed3efefcc6128a18ad3b11afb9acfa88d6da047850f4c18c5305eadd0a1a1215ee6aa90d113c8bb3f928084f5271fe78d3dbf4cba7983fa69eda59cd2b1e9900c5d79464b0ddb4a6f40f8c17c08460a02cc026e7f4b3eb5fadf2616b0dfdb8860d5e8ab6a318d0b813b6ef4ec94677e6a557648d6870e697c49aaa71e168eac6cbf112ef1b02a91e9815ddada22e533b23f3e04100e988142ff796f64299d42f8d9e2078e49646be7ff53fe102bc8306eb613b2b33d28c852fbc0d6f6489ecab89592bc9012a08384fa152098a28ed175637703443e17f041d64f2fffbd12c1cc89a134c1029ccbeaa9c063e0250ba7386a062f413ae4a284258d772f6a4894cdc28ff66803e62436dcf2129c381b6954f8c6f86c6feb89853fc3d24b96122a4ffbcf585caa377e408edf4d5e611143d3ae471f79319be1ac98edc18960264cc03b404f8fbf624f48acf1c0acaec971c581f09f78c3c43d165d7d3723d80a5340bf9ebfcf8767a7660a1a6d1c3e32af5b7"
+  },
+  {
+    "id": "web-16",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "কোন ওয়েবসাইটটি ডাইনামিকের সবচেয়ে ভালো উদাহরণ?",
+    "options": [
+      "একজন শিল্পীর ছবির পোর্টফোলিও",
+      "ক্রিকেটের লাইভ স্কোরের সাইট",
+      "একটি স্কুলের পরিচিতি পাতা",
+      "একটি দোকানের ঠিকানার পাতা"
+    ],
+    "secret": "036568ec06b2b6e513e641a7a1d87ae66590bad70c0b684c949bef8a192bee7b915d1c92a864df41ca1cc25d2d680822a944a30f88fac830db4a8154cf1f89d5f89a7aaec0bb5a16b2aecfdcd8cc72a734a504a456031edcc3c6ecdfdd73eb83291b514577fc4360e25034ab13bca03ba1b59c5b025a9ac657be1f2dbd2462df1d3c328c7e2e2e929ad42a9fb36b33acbbb99e65838473dac974a6b60018a8b61a9c34705b1e34cb26c82e85f05ad168692863a9f4c6a0b4f67474db48819160f75c3e771ca4337ca679778957b8c820f6993ff418bf03d0ee36cfd85760cc43c1c3edcdec1d146cfabac7105ae5645f30748eaaa6c7c7627090cab32f4c143faa95bdbdd0c01aa84360309727e91752d751a9349adc9d82e385d6eeac5a8e7f9e4c3a75a71051cfb1834af9dab610d4ca28323cec7049108e2009ebe2265a880fb8abb8d2ae6ce639047a6c818aac16c4a584f3e2c457611ca3d77640fbb09e5fe8d24ba77d649a553d52a1ec927b0c5da8f859e77d7f6653a686ca55ecc4"
+  },
+  {
+    "id": "web-17",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "ওয়েবের ফ্রন্ট এন্ডে ব্যবহৃত হয়—",
+    "statements": [
+      "HTML",
+      "CSS",
+      "PHP"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "9e35f54a01ced854f4b6b8f9f40c41b4acf6e464b2ac7c5684f345341438f9bdb06befcf62782c5e6fd1a4637580fa96d67ff113fe83de0c083ec532abbe695918a7c5ab485d00f9853cf7ec3751e6f8ab63f3a457c8d7c9ce8597943b23a8ba548a5992cbf7ce0e7ec35162ad37bd7d5193dd5b701b5576b560c5f9396335d53c8865105cfee1f657016c0d339563ad15bca5a5c8af58251e9f328a8b159c1bc4a3a82a4a5a42546381e7819b323d126d61ba635f8dc61f800c7cbac28b4bc99f2c8aba0f0684bc3d0cb98c4cd0fe9e48a05e30da7fa55a6255afb33a13d002f4536e7d389156f8d2246488ed7b592d184556fef64aa192d0669b07bb483c2d9e7bcac563bb557dbeaa463099953ae811cc233da5ff62c5821f6942e83fed"
+  },
+  {
+    "id": "web-18",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "CSS-এর পূর্ণরূপ কোনটি?",
+    "options": [
+      "Case Style Sheet",
+      "Cascading Style Sheet",
+      "Cascading Styling Script",
+      "Computer Style Sheet"
+    ],
+    "secret": "7109bf43256391b4872e0018e2fbffdccd7bd91566fdc193cb7644f440d6e28bf490ac2d8b63583503d303e0ee61fa4c3e911f6a8fda8a81bec0a69050ea6e7c8dabf83e001f5145d7636d1b2d6747f0d0e6533c4e1ebe025aace2717457ef5f8ded4056b1cca552ea2532c3dd535539b4d549018c95d2c55e9fcf109fda67abef9d196ce40249668d31e0f96fa5f7eab4a4d498651351550a2324007d639c50cf7bf438de61ab7c779bf75e6bec6836a04e77455de40f6b1274020ccb0bfea690cc5208356472dde1aef229749a2963d31d34d85dea63564dcb1e41ddbd069e22b3e879d7a5bcae3cabee2b85a981985afb96233f"
+  },
+  {
+    "id": "web-19",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "ওয়েবসাইট ও ওয়েবপেজ সম্পর্কে সঠিক—",
+    "statements": [
+      "একটি ওয়েবসাইটে অনেকগুলো ওয়েবপেজ থাকতে পারে",
+      "প্রতিটি ওয়েবপেজের নিজস্ব URL থাকে",
+      "প্রতিটি ওয়েবপেজের জন্য আলাদা ডোমেইন নাম কিনতে হয়"
+    ],
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "secret": "b2e007e8734835a8b5669f35e501743a4def36af060f1097f211e473e366a85b5657cd9cca30cc5584a6983adb8e3f28a121658eb005189fde66a75e309a4914a063f97a9a837df5de28b04f04381594e8858a133e092578655a9d5567af2ec3d650d0737aa28e5aaeaffc69a90ae4e4d3de25ba0a90eba8edad8df99142365356affd9dfb8bca8049c754833a79c349316b8ac2a9a13ca7d91df724cf1d53380454d6213e20bd73cddca6b577512b17535a5db990c9374c50fcfebbc748fb86220ee1bf75f0f6b1581bc957cd31aed9b2e573766d054eae43df6b6e5afdf016d979135a0edfa238fcf79074d5ec6c17c7992d68119d4f12ef77b2c8442a085e6172bc8fdcc20755c1540d6d7fb88800047992031233ce982e2028142ab5b178c899a226410f5fffb5f0bb8c776f29d881b2dc04d558336c23a6bc697088668acce6683afcac0796e59b3445884a96633ecfba1fc8b36a3479"
+  },
+  {
+    "id": "web-20",
+    "topic": "website",
+    "difficulty": "easy",
+    "text": "কোনো ওয়েবসাইটে ঢুকলে প্রথমে যে পেজটি দেখা যায়, তাকে কী বলে?",
+    "options": [
+      "হোমপেজ",
+      "সাবপেজ",
+      "ওয়েব পোর্টাল",
+      "ব্যাকপেজ"
+    ],
+    "secret": "5109a837d1ebf1f64c226bc265a6ce754c3d24baf0f15eca783d611c150ba92bcf1ef3f5dbe9da43858d98ae02ffb2b5775aad709e72adba49f904d2354470e1e817b6238ec901253ebc9b906414fb8f740e74339bb65771b326c6b4cd38020f0f2745f7676e7788a5a5fd3c52499393c29d3d0a636dee1de1b0dcf4302830e67303dafb773dd2721219ee59696c2e0a4b1f91b66950430dcd01824369be8a29423781273e8d61e8a8d7098a721275fdf6160e2d4461723bae712da4395f3d7fc6ffe8da7436b63edd4be16e4e81473b9320dae33e6e29ad04cb2c014b89376cf7fbf69f5a97e969f43a895d4405534306a703b6cc85"
+  },
+  {
+    "id": "web-21",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "একটি ওয়েবসাইটে নানা লিংক, কনটেন্ট ও সেবা এক জায়গায় গুছিয়ে দেখানো হলে তাকে কী বলে?",
+    "options": [
+      "ব্লগ",
+      "পোর্টফোলিও",
+      "ওয়েব পোর্টাল",
+      "ওয়্যারফ্রেম"
+    ],
+    "secret": "c55c752a6a6ce8793927f3ec18978b98395c30c2d528e727f0d825dcb898b1c22ccf576fb87d5eaa5f2929285e4b6ae0a1a10c31e7c8dde54c57c7d87864dd65e520e5b6869736bcc9525e559453a6ad416c61165feecb8390279123312d4d251eb730835a93255f33586cffac5bc0c276a032ae036697be88f3c430b94c1e996453cd213b9534ebe3b619c39b6410b077dfa392a6354efb36d132cb8ff0f8c8a3c835a7aeb43b175134454e742ab8b175ed9d6e53852865d09549fee9f4e6e775c020371d5f73334ccfdfb4cc967241ff07aed9bc57610a4886ca86f94c28096c3b5d8003fc4bba22009385bb9fa85487dfaa68eadf3db62b2d80b2db33d99c4887053920d76294db44f83d562666530041176048831d9cd9857a1942218d018cef865d2f05db17c1d581a4613d39b6b63de781ffba7ba00e9b97f3b728e4b394af1ebc07866e10235bdefd"
+  },
+  {
+    "id": "web-22",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "ব্রাউজারে ঠিকানা লিখে Enter চাপার পর সঠিক ক্রম কোনটি?",
+    "options": [
+      "সার্ভার → DNS → ব্রাউজার → পেজ দেখা",
+      "DNS থেকে IP নেওয়া → সার্ভারে HTTP রিকোয়েস্ট → HTML আসা → পেজ দেখা",
+      "HTML আসা → DNS থেকে IP নেওয়া → HTTP রিকোয়েস্ট → পেজ দেখা",
+      "HTTP রিকোয়েস্ট → HTML আসা → DNS থেকে IP নেওয়া → পেজ দেখা"
+    ],
+    "secret": "9967b0962bd83dd6e36d6985081c1b87f1c77e37dc8e6f4a61f5872cda3a14940bd455dbded0ab39c3a29f4a94f220d4f9d4b94803694d1ae69116a7e9512cdcbd5f2d61aaf1d2ae9d526585a8c85cac9d0b383ad259b7db221a1ccab893a059a4f38e1c3cc848a9c7d3dfa81c605e015f0ae654185f0403104c4cc97b1bcc51d3bc4bc9bc4d11ef8a88db18d7ec3a60899013ac9133b060932f66ab3b5d87ec46d5913dbf3fb4153da6dd5b12275fca3a110830f8fac056403d3e56328a6c9612551cadf3b17c02db610a9ab1c388d6a9a28715ab6cb763ba6c2672cca4a3782c8bd133477c8a7849384fa47e2c5422b355aa7fd3d8b8f29994e3f54a5ab7178158d7a2c60771941e681b64c775a3572dc8581013edef2f73def5754999ff8597c5862c5dc7427824c8f591a9d74cf71a1ffa9a2bfbc0cd9954d0719819e3c2d545b2877670061b5ffc731d8395cdc7022ca7c3f7a77bad529b"
+  },
+  {
+    "id": "web-23",
+    "topic": "website",
+    "difficulty": "hard",
+    "text": "NCSA-এর কোন ব্রাউজারের মাধ্যমে HTML পরিচিতি লাভ করে?",
+    "options": [
+      "নেটস্কেপ",
+      "মোজাইক",
+      "ইন্টারনেট এক্সপ্লোরার",
+      "ফায়ারফক্স"
+    ],
+    "secret": "1c4e0f4d172d53dff8fe7c47197280dc9e7ad58e64609035fad20d94f8103f87666309ba21d17533cd2553ade524d155ed242e200e124e3caa8ee5528383ad7a143ee75b671af1e58ef7d02ebbcda687a071416b06da93efdb2a2551fef3fa642df4db373107b52e9bd07bdfed4ed4d9c389a44ac9a7ec0884927cd86a3b852e2fee013083e4b2a2d70764ab4f73ff4b8e665ec0c8522193900909a26e707cf4bbc283bb6dd038707f3047c00045d595be665d3be4ab5a5a36c7259f9ee9c2cf6d80f2d1f7ac9afe82d1e437b6d336cd8f93c5f5e69968e59eeb8e09010b28e7e4e60fb8d55f946a"
+  },
+  {
+    "id": "web-24",
+    "topic": "website",
+    "difficulty": "medium",
+    "text": "ওয়েব ক্লায়েন্ট ব্যবহারকারীর ইনপুট নিয়ে ওয়েব সার্ভারে পাঠানোকে কী বলে?",
+    "options": [
+      "রিকোয়েস্ট",
+      "রেসপন্স",
+      "আপলোড",
+      "হোস্টিং"
+    ],
+    "secret": "5dde38b5fb598b0982db1c28531c50fb6a1d558cd2c9285475621e9ca152e40cd43c5bbf2a822c4d9393f55ee8642e4c9371bc81c7212a8aeb4c92f2cf4dff89fca76f8671a1d1c717a5eb7baa9d7e45d872a232d696f46ad3b5f85a71011e04cf9cbb919583ddb0e74a3c05d145bbe1245ec6a5b567fee02e8df297f923177ca24712f2482b6c5c3c383735d6223adeafcd1cb78cfa75c36443302d51408f8e9ec5d88892924bad3c81b89f8a175126e71adf01d9cfa524a2d53081862aeb0997005f55555ee25e7c6cdfe8a23cec3ebb2555def4f8130f03b348056e2c679e1c9d574ac09ae0f3fdadc0b12e20f19f26e3ed034ffb3b3cccd4469f7d82d7d836d12fbfe18c09b12873cf0b24d045b5bcf5706ccb7b9b00605eac"
   }
 ]
