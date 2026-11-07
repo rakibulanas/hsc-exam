@@ -1,3 +1,4 @@
+import type { ChapterId } from "./exam-config";
 import type { ExamSession } from "./types";
 
 // Keeps the running exam in the browser, so a refresh or a closed tab
@@ -6,20 +7,25 @@ import type { ExamSession } from "./types";
 
 const STORAGE_KEY = "hsc-number-exam-v2";
 
-// Set after the first finished exam. It opens the page with all the answers.
-const FINISHED_KEY = "hsc-number-exam-finished";
+// Set after the first finished exam of a chapter. It opens the page with
+// all the answers of that chapter only. Chapter 3 keeps its first key, so
+// students who already finished it do not lose the page.
+const FINISHED_KEYS: Record<ChapterId, string> = {
+  ch3: "hsc-number-exam-finished",
+  ch4: "hsc-web-exam-finished",
+};
 
-export function hasFinishedExam(): boolean {
+export function hasFinishedExam(chapterId: ChapterId): boolean {
   try {
-    return window.localStorage.getItem(FINISHED_KEY) === "yes";
+    return window.localStorage.getItem(FINISHED_KEYS[chapterId]) === "yes";
   } catch {
     return false;
   }
 }
 
-export function markExamFinished() {
+export function markExamFinished(chapterId: ChapterId) {
   try {
-    window.localStorage.setItem(FINISHED_KEY, "yes");
+    window.localStorage.setItem(FINISHED_KEYS[chapterId], "yes");
   } catch {
     // Nothing to do: the button still shows on the result page.
   }

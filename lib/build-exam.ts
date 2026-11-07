@@ -1,9 +1,15 @@
-import { TOPICS, type Topic } from "./exam-config";
+import { getChapter, type ChapterId, type Topic } from "./exam-config";
 import questionFile from "./questions.locked.json";
 import type { ExamSession, LockedQuestion } from "./types";
 
-// All the questions, with answers encrypted. Made from data/questions.json.
+// All the questions of all chapters, with answers encrypted.
 export const QUESTION_BANK = questionFile as LockedQuestion[];
+
+// The questions of one chapter.
+export function getChapterBank(chapterId: ChapterId): LockedQuestion[] {
+  const topicIds = getChapter(chapterId).topics.map((topic) => topic.id);
+  return QUESTION_BANK.filter((question) => topicIds.includes(question.topic));
+}
 
 // A block is one question, or the 2 questions that share a passage.
 type Block = LockedQuestion[];
@@ -68,12 +74,13 @@ function shuffleOptions(question: LockedQuestion): LockedQuestion {
 }
 
 // Creates a fresh exam: new questions, new order, new option order.
-export function createExam(minutes: number): ExamSession {
-  const blocks = shuffle(TOPICS.flatMap(pickBlocksForTopic));
+export function createExam(chapterId: ChapterId, minutes: number): ExamSession {
+  const blocks = shuffle(getChapter(chapterId).topics.flatMap(pickBlocksForTopic));
   const questions = blocks.flat().map(shuffleOptions);
   const startedAt = Date.now();
 
   return {
+    chapterId,
     questions,
     answers: {},
     flagged: [],

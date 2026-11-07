@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { createExam } from "@/lib/build-exam";
+import { CHAPTERS, getChapter, type ChapterId } from "@/lib/exam-config";
 import {
   clearExam,
   hasFinishedExam,
@@ -30,6 +31,9 @@ function restoreExam(): ExamSession | null {
 export default function ExamApp() {
   const [session, setSession] = useState<ExamSession | null>(restoreExam);
   const [showingAll, setShowingAll] = useState(false);
+  const [chapterId, setChapterId] = useState<ChapterId>(
+    session ? getChapter(session.chapterId).id : CHAPTERS[0].id,
+  );
 
   useEffect(() => {
     if (session) {
@@ -37,7 +41,7 @@ export default function ExamApp() {
     }
 
     if (session?.submittedAt) {
-      markExamFinished();
+      markExamFinished(getChapter(session.chapterId).id);
     }
   }, [session]);
 
@@ -65,14 +69,16 @@ export default function ExamApp() {
   }
 
   if (showingAll) {
-    return <AllQuestions onBack={toggleAllQuestions} />;
+    return <AllQuestions chapterId={chapterId} onBack={toggleAllQuestions} />;
   }
 
   if (!session) {
     return (
       <StartScreen
-        canSeeAll={hasFinishedExam()}
-        onStart={(minutes) => setSession(createExam(minutes))}
+        chapterId={chapterId}
+        canSeeAll={hasFinishedExam(chapterId)}
+        onChooseChapter={setChapterId}
+        onStart={(minutes) => setSession(createExam(chapterId, minutes))}
         onSeeAll={toggleAllQuestions}
       />
     );

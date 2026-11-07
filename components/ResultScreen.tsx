@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { EXAM, TOTAL_MARKS } from "@/lib/exam-config";
+import { EXAM, getChapter, TOTAL_MARKS } from "@/lib/exam-config";
 import { formatDuration, toBangla } from "@/lib/format";
 import { getResult } from "@/lib/score";
 import type { ExamSession } from "@/lib/types";
@@ -26,7 +26,7 @@ export default function ResultScreen({ session, onRestart, onSeeAll }: Props) {
   return (
     <main className="result">
       <section className="card score-card">
-        <p className="eyebrow">{EXAM.title} · ফলাফল</p>
+        <p className="eyebrow">{getChapter(session.chapterId).title} · ফলাফল</p>
         <p className="score">
           {toBangla(result.marks)}
           <span>/{toBangla(TOTAL_MARKS)}</span>

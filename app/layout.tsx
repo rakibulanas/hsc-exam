@@ -17,8 +17,8 @@ const displayFont = Anek_Bangla({
 });
 
 export const metadata: Metadata = {
-  title: "সংখ্যা পদ্ধতি পরীক্ষা",
-  description: "এইচএসসি আইসিটি তৃতীয় অধ্যায়ের সংখ্যা পদ্ধতি নিয়ে এমসিকিউ পরীক্ষা।",
+  title: "এইচএসসি আইসিটি পরীক্ষা",
+  description: "এইচএসসি আইসিটি তৃতীয় ও চতুর্থ অধ্যায়ের এমসিকিউ পরীক্ষা।",
 };
 
 export const viewport: Viewport = {
